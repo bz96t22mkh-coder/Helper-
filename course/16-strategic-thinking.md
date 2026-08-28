@@ -75,6 +75,7 @@ Competent+ needed to progress to Section 17.
 ## 13. Day-by-Day Training Plan
 
 ### Day 1 — Baseline + First-Principles Thinking (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Baseline assessment | 15 | Complete the Section 11 baseline task. |
@@ -83,6 +84,7 @@ Competent+ needed to progress to Section 17.
 | Reflection | 15 | Did the fundamentals actually support the conventional approach, or not? |
 
 ### Day 2 — Second-Order Thinking (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Recall yesterday's breakdown. |
@@ -91,6 +93,7 @@ Competent+ needed to progress to Section 17.
 | Reflection | 20 | Where did the second- or third-order effect change how good the plan actually looks? |
 
 ### Day 3 — Systems Thinking at Strategic Scale (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -99,14 +102,16 @@ Competent+ needed to progress to Section 17.
 | Reflection | 15 | Where's a hidden feedback loop (positive or negative) you hadn't noticed? |
 
 ### Day 4 — Opportunity Cost & Risk/Reward at Scale (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
-| Learn | 10 | Reread opportunity cost (Section 12) and risk/reward framing (Section 4) at strategic scale. |
+| Learn | 10 | Reread opportunity cost from Section 12 (Decision-Making) and this section's risk/reward framing (Part 4 above), now applied at strategic scale. |
 | Exercise: Not-doing drill | 25 | List 3 things you could stop doing to free capacity for higher-leverage work. |
 | Reflection | 20 | What's stopping you from actually cutting one of these? |
 
 ### Day 5 — Checkpoint 1 (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Warm-up | 5 | Recall this week's tools. |
@@ -116,6 +121,7 @@ Competent+ needed to progress to Section 17.
 | Reflection | 10 | Progress vs. Day 1. |
 
 ### Day 6 — Scenario Planning (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -124,6 +130,7 @@ Competent+ needed to progress to Section 17.
 | Reflection | 15 | Does your current plan actually survive the worst-case scenario, or does it assume best-case? |
 
 ### Day 7 — Leverage & Resource Allocation (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -133,6 +140,7 @@ Competent+ needed to progress to Section 17.
 | Reflection | 5 | What's one reallocation you'll make starting this week? |
 
 ### Day 8 — Anticipating Consequences Under Complexity (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -141,6 +149,7 @@ Competent+ needed to progress to Section 17.
 | Reflection | 15 | What did combining the lenses surface that a single lens would have missed? |
 
 ### Day 9 — Integration & Exit Assessment (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Warm-up | 5 | Recall the full toolkit. |

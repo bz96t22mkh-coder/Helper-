@@ -77,6 +77,7 @@ Competent+ needed to progress to Section 19.
 ## 13. Day-by-Day Training Plan
 
 ### Day 1 — Baseline + Breath-Focused Meditation (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Baseline assessment | 15 | Complete the Section 11 baseline task. |
@@ -85,6 +86,7 @@ Competent+ needed to progress to Section 19.
 | Reflection | 15 | How many times did you notice wandering? (More noticing = more reps, not failure.) |
 
 ### Day 2 — Informal Mindfulness (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Quick sit (3 min). |
@@ -94,6 +96,7 @@ Competent+ needed to progress to Section 19.
 | Reflection | 10 | What did you notice doing a routine activity with full attention that you'd normally miss? |
 
 ### Day 3 — Extending the Practice (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Recall yesterday's mindfulness activity. |
@@ -102,6 +105,7 @@ Competent+ needed to progress to Section 19.
 | Reflection | 20 | What's your specific pattern of distraction (planning, replaying, physical restlessness)? |
 
 ### Day 4 — Checkpoint 1: Meditation (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Warm-up | 5 | Quick sit. |
@@ -111,6 +115,7 @@ Competent+ needed to progress to Section 19.
 | Reflection | 10 | Progress vs. Day 1's 3-minute baseline. |
 
 ### Day 5 — Grounded Goal-Setting (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Sit for 5 min. |
@@ -119,6 +124,7 @@ Competent+ needed to progress to Section 19.
 | Reflection | 15 | What made the vague version easier to avoid acting on? |
 
 ### Day 6 — Visualization as Mental Rehearsal (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Sit for 5 min. |
@@ -127,14 +133,16 @@ Competent+ needed to progress to Section 19.
 | Reflection | 15 | Did rehearsing the process reveal a step you hadn't planned for? |
 
 ### Day 7 — Identity-Based Habits (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Sit for 5 min. |
-| Learn | 15 | Read identity-based habit change (Section 6), reconnecting to Section 2's habit loop. |
+| Learn | 15 | Read identity-based habit change (Part 6 above), reconnecting to Section 2's (Productivity & Time Management) habit loop. |
 | Exercise: Identity-statement drill | 25 | Write 2–3 "I am someone who ___" statements tied to actual daily actions; check today's behavior against them. |
 | Reflection | 15 | Does framing it as identity change how skipping the action would feel? |
 
 ### Day 8 — Self-Efficacy & Positive Expectation (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Sit for 5 min. |
@@ -143,6 +151,7 @@ Competent+ needed to progress to Section 19.
 | Reflection | 15 | What's the difference between this and just "thinking positive"? |
 
 ### Day 9 — Checkpoint 2: Integration Start (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Warm-up | 5 | Sit for 5 min. |
@@ -152,15 +161,17 @@ Competent+ needed to progress to Section 19.
 | Reflection | 10 | Progress vs. Day 5. |
 
 ### Day 10 — Meditation as Live Regulation Tool (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Sit for 5 min. |
-| Learn | 10 | Read integrating meditation into daily regulation (Section 6), linking to Section 5's pause. |
+| Learn | 10 | Read integrating meditation into daily regulation (Part 6 above), linking to Section 5's (Emotional Intelligence) pause. |
 | Exercise: Micro-meditation drill | 15 | Practice a 60-second breath reset, ready to use in a real stress moment. |
 | Real-world task | 20 | Use it for real today in an actual moment of stress/reactivity, if one arises (or a deliberately induced mild-stress moment if not). |
 | Reflection | 10 | Did it change the intensity or your response to the moment? |
 
 ### Day 11 — Exit Assessment (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Warm-up | 5 | Sit for 5 min. |

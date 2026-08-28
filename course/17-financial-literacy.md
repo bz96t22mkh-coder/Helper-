@@ -78,6 +78,7 @@ Competent+ needed to progress to Section 18.
 ## 13. Day-by-Day Training Plan
 
 ### Day 1 — Baseline + Net Worth & Assets vs. Liabilities (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Baseline assessment | 10 | Complete the Section 11 baseline task. |
@@ -86,6 +87,7 @@ Competent+ needed to progress to Section 18.
 | Reflection | 10 | Did the number surprise you, in either direction? |
 
 ### Day 2 — Budgeting (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Recall your net worth number. |
@@ -94,6 +96,7 @@ Competent+ needed to progress to Section 18.
 | Reflection | 15 | Where do you suspect money is leaking without a clear budget? |
 
 ### Day 3 — Saving & Emergency Funds (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Recall your cash-flow-tracking so far. |
@@ -102,6 +105,7 @@ Competent+ needed to progress to Section 18.
 | Reflection | 15 | How far are you from that target, and what's one realistic step toward it? |
 
 ### Day 4 — Debt & Interest (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -111,6 +115,7 @@ Competent+ needed to progress to Section 18.
 | Reflection | 5 | What did seeing the actual math change about how you think about debt? |
 
 ### Day 5 — Checkpoint 1 (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Warm-up | 5 | Recall net worth + emergency fund target. |
@@ -120,6 +125,7 @@ Competent+ needed to progress to Section 18.
 | Reflection | 10 | Progress vs. Day 1. |
 
 ### Day 6 — Compound Interest & Inflation (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -128,6 +134,7 @@ Competent+ needed to progress to Section 18.
 | Reflection | 15 | What does inflation mean for cash sitting idle long-term? |
 
 ### Day 7 — Banking & Credit (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -136,6 +143,7 @@ Competent+ needed to progress to Section 18.
 | Reflection | 15 | Any concrete action to protect/improve your credit standing? |
 
 ### Day 8 — Investing Fundamentals (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -144,6 +152,7 @@ Competent+ needed to progress to Section 18.
 | Reflection | 10 | Where did you have to look something up to get the explanation right? |
 
 ### Day 9 — Risk & Diversification (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -152,6 +161,7 @@ Competent+ needed to progress to Section 18.
 | Reflection | 15 | How does this connect to any trading concepts you're already studying? |
 
 ### Day 10 — Checkpoint 2 (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Warm-up | 5 | Recall this week's concepts. |
@@ -161,6 +171,7 @@ Competent+ needed to progress to Section 18.
 | Reflection | 10 | Progress vs. Day 5. |
 
 ### Day 11 — Financial Planning Basics (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -169,6 +180,7 @@ Competent+ needed to progress to Section 18.
 | Reflection | 10 | What's the very next real action this plan calls for? |
 
 ### Day 12 — Recognizing Financial Scams (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -177,6 +189,7 @@ Competent+ needed to progress to Section 18.
 | Reflection | 15 | Has anything you've encountered in trading-adjacent spaces shown any of these red flags? |
 
 ### Day 13 — Real-World Integration Challenge (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Setup | 5 | Gather your real numbers from the week. |
@@ -184,6 +197,7 @@ Competent+ needed to progress to Section 18.
 | Reflection | 10 | What's most different about how you see your finances now vs. Day 1? |
 
 ### Day 14 — Exit Assessment (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Warm-up | 5 | Recall the full plan. |

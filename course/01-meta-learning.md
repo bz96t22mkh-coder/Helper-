@@ -77,6 +77,7 @@ You need **Competent** on the exit assessment to move to Section 2. (Mastery is 
 ## 13. Day-by-Day Training Plan
 
 ### Day 1 — Foundations: Active Recall & the Forgetting Curve (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Baseline assessment | 15 | Run the baseline task above (Section 11). Send me your recall + self-check notes. |
@@ -86,6 +87,7 @@ You need **Competent** on the exit assessment to move to Section 2. (Mastery is 
 | Reflection | 10 | Write 3–4 sentences: what surprised you about how little you actually remembered without looking? |
 
 ### Day 2 — Feynman Technique + Finding Gaps (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Recall-test yourself on yesterday's 3 questions from memory before checking answers. |
@@ -95,6 +97,7 @@ You need **Competent** on the exit assessment to move to Section 2. (Mastery is 
 | Reflection | 10 | What did the stumbles reveal that you *thought* you understood but didn't? |
 
 ### Day 3 — Deliberate Practice + Interleaving (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Quick recall-dump of Day 2's concept, no notes. |
@@ -104,6 +107,7 @@ You need **Competent** on the exit assessment to move to Section 2. (Mastery is 
 | Reflection | 10 | Did interleaving feel harder? Was recall actually better when you retested? |
 
 ### Day 4 — Mental Models + Designing a Study Session (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Recall-test Day 3's interleaved topics. |
@@ -113,6 +117,7 @@ You need **Competent** on the exit assessment to move to Section 2. (Mastery is 
 | Reflection | 10 | Where would you have naturally just re-read instead, before today? |
 
 ### Day 5 — Full Independent Application (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Recall-test Day 4's mental model examples. |
@@ -121,6 +126,7 @@ You need **Competent** on the exit assessment to move to Section 2. (Mastery is 
 | Reflection | 10 | Rate the session 1–5 on how "active" it felt vs. your old study habits, and why. |
 
 ### Day 6 — Exit Assessment (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Warm-up recall | 5 | Recall-dump Day 5's material. |

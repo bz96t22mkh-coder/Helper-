@@ -79,6 +79,7 @@ Competent+ needed to progress to Section 8.
 ## 13. Day-by-Day Training Plan
 
 ### Day 1 — Baseline + Self-Trust (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Baseline assessment | 15 | Complete the Section 11 baseline task. |
@@ -88,6 +89,7 @@ Competent+ needed to progress to Section 8.
 | Reflection | 5 | Which piece of evidence surprised you when you saw it written down? |
 
 ### Day 2 — Presence & Body Language (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Reread 2 items from your evidence list. |
@@ -97,6 +99,7 @@ Competent+ needed to progress to Section 8.
 | Reflection | 10 | How did resetting your posture change how you felt going in? |
 
 ### Day 3 — Voice (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -106,6 +109,7 @@ Competent+ needed to progress to Section 8.
 | Reflection | 10 | Did it feel different from the inside vs. how it probably sounded? |
 
 ### Day 4 — Eye Contact & Non-Verbal Confidence (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -114,6 +118,7 @@ Competent+ needed to progress to Section 8.
 | Reflection | 20 | Where did you want to look away, and what were you feeling right then? |
 
 ### Day 5 — Checkpoint 1 (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Warm-up | 5 | Reread evidence list. |
@@ -123,6 +128,7 @@ Competent+ needed to progress to Section 8.
 | Reflection | 10 | Progress vs. Day 1 self-ratings. |
 
 ### Day 6 — Comfort With Discomfort (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -132,6 +138,7 @@ Competent+ needed to progress to Section 8.
 | Reflection | 5 | Rate the actual discomfort (1–5) vs. what you predicted beforehand. |
 
 ### Day 7 — Handling Mistakes (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Recall yesterday's ladder rung. |
@@ -141,15 +148,17 @@ Competent+ needed to progress to Section 8.
 | Reflection | 10 | How did the practiced recovery feel compared to your normal reaction to a real mistake? |
 
 ### Day 8 — Handling Rejection (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
-| Learn | 10 | Read rejection-without-collapsing (Section 5), tying to Section 5 (EQ) regulation. |
+| Learn | 10 | Read rejection-without-collapsing (Part 5 above), tying back to Section 5's (Emotional Intelligence) regulation tools. |
 | Exercise: Warm-rejection drill | 20 | Practice a light, non-defensive, still-warm response to an imagined "no." |
 | Apply | 20 | Climb to ladder rung 3 today (often involves risk of a "no"). |
 | Reflection | 5 | Separate what happened from what it means about you — write both explicitly. |
 
 ### Day 9 — Becoming More Engaging (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -158,6 +167,7 @@ Competent+ needed to progress to Section 8.
 | Reflection | 20 | What did you hold back before that you let through today, and what happened? |
 
 ### Day 10 — Checkpoint 2 (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Warm-up | 5 | Reread evidence list. |
@@ -167,6 +177,7 @@ Competent+ needed to progress to Section 8.
 | Reflection | 10 | Progress vs. Day 5. |
 
 ### Day 11 — Charismatic Communication Synthesis (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -175,6 +186,7 @@ Competent+ needed to progress to Section 8.
 | Reflection | 15 | What did combining everything feel like vs. practicing pieces separately? |
 
 ### Day 12 — Real-World Integration Challenge (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Setup | 5 | Plan today's ladder-rung-5 attempt (your hardest one). |
@@ -182,6 +194,7 @@ Competent+ needed to progress to Section 8.
 | Reflection | 15 | Full account: what you felt beforehand, what you did, what happened, how you feel now. |
 
 ### Day 13 — Exit Assessment (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Warm-up | 5 | Reread evidence list. |

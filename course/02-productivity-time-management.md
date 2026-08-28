@@ -74,6 +74,7 @@ Competent+ needed to move to Section 3, but this section stays in **light mainte
 ## 13. Day-by-Day Training Plan
 
 ### Day 1 — Baseline + Priorities (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Baseline assessment | 15 | Run the Section 11 baseline: describe your current approach + a rough time audit of yesterday. |
@@ -83,6 +84,7 @@ Competent+ needed to move to Section 3, but this section stays in **light mainte
 | Reflection | 5 | What pattern do you see in what usually wins your time? |
 
 ### Day 2 — Time-Blocking Your Real Week (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Re-check yesterday's quadrant sort — anything change? |
@@ -92,6 +94,7 @@ Competent+ needed to move to Section 3, but this section stays in **light mainte
 | Reflection | 5 | Is this schedule realistic, or aspirational? Adjust one thing to make it more realistic. |
 
 ### Day 3 — Deep Work & Focus (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Did you follow yesterday's schedule at all today? Quick honest check. |
@@ -101,6 +104,7 @@ Competent+ needed to move to Section 3, but this section stays in **light mainte
 | Reflection | 5 | One environment change you'll make before tomorrow's block. |
 
 ### Day 4 — Distraction Management (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Recall yesterday's top distraction category. |
@@ -110,6 +114,7 @@ Competent+ needed to move to Section 3, but this section stays in **light mainte
 | Reflection | 10 | Was the improvement from willpower or from environment design? What does that tell you? |
 
 ### Day 5 — Procrastination (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Any task you've been avoiding this week? Name it. |
@@ -119,6 +124,7 @@ Competent+ needed to move to Section 3, but this section stays in **light mainte
 | Reflection | 10 | Did starting reduce the resistance? What made it easier once begun? |
 
 ### Day 6 — Habit Design (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Check: did today's course session happen at a consistent time this week so far? |
@@ -128,6 +134,7 @@ Competent+ needed to move to Section 3, but this section stays in **light mainte
 | Reflection | 10 | What's your fallback plan for a day the cue gets disrupted (travel, bad day)? Write it down now, not in the moment. |
 
 ### Day 7 — Long-Term → Weekly → Daily Cascade (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Quick recall: name your 3 fixed daily cues from this week. |
@@ -137,6 +144,7 @@ Competent+ needed to move to Section 3, but this section stays in **light mainte
 | Reflection | 10 | Before today, could you have explained how your daily schedule connected to a longer goal? |
 
 ### Day 8 — Weekly Review System (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Recall this week's goal cascade from Day 7. |
@@ -146,6 +154,7 @@ Competent+ needed to move to Section 3, but this section stays in **light mainte
 | Reflection | 10 | Commit to a fixed day/time this becomes a standing weekly ritual. |
 
 ### Day 9 — Energy Management (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Recall your weekly review's one system fix from Day 8. |
@@ -155,6 +164,7 @@ Competent+ needed to move to Section 3, but this section stays in **light mainte
 | Reflection | 10 | What low-value task is currently sitting in your best energy window that shouldn't be? |
 
 ### Day 10 — Integration & Exit Assessment (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Recall this week's full system: schedule, cues, distraction fixes, energy mapping. |

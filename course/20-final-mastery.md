@@ -34,6 +34,7 @@ Mastery is never claimed from lesson completion — only from demonstrated perfo
 ## 13. Day-by-Day Training Plan
 
 ### Day 1 — Kickoff: Review & Plan the Capstones (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 15 | Reread your Section 19 baseline self-assessment and spaced-repetition audit. |
@@ -42,6 +43,7 @@ Mastery is never claimed from lesson completion — only from demonstrated perfo
 | Reflection | 5 | Which cluster are you most and least confident about going in? |
 
 ### Day 2 — Capstone Cluster A: Voice & Connection (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Setup | 10 | Confirm today's real scenario: a real, moderately demanding social/communication situation (new person, a real story to tell, an opinion to defend, a moment requiring emotional awareness). |
@@ -50,6 +52,7 @@ Mastery is never claimed from lesson completion — only from demonstrated perfo
 | Reflection | 5 | Compare to your Section 19 baseline ratings for this cluster. |
 
 ### Day 3 — Capstone Cluster B: Influence & Leadership (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Setup | 10 | Confirm today's real scenario: a real disagreement, negotiation, networking opportunity, or leadership moment. |
@@ -58,6 +61,7 @@ Mastery is never claimed from lesson completion — only from demonstrated perfo
 | Reflection | 5 | Compare to your Section 19 baseline ratings for this cluster. |
 
 ### Day 4 — Capstone Cluster C: Mind & Systems (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Setup | 10 | Confirm today's real scenario: a real, moderately complex problem/decision (could combine a productivity, financial, or strategic real question). |
@@ -66,6 +70,7 @@ Mastery is never claimed from lesson completion — only from demonstrated perfo
 | Reflection | 5 | Compare to your Section 19 baseline ratings for this cluster. |
 
 ### Day 5 — Final Compilation & Ongoing Maintenance Plan (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Compile | 15 | Build the full reassessment table: all 19 skill areas, Beginner→Mastery, with the evidence from Days 2–4 (and Section 19 for the integration angle). |

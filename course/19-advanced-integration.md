@@ -60,6 +60,7 @@ Competent+ across the combined exercises needed to progress to Section 20.
 *Each day: a short reminder pull (5–10 min) from the relevant prior sections, then one substantial combined exercise, then a skills-used debrief.*
 
 ### Day 1 — Baseline + Kickoff (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Baseline self-assessment | 25 | Rate yourself 1–6 on all 18 prior sections' mastery scales. |
@@ -69,6 +70,7 @@ Competent+ across the combined exercises needed to progress to Section 20.
 
 ### Day 2 — Negotiation Under Emotional Pressure
 *(Negotiation + EQ + Communication + Confidence)*
+
 | Segment | Min | What to do |
 |---|---|---|
 | Skill-audit | 5 | Predict which sections you'll need. |
@@ -78,6 +80,7 @@ Competent+ across the combined exercises needed to progress to Section 20.
 
 ### Day 3 — Leading Through Disagreement
 *(Leadership + Debating + Communication + EQ)*
+
 | Segment | Min | What to do |
 |---|---|---|
 | Skill-audit | 5 | Predict which sections you'll need. |
@@ -87,6 +90,7 @@ Competent+ across the combined exercises needed to progress to Section 20.
 
 ### Day 4 — High-Stakes Networking Introduction
 *(Articulation + Social Skills + Confidence + Storytelling)*
+
 | Segment | Min | What to do |
 |---|---|---|
 | Skill-audit | 5 | Predict which sections you'll need. |
@@ -95,6 +99,7 @@ Competent+ across the combined exercises needed to progress to Section 20.
 | Debrief | 10 | Tag skills used. |
 
 ### Day 5 — Checkpoint: Mid-Point Combined Review (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Warm-up | 5 | Recall Days 1–4's skill tags. |
@@ -104,6 +109,7 @@ Competent+ across the combined exercises needed to progress to Section 20.
 
 ### Day 6 — Strategic Financial Decision
 *(Critical Thinking + Decision-Making + Strategic Thinking + Financial Literacy)*
+
 | Segment | Min | What to do |
 |---|---|---|
 | Skill-audit | 5 | Predict which sections you'll need. |
@@ -113,6 +119,7 @@ Competent+ across the combined exercises needed to progress to Section 20.
 
 ### Day 7 — High-Stakes Debate-Negotiation Hybrid
 *(Debating + Negotiation + Confidence + EQ)*
+
 | Segment | Min | What to do |
 |---|---|---|
 | Skill-audit | 5 | Predict which sections you'll need. |
@@ -122,6 +129,7 @@ Competent+ across the combined exercises needed to progress to Section 20.
 
 ### Day 8 — Teach and Lead a Group
 *(Meta-Learning + Storytelling + Articulation + Leadership)*
+
 | Segment | Min | What to do |
 |---|---|---|
 | Skill-audit | 5 | Predict which sections you'll need. |
@@ -130,6 +138,7 @@ Competent+ across the combined exercises needed to progress to Section 20.
 | Debrief | 10 | Tag skills used. |
 
 ### Day 9 — Capstone Combined Challenge + Spaced-Repetition Audit (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Warm-up | 5 | Recall the week's skill tags across all days. |

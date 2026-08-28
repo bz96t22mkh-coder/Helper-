@@ -78,6 +78,7 @@ Competent+ needed to progress to Section 9.
 ## 13. Day-by-Day Training Plan
 
 ### Day 1 — Baseline + Story Structure (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Baseline assessment | 15 | Complete the Section 11 baseline task. |
@@ -86,6 +87,7 @@ Competent+ needed to progress to Section 9.
 | Reflection | 15 | Where was your original baseline story weakest — setup too long, no clear complication, or flat resolution? |
 
 ### Day 2 — Hooks & Trimming (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Retell yesterday's tightened story from memory. |
@@ -95,6 +97,7 @@ Competent+ needed to progress to Section 9.
 | Reflection | 10 | What did you cut that you thought you needed? |
 
 ### Day 3 — Emotional Arc & Description (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up: retell one trimmed story. |
@@ -104,6 +107,7 @@ Competent+ needed to progress to Section 9.
 | Reflection | 10 | Retell it aiming explicitly for that emotional shift. |
 
 ### Day 4 — Conflict & Tension (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -112,6 +116,7 @@ Competent+ needed to progress to Section 9.
 | Reflection | 20 | Did naming the tension point change how the story felt to tell? |
 
 ### Day 5 — Checkpoint 1 (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Warm-up | 5 | Quick story recall. |
@@ -121,6 +126,7 @@ Competent+ needed to progress to Section 9.
 | Reflection | 10 | Progress vs. Day 1. |
 
 ### Day 6 — Humor in Delivery (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -129,6 +135,7 @@ Competent+ needed to progress to Section 9.
 | Reflection | 20 | Did the pause change how the punchline landed, even to yourself? |
 
 ### Day 7 — Delivery: Voice & Body Language (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -137,6 +144,7 @@ Competent+ needed to progress to Section 9.
 | Reflection | 15 | What changed in how it landed compared to a flatter delivery? |
 
 ### Day 8 — Spontaneous Storytelling (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -145,6 +153,7 @@ Competent+ needed to progress to Section 9.
 | Reflection | 15 | Which prompt was hardest to find a story for, and how did you handle the gap? |
 
 ### Day 9 — Real-World Integration Challenge (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Setup | 10 | Plan to tell a real story to a real person today, using the full toolkit. |
@@ -152,6 +161,7 @@ Competent+ needed to progress to Section 9.
 | Debrief | 15 | Report: what you used, their reaction, what you'd adjust. |
 
 ### Day 10 — Exit Assessment (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Warm-up | 5 | Quick story recall. |

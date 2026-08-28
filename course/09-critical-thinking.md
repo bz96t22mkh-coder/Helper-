@@ -75,6 +75,7 @@ Competent+ needed to progress to Section 10.
 ## 13. Day-by-Day Training Plan
 
 ### Day 1 — Baseline + Argument Structure (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Baseline assessment | 15 | Complete the Section 11 baseline task. |
@@ -83,6 +84,7 @@ Competent+ needed to progress to Section 10.
 | Reflection | 15 | Where was the weakest link in each — reason or evidence? |
 
 ### Day 2 — Assumptions (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Recall yesterday's breakdowns. |
@@ -91,6 +93,7 @@ Competent+ needed to progress to Section 10.
 | Reflection | 20 | Which assumption, if false, would most change your opinion? |
 
 ### Day 3 — Cognitive Biases (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -99,6 +102,7 @@ Competent+ needed to progress to Section 10.
 | Reflection | 20 | Which bias do you personally fall into most often? |
 
 ### Day 4 — Logical Fallacies (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -107,6 +111,7 @@ Competent+ needed to progress to Section 10.
 | Reflection | 15 | For one, write what a valid (non-fallacious) version of that argument would look like. |
 
 ### Day 5 — Checkpoint 1 (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Warm-up | 5 | Quick recall of this week's concepts. |
@@ -116,6 +121,7 @@ Competent+ needed to progress to Section 10.
 | Reflection | 10 | Progress vs. Day 1. |
 
 ### Day 6 — Counterarguments & Steelmanning (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -125,6 +131,7 @@ Competent+ needed to progress to Section 10.
 | Reflection | 5 | Did steelmanning change your confidence in your own opposing view at all? |
 
 ### Day 7 — Evidence Evaluation (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -133,6 +140,7 @@ Competent+ needed to progress to Section 10.
 | Reflection | 15 | Which piece of evidence did you previously trust more than it deserved? |
 
 ### Day 8 — Probabilistic Thinking (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -141,6 +149,7 @@ Competent+ needed to progress to Section 10.
 | Reflection | 15 | Where were you most miscalibrated, and in which direction? |
 
 ### Day 9 — Integration & Exit Assessment (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Warm-up | 5 | Recall this section's full toolkit. |

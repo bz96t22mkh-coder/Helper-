@@ -78,6 +78,7 @@ Competent+ needed to progress to Section 16.
 ## 13. Day-by-Day Training Plan
 
 ### Day 1 — Baseline + Taking Responsibility (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Baseline assessment | 15 | Complete the Section 11 baseline task. |
@@ -86,6 +87,7 @@ Competent+ needed to progress to Section 16.
 | Reflection | 15 | What did you want to blame externally that's actually yours to own? |
 
 ### Day 2 — Communication as a Leader (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Recall yesterday's reframe. |
@@ -94,6 +96,7 @@ Competent+ needed to progress to Section 16.
 | Reflection | 20 | Was your normal instinct vague/hedged? What changed when you forced clarity? |
 
 ### Day 3 — Delegation (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -102,6 +105,7 @@ Competent+ needed to progress to Section 16.
 | Reflection | 15 | Did you resist letting go of the "how"? |
 
 ### Day 4 — Accountability (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -110,6 +114,7 @@ Competent+ needed to progress to Section 16.
 | Reflection | 15 | How did addressing it early feel compared to your normal tendency to let it slide? |
 
 ### Day 5 — Checkpoint 1 (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Warm-up | 5 | Recall this week's toolkit. |
@@ -119,22 +124,25 @@ Competent+ needed to progress to Section 16.
 | Reflection | 10 | Progress vs. Day 1. |
 
 ### Day 6 — Decision-Making Under Responsibility (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
-| Learn | 10 | Read decision-making under responsibility (Section 5), tying to Section 12. |
+| Learn | 10 | Read decision-making under responsibility (Part 5 above), tying back to Section 12 (Decision-Making). |
 | Exercise: Communicated-decision drill | 30 | Make a real decision that affects others; communicate not just the decision but the reasoning behind it. |
 | Reflection | 15 | Did explaining the reasoning change how it was received (or how confident you felt making it)? |
 
 ### Day 7 — Conflict Management (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
-| Learn | 10 | Read conflict management as a leader (Section 5), tying to Sections 5 and 13. |
+| Learn | 10 | Read conflict management as a leader (Part 5 above), tying back to Section 5 (Emotional Intelligence) and Section 13 (Negotiation). |
 | Exercise: Direct-address drill | 30 | Address a real tension between people or with you directly this week, using EQ + negotiation tools rather than avoiding it. |
 | Reflection | 15 | What was your instinct — avoid, or address? What made addressing it directly easier or harder than expected? |
 
 ### Day 8 — Motivating Others (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -143,6 +151,7 @@ Competent+ needed to progress to Section 16.
 | Reflection | 15 | Were you previously using a one-size-fits-all approach with people who need different things? |
 
 ### Day 9 — Giving Feedback (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -151,6 +160,7 @@ Competent+ needed to progress to Section 16.
 | Reflection | 15 | How specific was your feedback compared to what you'd normally say? |
 
 ### Day 10 — Checkpoint 2 (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Warm-up | 5 | Recall the full toolkit. |
@@ -159,6 +169,7 @@ Competent+ needed to progress to Section 16.
 | Reflection | 25 | Progress vs. Day 5. |
 
 ### Day 11 — Trust & Leading Without Controlling (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -167,6 +178,7 @@ Competent+ needed to progress to Section 16.
 | Real-world task | 25 | Lead a real (even informal) group task this week using direction-setting, delegation, and follow-through, deliberately giving real autonomy rather than checking in constantly. |
 
 ### Day 12 — Exit Assessment (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Warm-up | 5 | Recall the full toolkit. |

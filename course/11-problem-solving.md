@@ -75,6 +75,7 @@ Competent+ needed to progress to Section 12.
 ## 13. Day-by-Day Training Plan
 
 ### Day 1 — Baseline + Problem Definition (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Baseline assessment | 15 | Complete the Section 11 baseline task. |
@@ -83,6 +84,7 @@ Competent+ needed to progress to Section 12.
 | Reflection | 15 | How did rewriting the baseline problem this way change how you saw it? |
 
 ### Day 2 — Root-Cause Analysis (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Reread yesterday's 3 problem statements. |
@@ -91,6 +93,7 @@ Competent+ needed to progress to Section 12.
 | Reflection | 20 | Was the root cause surprising compared to your first instinct? |
 
 ### Day 3 — Breaking Problems Down & Better Questions (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Recall yesterday's root cause. |
@@ -100,6 +103,7 @@ Competent+ needed to progress to Section 12.
 | Reflection | 10 | Which sub-problem is actually the highest-leverage one to solve first? |
 
 ### Day 4 — Generating Solutions (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Recall your top sub-problem. |
@@ -108,6 +112,7 @@ Competent+ needed to progress to Section 12.
 | Reflection | 15 | Which of the 8 surprised you — an idea you wouldn't have reached if you'd judged as you went? |
 
 ### Day 5 — Evaluating & Testing Solutions (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Reread yesterday's 8 solutions. |
@@ -117,6 +122,7 @@ Competent+ needed to progress to Section 12.
 | Reflection | 5 | Would you have picked this option without the evaluation step? |
 
 ### Day 6 — Systems Thinking + Harder Problem (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Recall your cheap test plan. |
@@ -126,6 +132,7 @@ Competent+ needed to progress to Section 12.
 | Reflection | 5 | What made the messier problem harder to pin down? |
 
 ### Day 7 — Integration & Exit Assessment (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Warm-up | 5 | Recall the full process steps. |

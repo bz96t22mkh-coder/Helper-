@@ -75,6 +75,7 @@ Competent+ needed to progress to Section 13.
 ## 13. Day-by-Day Training Plan
 
 ### Day 1 — Baseline + Reversible vs. Irreversible (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Baseline assessment | 15 | Complete the Section 11 baseline task. |
@@ -83,6 +84,7 @@ Competent+ needed to progress to Section 13.
 | Reflection | 15 | Are you over-deliberating on reversible ones, or rushing irreversible ones? |
 
 ### Day 2 — Opportunity Cost & Trade-Offs (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Recall yesterday's door-type sort. |
@@ -92,6 +94,7 @@ Competent+ needed to progress to Section 13.
 | Reflection | 10 | Did naming the opportunity cost change how attractive an option looked? |
 
 ### Day 3 — Expected Value (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Recall yesterday's trade-off table. |
@@ -100,6 +103,7 @@ Competent+ needed to progress to Section 13.
 | Reflection | 15 | Did this change which option looks best vs. your gut pick? |
 
 ### Day 4 — Emotional Decisions & Biases (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -108,6 +112,7 @@ Competent+ needed to progress to Section 13.
 | Reflection | 15 | Which bias was most present, and how did checking for it shift your thinking? |
 
 ### Day 5 — Information Thresholds (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -117,6 +122,7 @@ Competent+ needed to progress to Section 13.
 | Reflection | 5 | Where do you typically stall gathering info that wouldn't change anything? |
 
 ### Day 6 — Structured Framework on a Hard Decision (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Recall this week's tools. |
@@ -125,6 +131,7 @@ Competent+ needed to progress to Section 13.
 | Reflection | 10 | How does this decision feel now vs. before running the framework? |
 
 ### Day 7 — Post-Decision Review + Exit Assessment (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Warm-up | 5 | Recall the full toolkit. |

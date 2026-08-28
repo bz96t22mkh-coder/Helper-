@@ -79,6 +79,7 @@ Competent+ needed to progress to Section 7.
 ### PHASE A — Openers, Presence, Listening (Days 1–4)
 
 **Day 1 — Baseline + Starting Conversations (60 min)**
+
 | Segment | Min | What to do |
 |---|---|---|
 | Baseline assessment | 15 | Complete the Section 11 baseline task. |
@@ -88,6 +89,7 @@ Competent+ needed to progress to Section 7.
 | Reflection | 5 | How did it feel before/during/after? |
 
 **Day 2 — Body Language & Eye Contact (60 min)**
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Recall yesterday's opener attempt. |
@@ -97,6 +99,7 @@ Competent+ needed to progress to Section 7.
 | Reflection | 10 | Did adjusting posture/eye contact change how the interaction felt, for you or them? |
 
 **Day 3 — Better Social Questions (60 min)**
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Recall yesterday's interaction. |
@@ -105,6 +108,7 @@ Competent+ needed to progress to Section 7.
 | Reflection | 20 | Did the conversation go deeper than usual? Where did you want to jump to yourself instead? |
 
 **Day 4 — Listening & Reading Cues Socially (60 min)**
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Recall yesterday's follow-up chain. |
@@ -113,6 +117,7 @@ Competent+ needed to progress to Section 7.
 | Reflection | 20 | What's a cue you've been missing regularly? |
 
 **Day 5 — Checkpoint 1 (60 min)**
+
 | Segment | Min | What to do |
 |---|---|---|
 | Warm-up | 5 | Quick opener rehearsal. |
@@ -124,6 +129,7 @@ Competent+ needed to progress to Section 7.
 ### PHASE B — Sustaining, Rapport, Silence (Days 6–10)
 
 **Day 6 — Keeping It Going (60 min)**
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -131,6 +137,7 @@ Competent+ needed to progress to Section 7.
 | Reflection | 20 | Where did momentum drop, and what could have kept it going? |
 
 **Day 7 — Building Rapport (60 min)**
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -139,6 +146,7 @@ Competent+ needed to progress to Section 7.
 | Reflection | 20 | Did the other person visibly open up more? |
 
 **Day 8 — Handling Silence & Avoiding Awkwardness (60 min)**
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -148,6 +156,7 @@ Competent+ needed to progress to Section 7.
 | Reflection | 10 | What actually happened during the silence — was it as bad as feared? |
 
 **Day 9 — Making People Comfortable (60 min)**
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -156,6 +165,7 @@ Competent+ needed to progress to Section 7.
 | Reflection | 15 | What specifically did you do differently, and what response did you get? |
 
 **Day 10 — Checkpoint 2 (60 min)**
+
 | Segment | Min | What to do |
 |---|---|---|
 | Warm-up | 5 | Quick review of this week's techniques. |
@@ -167,6 +177,7 @@ Competent+ needed to progress to Section 7.
 ### PHASE C — Strangers, Personalities, Setbacks (Days 11–14)
 
 **Day 11 — Talking to Strangers (60 min)**
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -175,6 +186,7 @@ Competent+ needed to progress to Section 7.
 | Reflection | 15 | Compare the two — what made one easier/harder? |
 
 **Day 12 — Handling Different Personalities (60 min)**
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -183,14 +195,16 @@ Competent+ needed to progress to Section 7.
 | Reflection | 20 | What did you have to consciously adjust for each person? |
 
 **Day 13 — Handling Rejection (60 min)**
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
-| Learn | 10 | Read handling rejection socially (Section 6), tying back to Section 5 regulation. |
+| Learn | 10 | Read handling rejection socially (Part 6 above), tying back to Section 5's (Emotional Intelligence) regulation tools. |
 | Exercise: Process a real past rejection | 25 | Recall a real past social rejection/awkward moment. Apply the EQ toolkit (name the emotion, understand it, reframe) to process it now. |
 | Reflection | 20 | What would you do differently if it happened again today? |
 
 **Day 14 — Handling Criticism (60 min)**
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -201,6 +215,7 @@ Competent+ needed to progress to Section 7.
 ### PHASE D — Integration & Exit
 
 **Day 15 — Real-World Integration & Exit Assessment (60 min)**
+
 | Segment | Min | What to do |
 |---|---|---|
 | Setup | 5 | Plan today's real conversation with someone new or a stranger. |

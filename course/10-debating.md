@@ -77,6 +77,7 @@ Competent+ needed to progress to Section 11.
 ## 13. Day-by-Day Training Plan
 
 ### Day 1 — Baseline + CREC Structure (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Baseline assessment | 15 | Complete the Section 11 baseline task. |
@@ -85,6 +86,7 @@ Competent+ needed to progress to Section 11.
 | Reflection | 15 | Which part of CREC (claim, reason, evidence, conclusion) is weakest for you right now? |
 
 ### Day 2 — Rebuttals (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Redeliver yesterday's stronger CREC argument from memory. |
@@ -93,6 +95,7 @@ Competent+ needed to progress to Section 11.
 | Reflection | 15 | Did you catch yourself wanting to rebut a weaker, easier point instead? |
 
 ### Day 3 — Rhetoric: Ethos, Pathos, Logos (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up CREC. |
@@ -101,6 +104,7 @@ Competent+ needed to progress to Section 11.
 | Reflection | 15 | Which lever do you underuse by default? |
 
 ### Day 4 — Structured Disagreement (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -109,6 +113,7 @@ Competent+ needed to progress to Section 11.
 | Reflection | 15 | Did steelmanning shift your confidence on any of the 3? |
 
 ### Day 5 — Checkpoint 1 (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Warm-up | 5 | Quick CREC drill. |
@@ -118,6 +123,7 @@ Competent+ needed to progress to Section 11.
 | Reflection | 10 | Progress vs. Day 1. |
 
 ### Day 6 — Arguing Both Sides at Full Rigor (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -125,6 +131,7 @@ Competent+ needed to progress to Section 11.
 | Reflection | 15 | For each topic, which side did you argue more convincingly, and was that about belief or skill? |
 
 ### Day 7 — Persuasive Delivery Under Pushback (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -133,6 +140,7 @@ Competent+ needed to progress to Section 11.
 | Reflection | 15 | Did composure or structure break first when interrupted? |
 
 ### Day 8 — Live Rebuttal Speed (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -140,6 +148,7 @@ Competent+ needed to progress to Section 11.
 | Reflection | 15 | Where did quality drop under speed — logic, delivery, or composure? |
 
 ### Day 9 — Real-World Integration Challenge (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Setup | 10 | Plan a real structured debate (with a friend, or a genuine both-sides solo exercise) on a real contested topic. |
@@ -147,6 +156,7 @@ Competent+ needed to progress to Section 11.
 | Debrief | 15 | Report: your CREC structure, the toughest pushback you got/gave, and whether you genuinely updated on anything. |
 
 ### Day 10 — Exit Assessment (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Warm-up | 5 | CREC warm-up. |

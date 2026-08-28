@@ -75,6 +75,7 @@ Competent+ needed to progress to Section 15.
 ## 13. Day-by-Day Training Plan
 
 ### Day 1 — Baseline + Self-Introduction (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Baseline assessment | 15 | Complete the Section 11 baseline task. |
@@ -83,14 +84,16 @@ Competent+ needed to progress to Section 15.
 | Reflection | 15 | What do you usually lead with, and does it actually represent what you want to be known for? |
 
 ### Day 2 — Starting Professional Conversations (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Practice your self-introduction once more. |
-| Learn | 5 | Reread situational openers (Section 4), reusing Section 6. |
+| Learn | 5 | Reread situational openers (Part 4 above), reusing Section 6's (Social Skills) opener skills. |
 | Exercise: Professional-opener drill | 30 | Prepare 3 situational openers for a professional context you'll actually encounter; use 1 for real this week if possible. |
 | Reflection | 20 | How is a professional opener different from a purely social one? |
 
 ### Day 3 — Providing Value First (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -100,6 +103,7 @@ Competent+ needed to progress to Section 15.
 | Reflection | 5 | Did it feel different offering something with no immediate ask? |
 
 ### Day 4 — Following Up (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -109,6 +113,7 @@ Competent+ needed to progress to Section 15.
 | Reflection | 5 | How does a specific follow-up differ from a generic "great meeting you" message? |
 
 ### Day 5 — Checkpoint 1 (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Warm-up | 5 | Practice self-introduction. |
@@ -118,6 +123,7 @@ Competent+ needed to progress to Section 15.
 | Reflection | 10 | Progress vs. Day 1. |
 
 ### Day 6 — Maintaining Relationships Over Time (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -126,6 +132,7 @@ Competent+ needed to progress to Section 15.
 | Reflection | 20 | What's your natural cadence for staying in touch, and is it too rare, too transactional, or about right? |
 
 ### Day 7 — Building Reputation (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -134,6 +141,7 @@ Competent+ needed to progress to Section 15.
 | Reflection | 20 | What's one concrete action this month that would build the reputation you actually want? |
 
 ### Day 8 — Avoiding Transactional Relationships (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -142,6 +150,7 @@ Competent+ needed to progress to Section 15.
 | Reflection | 20 | Pick one relationship to deliberately rebalance this week. |
 
 ### Day 9 — Real-World Integration & Exit Assessment (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Setup | 10 | Plan today's real networking action (new contact or meaningful re-engagement). |

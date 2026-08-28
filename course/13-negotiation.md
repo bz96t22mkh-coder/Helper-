@@ -76,6 +76,7 @@ Competent+ needed to progress to Section 14.
 ## 13. Day-by-Day Training Plan
 
 ### Day 1 — Baseline + BATNA (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Baseline assessment | 15 | Complete the Section 11 baseline task. |
@@ -84,6 +85,7 @@ Competent+ needed to progress to Section 14.
 | Reflection | 15 | Did you actually know your BATNA in your baseline story, or were you negotiating blind? |
 
 ### Day 2 — Leverage (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Recall yesterday's BATNA. |
@@ -92,6 +94,7 @@ Competent+ needed to progress to Section 14.
 | Reflection | 20 | Does your leverage change if you wait, or if you gather more information first? |
 
 ### Day 3 — Anchoring (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -100,6 +103,7 @@ Competent+ needed to progress to Section 14.
 | Reflection | 15 | Did anchoring first feel uncomfortable? What justification made your anchor feel legitimate? |
 
 ### Day 4 — Offers & Concessions (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -108,6 +112,7 @@ Competent+ needed to progress to Section 14.
 | Reflection | 15 | How does a signaled concession feel different from just "giving in"? |
 
 ### Day 5 — Checkpoint 1 (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Warm-up | 5 | Recall this week's BATNA + leverage notes. |
@@ -117,6 +122,7 @@ Competent+ needed to progress to Section 14.
 | Reflection | 10 | Progress vs. Day 1. |
 
 ### Day 6 — Questions & Listening in Negotiation (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -125,6 +131,7 @@ Competent+ needed to progress to Section 14.
 | Reflection | 15 | Did their stated priority match what came out after questioning? |
 
 ### Day 7 — Persuasion in Negotiation (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -133,6 +140,7 @@ Competent+ needed to progress to Section 14.
 | Reflection | 15 | How is persuading-to-agree different from just stating your position? |
 
 ### Day 8 — Win-Win Framing (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -141,14 +149,16 @@ Competent+ needed to progress to Section 14.
 | Reflection | 15 | Was there a non-obvious trade you found only after really understanding both sides' priorities? |
 
 ### Day 9 — Difficult Personalities (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
-| Learn | 10 | Read difficult personalities (Section 6), tying to Section 5 (EQ) regulation. |
+| Learn | 10 | Read difficult personalities (Part 6 above), tying back to Section 5's (Emotional Intelligence) regulation tools. |
 | Exercise: Difficult-personality drill | 30 | Roleplay a negotiation against an aggressive or evasive counterpart (write both sides, or use a real memory), practicing calm, non-mirrored responses. |
 | Reflection | 15 | What's your instinct under pressure — match their energy, or shut down? What will you do instead? |
 
 ### Day 10 — Checkpoint 2: Full Roleplay (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Warm-up | 5 | Recall the full toolkit. |
@@ -157,6 +167,7 @@ Competent+ needed to progress to Section 14.
 | Reflection | 20 | Progress vs. Day 5. |
 
 ### Day 11 — Real-World Integration Challenge (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Setup | 10 | Identify one real negotiation opportunity this week (price, deadline, terms, a household/relationship ask). |
@@ -164,6 +175,7 @@ Competent+ needed to progress to Section 14.
 | Debrief | 15 | Report the full process and outcome. |
 
 ### Day 12 — Exit Assessment (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Warm-up | 5 | Recall the full toolkit. |

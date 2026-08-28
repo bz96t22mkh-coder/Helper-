@@ -1,7 +1,7 @@
 # Section 3 — English & Articulation
 
 **Est. length:** 20–35 sessions (core track: 24 days, in 5 phases with checkpoints every ~5 days).
-**Prerequisite:** Section 1–2. **This is your highest-priority section** — nearly everything after it depends on this baseline.
+**Prerequisite:** Section 1 (Meta-Learning). **This is your highest-priority section** — nearly everything after it depends on this baseline.
 
 **Framing:** you are a native speaker rebuilding and *upgrading* fluency that's gone rusty from disuse — this is not ESL instruction. Grammar theory stays minimal; the volume is in spontaneous-speaking reps.
 
@@ -89,6 +89,7 @@ This is the load-bearing skill under almost every other section: communication, 
 ### PHASE A — Foundations: Organizing Thought Into Speech
 
 **Day 1 — Baseline + Think→Organize→Speak (60 min)**
+
 | Segment | Min | What to do |
 |---|---|---|
 | Baseline assessment | 15 | Record/describe the Section 11 baseline 2-minute unscripted response. |
@@ -98,6 +99,7 @@ This is the load-bearing skill under almost every other section: communication, 
 | Reflection | 5 | Where did your thoughts jumble — was it word-finding or sequencing? |
 
 **Day 2 — Word-Finding & Circumlocution (60 min)**
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Redo yesterday's weakest PREP topic, compare filler count. |
@@ -107,6 +109,7 @@ This is the load-bearing skill under almost every other section: communication, 
 | Reflection | 10 | Did circumlocution keep you moving instead of freezing? |
 
 **Day 3 — Sentence Structure: One Idea Per Sentence (60 min)**
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Quick PREP warm-up on a random topic. |
@@ -116,6 +119,7 @@ This is the load-bearing skill under almost every other section: communication, 
 | Reflection | 10 | Notice: shorter sentences vs. your natural tendency to over-stack. |
 
 **Day 4 — Spontaneous Speaking, Harder Topics (60 min)**
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Filler-count warm-up. |
@@ -125,6 +129,7 @@ This is the load-bearing skill under almost every other section: communication, 
 | Reflection | 10 | What's different about abstract vs. concrete topics for you? |
 
 **Day 5 — Checkpoint 1 (60 min)**
+
 | Segment | Min | What to do |
 |---|---|---|
 | Warm-up | 10 | One easy PREP topic to loosen up. |
@@ -136,6 +141,7 @@ This is the load-bearing skill under almost every other section: communication, 
 ### PHASE B — Precision: Vocabulary, Grammar-in-Speech, Explaining, Describing
 
 **Day 6 — Precise Word Choice (60 min)**
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Quick PREP warm-up. |
@@ -145,6 +151,7 @@ This is the load-bearing skill under almost every other section: communication, 
 | Reflection | 10 | Which upgraded words felt natural vs. forced? |
 
 **Day 7 — Grammar-in-Speech Self-Correction (60 min)**
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up topic. |
@@ -154,6 +161,7 @@ This is the load-bearing skill under almost every other section: communication, 
 | Reflection | 10 | Did the "what I mean is—" reset feel smoother than trying to fix mid-clause? |
 
 **Day 8 — Explaining Complex Ideas Simply (60 min)**
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -162,6 +170,7 @@ This is the load-bearing skill under almost every other section: communication, 
 | Reflection | 15 | Where did jargon creep back in? What's a cleaner substitute? |
 
 **Day 9 — Describing Vividly (60 min)**
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -170,6 +179,7 @@ This is the load-bearing skill under almost every other section: communication, 
 | Reflection | 15 | Compare your most vivid description to your flattest — what made the difference? |
 
 **Day 10 — Checkpoint 2 (60 min)**
+
 | Segment | Min | What to do |
 |---|---|---|
 | Warm-up | 10 | Easy topic PREP. |
@@ -181,6 +191,7 @@ This is the load-bearing skill under almost every other section: communication, 
 ### PHASE C — Opinion, Emotion, and Self-Editing Under Content Difficulty
 
 **Day 11 — Expressing Opinions (60 min)**
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -189,6 +200,7 @@ This is the load-bearing skill under almost every other section: communication, 
 | Reflection | 15 | Did you hedge excessively? Where could you have been more direct without being harsh? |
 
 **Day 12 — Expressing Emotions Precisely (60 min)**
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -198,6 +210,7 @@ This is the load-bearing skill under almost every other section: communication, 
 | Reflection | 10 | Did precision change how honest/clear the description felt? |
 
 **Day 13 — Rephrasing Awkward Sentences Live (60 min)**
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -207,6 +220,7 @@ This is the load-bearing skill under almost every other section: communication, 
 | Reflection | 10 | Is live rephrasing getting faster than Day 3? |
 
 **Day 14 — Increasing Difficulty: Abstract + Rapid Topics (60 min)**
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -215,6 +229,7 @@ This is the load-bearing skill under almost every other section: communication, 
 | Reflection | 10 | What breaks down first under time pressure — organization, word choice, or confidence? |
 
 **Day 15 — Checkpoint 3 (60 min)**
+
 | Segment | Min | What to do |
 |---|---|---|
 | Warm-up | 10 | Easy topic. |
@@ -226,6 +241,7 @@ This is the load-bearing skill under almost every other section: communication, 
 ### PHASE D — Argument Structure & Delivery Range
 
 **Day 16 — Structuring an Argument Out Loud (60 min)**
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -234,6 +250,7 @@ This is the load-bearing skill under almost every other section: communication, 
 | Reflection | 15 | Where was the weakest link — the reason, the evidence, or the conclusion? |
 
 **Day 17 — Arguing Both Sides (60 min)**
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -241,6 +258,7 @@ This is the load-bearing skill under almost every other section: communication, 
 | Reflection | 15 | Which side was easier for each topic, and why — genuine belief, or just familiarity? |
 
 **Day 18 — Verbal Storytelling Basics (light touch) (60 min)**
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -249,6 +267,7 @@ This is the load-bearing skill under almost every other section: communication, 
 | Reflection | 15 | Did you ramble the setup and rush the ending, or the reverse? |
 
 **Day 19 — Tone & Pacing Control (60 min)**
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -258,6 +277,7 @@ This is the load-bearing skill under almost every other section: communication, 
 | Reflection | 10 | Which tone/pace changes felt most natural vs. performative? |
 
 **Day 20 — Register-Switching (60 min)**
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -266,6 +286,7 @@ This is the load-bearing skill under almost every other section: communication, 
 | Reflection | 15 | What specifically changes between registers for you — word choice, sentence length, both? |
 
 **Day 21 — Checkpoint 4 (60 min)**
+
 | Segment | Min | What to do |
 |---|---|---|
 | Warm-up | 10 | Easy topic. |
@@ -276,6 +297,7 @@ This is the load-bearing skill under almost every other section: communication, 
 ### PHASE E — Integration, Pressure, and Exit
 
 **Day 22 — High-Pressure Spontaneous Speaking (60 min)**
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -284,6 +306,7 @@ This is the load-bearing skill under almost every other section: communication, 
 | Reflection | 10 | What's your recovery move when a response goes badly mid-round? |
 
 **Day 23 — Real-World Application Challenge (60 min)**
+
 | Segment | Min | What to do |
 |---|---|---|
 | Setup | 10 | Plan one real unscripted 5-minute conversation or voice-memo monologue today (a real call, a real conversation, or a solo recorded piece) on a topic you don't prepare in advance. |
@@ -292,6 +315,7 @@ This is the load-bearing skill under almost every other section: communication, 
 | Reflection | 10 | How did today feel different from Day 1's baseline task? |
 
 **Day 24 — Exit Assessment (60 min)**
+
 | Segment | Min | What to do |
 |---|---|---|
 | Warm-up | 5 | One easy topic. |

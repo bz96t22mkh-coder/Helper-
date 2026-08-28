@@ -76,6 +76,7 @@ Competent+ needed to progress to Section 6.
 ## 13. Day-by-Day Training Plan
 
 ### Day 1 — Baseline + Self-Awareness (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Baseline assessment | 15 | Complete the Section 11 baseline task. |
@@ -84,6 +85,7 @@ Competent+ needed to progress to Section 6.
 | Reflection | 15 | How hard was it to find a precise word vs. defaulting to "fine/good/bad"? |
 
 ### Day 2 — Emotional Regulation (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Recall today's emotion-naming entries so far. |
@@ -93,6 +95,7 @@ Competent+ needed to progress to Section 6.
 | Reflection | 10 | Did the reframe change how you'd want to respond? |
 
 ### Day 3 — Recognizing Your Triggers (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Quick emotion-naming check-in. |
@@ -101,6 +104,7 @@ Competent+ needed to progress to Section 6.
 | Reflection | 15 | Pick your most frequent trigger — what would a regulated (not suppressed) response look like next time? |
 
 ### Day 4 — Empathy Basics (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Recall your top trigger from yesterday. |
@@ -109,6 +113,7 @@ Competent+ needed to progress to Section 6.
 | Reflection | 15 | How does leading with a feeling-reflection change the likely tone of the conversation? |
 
 ### Day 5 — Checkpoint 1 (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Warm-up | 5 | Emotion-naming check-in. |
@@ -118,6 +123,7 @@ Competent+ needed to progress to Section 6.
 | Reflection | 10 | Progress vs. Day 1. |
 
 ### Day 6 — Reading Others (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -126,6 +132,7 @@ Competent+ needed to progress to Section 6.
 | Reflection | 20 | What's your default when you notice a mismatch — ignore it, or check it? |
 
 ### Day 7 — Understanding Motivations (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -134,6 +141,7 @@ Competent+ needed to progress to Section 6.
 | Reflection | 15 | Does this change how you'd respond to any of the 3? |
 
 ### Day 8 — Boundaries (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -143,6 +151,7 @@ Competent+ needed to progress to Section 6.
 | Reflection | 10 | What made this hard — fear of conflict, of seeming rude, something else? |
 
 ### Day 9 — Conflict With EQ (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -151,6 +160,7 @@ Competent+ needed to progress to Section 6.
 | Reflection | 15 | Where did you default to over-softening or over-hardening in the first draft? |
 
 ### Day 10 — Social Awareness in Groups (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -159,6 +169,7 @@ Competent+ needed to progress to Section 6.
 | Reflection | 20 | What did you pick up that you'd normally miss by jumping straight into participating? |
 
 ### Day 11 — Real-World Integration Challenge (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Setup | 10 | Identify one real conversation this week that's emotionally loaded (disagreement, feedback, a boundary) and plan to bring the full toolkit. |
@@ -166,6 +177,7 @@ Competent+ needed to progress to Section 6.
 | Debrief | 15 | Report: named emotion, empathic read, regulated response, outcome. |
 
 ### Day 12 — Exit Assessment (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Warm-up | 5 | Emotion-naming check-in. |

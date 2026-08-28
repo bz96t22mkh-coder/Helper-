@@ -76,6 +76,7 @@ Competent+ needed to progress to Section 5.
 ## 13. Day-by-Day Training Plan
 
 ### Day 1 — Baseline + The Communication Loop (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Baseline assessment | 15 | Complete the Section 11 baseline task. |
@@ -84,6 +85,7 @@ Competent+ needed to progress to Section 5.
 | Reflection | 15 | Where do you usually break the loop — not listening, or not checking you were understood? |
 
 ### Day 2 — Active Listening (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Quick paraphrase of something you read/heard this morning. |
@@ -92,6 +94,7 @@ Competent+ needed to progress to Section 5.
 | Reflection | 15 | What did you notice/retain that you'd normally miss while planning your reply? |
 
 ### Day 3 — Asking Better Questions (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Recall yesterday's conversation — one thing you learned by listening more. |
@@ -101,6 +104,7 @@ Competent+ needed to progress to Section 5.
 | Reflection | 5 | Did open questions get longer/richer answers than usual? |
 
 ### Day 4 — Non-Verbal Communication (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Recall one open question you used yesterday. |
@@ -110,6 +114,7 @@ Competent+ needed to progress to Section 5.
 | Reflection | 5 | Where does your non-verbal signal mismatch your intended message most often? |
 
 ### Day 5 — Checkpoint 1 (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Warm-up | 5 | Quick paraphrase drill. |
@@ -119,6 +124,7 @@ Competent+ needed to progress to Section 5.
 | Reflection | 10 | Progress vs. Day 1 baseline. |
 
 ### Day 6 — Persuasion Basics (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up paraphrase. |
@@ -128,6 +134,7 @@ Competent+ needed to progress to Section 5.
 | Reflection | 5 | What changed when you framed it around their concern instead of your reasoning? |
 
 ### Day 7 — Professional Communication (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -137,6 +144,7 @@ Competent+ needed to progress to Section 5.
 | Reflection | 5 | Where were you over-explaining or over-hedging by default? |
 
 ### Day 8 — Casual Communication (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -145,6 +153,7 @@ Competent+ needed to progress to Section 5.
 | Reflection | 10 | Which register comes more naturally to you, and where does the other one feel stiff? |
 
 ### Day 9 — Expressing Emotion to Someone (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -154,6 +163,7 @@ Competent+ needed to progress to Section 5.
 | Reflection | 10 | Which version would actually get a better response from the other person, and why? |
 
 ### Day 10 — Handling Misunderstandings (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 5 | Warm-up. |
@@ -162,6 +172,7 @@ Competent+ needed to progress to Section 5.
 | Reflection | 15 | What's your default reaction to a misunderstanding — avoid it, get defensive, or address it directly? What will you practice instead? |
 
 ### Day 11 — Real-World Integration Challenge (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Setup | 10 | Plan a real conversation today (or this week) where you'll deliberately combine: listening + open questions + register awareness + (if relevant) an emotion expressed cleanly. |
@@ -169,6 +180,7 @@ Competent+ needed to progress to Section 5.
 | Debrief | 15 | Write what you used, what worked, what you'd do differently. |
 
 ### Day 12 — Exit Assessment (60 min)
+
 | Segment | Min | What to do |
 |---|---|---|
 | Warm-up | 5 | Quick paraphrase drill. |
