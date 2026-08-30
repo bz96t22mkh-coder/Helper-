@@ -13,9 +13,9 @@ Updated after every study day (daily log) and every module exit assessment (modu
 
 Fill in one row per study day. "Expected cumulative" = day number × 2 hours, for a quick ahead/behind read.
 
-| Date | Day # | Module | Planned (2h) | Actual Hrs | Lessons | Research Hrs | Chart Hrs | On-Chain Hrs | Backtest Hrs | Paper-Trade Hrs | Journal Hrs | Cumulative Actual | Expected Cumulative | Diff | Status |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| | | | 2.0 | | | | | | | | | | | | |
+| Date | Day # | Module | Planned (2h) | Actual Hrs | Lessons | Setup Hrs | Research Hrs | Chart Hrs | On-Chain Hrs | Social/X Hrs | Backtest Hrs | Paper-Trade Hrs | Journal Hrs | Cumulative Actual | Expected Cumulative | Diff | Status |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| | | | 2.0 | | | | | | | | | | | | | | |
 
 Status = `Ahead` / `On Track` / `Behind`.
 

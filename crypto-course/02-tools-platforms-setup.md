@@ -28,7 +28,7 @@ A centralized exchange (CEX) is the on-ramp between the ZAR in your bank account
 | Tool | What it does | Why you need it | Free/Paid | Difficulty | What to look for |
 |---|---|---|---|---|---|
 | Luno | ZAR deposit/withdraw, spot buy/sell BTC/ETH/major alts | Primary SA fiat on-ramp | Free account, trading fees apply | Beginner | **[SA]** FSCA-licensed CASP; supports ZAR bank transfer; good BTC/ETH liquidity, limited altcoin range |
-| VALR | ZAR deposit/withdraw, spot + (newer) derivatives | SA-headquartered, broader asset range than Luno, often deeper liquidity | Free account, trading fees apply | Beginner–Intermediate | **[SA]** FSCA-licensed CASP; became SA's first licensed crypto-derivatives issuer; check current fee schedule and available pairs |
+| VALR | ZAR deposit/withdraw, spot + (newer) derivatives | SA-headquartered, broader asset range than Luno, often deeper liquidity | Free account, trading fees apply | Beginner–Intermediate | **[SA]** FSCA-licensed CASP since 2024; reported (Moneyweb, Oct 2025) as SA's first licensed crypto-derivatives issuer — verify current scope before using derivatives; check current fee schedule and available pairs |
 | Binance | Global CEX, largest volume/liquidity, wide asset range, futures | Deepest liquidity for BTC/ETH derivatives data (funding/OI) even if you don't fund an account there | Free account, trading fees apply | Intermediate | Verify current SA regulatory status before depositing — it was not on the FSCA's licensed-provider list as of 2024; use for **market data only** if uncertain, and confirm current standing before moving funds |
 | Kraken / Coinbase | Global CEXs, generally strong compliance track record | Alternative fiat/crypto on-ramps, good API data | Free account, fees apply | Beginner–Intermediate | Check ZAR support (often limited/absent — may require a stablecoin or card route) |
 
@@ -195,7 +195,7 @@ You need **Competent** to move to Module 3.
 |---|---|---|
 | Review | 10 | Recall yesterday's DEX Screener observations. |
 | Lesson | 35 | Read §3.5–3.7 (explorers, wallet/contract analysis, X/Twitter, news). |
-| Practical | 40 | Open Etherscan and Solscan; look up BTC's... (note: BTC has its own explorer, e.g. mempool.space — use that) and ETH's largest exchange wallet; find a token contract's "Read Contract" tab and locate the holder list. |
+| Practical | 40 | Open Etherscan and Solscan; look up ETH's largest exchange wallet and find a token contract's "Read Contract" tab to locate its holder list. Separately, note that BTC uses its own explorer (e.g. mempool.space) rather than Etherscan/Solscan. |
 | Practical | 25 | Run one token through RugCheck or GoPlus Security and read every field it returns, even ones you don't yet understand. |
 | Journal | 10 | List 3 fields from the contract scanner you don't yet understand — Module 13 will explain them. |
 

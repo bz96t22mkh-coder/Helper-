@@ -34,7 +34,7 @@ Every day gets a purpose-built 2-hour breakdown — never a copy-pasted template
 | Middle (Modules 3–11: mechanics, BTC/ETH, ICT application, on-chain, meme-coin research) | Research/chart-heavy: ~20 min lesson, ~50–60 min chart/research/on-chain work, ~30–40 min assignment/journal |
 | Advanced (Modules 12–19: security, framework, backtesting, paper trading, refinement) | Practice-heavy: ~15 min lesson/review, ~70–80 min backtesting/replay/paper trading/due-diligence, ~25–30 min stats/journal review |
 
-You will never open this course and have to guess what to do with your 2 hours. Every day in every module file has an exact table: segment, minutes, action.
+Every day in every module file has an exact table: segment, minutes, action.
 
 ## 4. Mastery Levels (used every module)
 
@@ -61,7 +61,7 @@ You need **Competent** on a module's exit assessment to move to the next module.
 
 ---
 
-## 6. Curriculum Map (19 Modules, ~72 focused study days / ~144 hours at 2 hrs/day)
+## 6. Curriculum Map (19 Modules, ~73 focused study days / ~146 hours at 2 hrs/day)
 
 Ordering logic: crypto fundamentals and environment first (you can't analyze what you can't safely access) → market mechanics → BTC deep specialization → ETH deep specialization → apply your ICT knowledge to both → **test** whether it actually has an edge before trusting it → crypto-native data layers (funding/OI/on-chain) → cycles/narratives (context for everything after) → meme coins as a full second specialization, built in the same discipline order (discovery → research → security → on-chain → TA → framework) → shared infrastructure (backtesting, journaling, psychology, risk, sim-to-live progression) → SA-specific practicalities, skill-level self-assessment, and independence.
 
@@ -85,11 +85,11 @@ Ordering logic: crypto fundamentals and environment first (you can't analyze wha
 | 16 | Backtesting & Journaling (BTC/ETH + Meme) | 21–22 | 3 | 6 | Module 7, 15 |
 | 17 | Psychology & Risk Management | 23–24 | 3 | 6 | Module 16 |
 | 18 | Paper Trading, Simulation & Performance Analysis | 25–26 | 3 | 6 | Module 16–17 |
-| 19 | South Africa, Playbooks & Independence | 27, 30–33 | 2+ (capstone, open-ended) | 4+ | All prior |
+| 19 | South Africa, Playbooks & Independence | 27, 30–33 | 3 (capstone, open-ended) | 6+ | All prior |
 | — | Playbook: BTC/ETH (living document) | 31 | — | — | Module 7, 16 |
 | — | Playbook: Meme-Coin (living document) | 32 | — | — | Module 15, 16 |
 
-**Total baseline estimate: ~72 study days × 2 focused hours = ~144 hours.** At 2 hrs/day, 6 days/week: **~12 weeks (~3 months)**. This compresses if you pass exit assessments early and extends — without guilt — if a module (especially BTC/ETH ICT-testing or meme-coin security) needs more reps. Mastery, not the calendar, decides when you move on.
+**Total baseline estimate: ~73 study days × 2 focused hours = ~146 hours.** At 2 hrs/day, 6 days/week: **~12 weeks (~3 months)**. This compresses if you pass exit assessments early and extends — without guilt — if a module (especially BTC/ETH ICT-testing or meme-coin security) needs more reps. Mastery, not the calendar, decides when you move on.
 
 ### Time-estimate breakdown by category (approximate totals across the whole course)
 
@@ -103,8 +103,8 @@ Ordering logic: crypto fundamentals and environment first (you can't analyze wha
 | X/Twitter & social research | ~8 | Module 11 |
 | Backtesting & replay | ~14 | Modules 7, 16 |
 | Paper trading / simulated execution | ~10 | Module 18 |
-| Journaling, review, stats | ~10 | Ongoing, concentrated in 16, 18, 19 |
-| **Total** | **~144** | |
+| Journaling, review, stats | ~12 | Ongoing, concentrated in 16, 18, 19 |
+| **Total** | **~146** | |
 
 ---
 
@@ -138,6 +138,8 @@ ICT KNOWLEDGE (done) → CRYPTO FUNDAMENTALS → TOOLS/SETUP → MARKET MECHANIC
 
 This ladder is descriptive, not a promise — Level 7 describes a disciplined, data-driven process, not guaranteed profitability. See §10.
 
+**Reassessment cadence:** your current level is formally reassessed at the end of Modules 2, 5, 7, 15, 18, and 19 — the points where a foundational skill (environment/tools, ETH specialization, a tested BTC/ETH model, the meme-coin framework, real-money readiness, and independence) either has or hasn't actually landed. `progress-tracker.md` logs the result at each of these checkpoints.
+
 ---
 
 ## 9. Overlap Policy
@@ -161,9 +163,9 @@ See [`progress-tracker.md`](progress-tracker.md) for the daily/weekly log templa
 
 ## 12. Playbooks
 
-Two living documents get built progressively as you complete the relevant modules:
-- [`20-btc-eth-playbook.md`](20-btc-eth-playbook.md) — your personal BTC/ETH ICT-based trading playbook (populated in Modules 7, 16, 19).
-- [`21-memecoin-playbook.md`](21-memecoin-playbook.md) — your personal meme-coin trading manual (populated in Modules 10–16, 19).
+Two living documents get built progressively as you complete the relevant modules — in practice nearly every module from here on contributes a line or a rule to one or both, not just the ones listed below as the primary sources:
+- [`20-btc-eth-playbook.md`](20-btc-eth-playbook.md) — your personal BTC/ETH ICT-based trading playbook (primary inputs from Modules 4–9, refined by 16–17, finalized in 19; individual sections also draw on Module 8's data dashboard).
+- [`21-memecoin-playbook.md`](21-memecoin-playbook.md) — your personal meme-coin trading manual (primary inputs from Modules 9–15, refined by 16–17, finalized in 19).
 
 ---
 

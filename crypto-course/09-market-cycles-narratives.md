@@ -7,7 +7,7 @@
 
 ## 1. What You Need to Learn
 
-Bull/bear markets, accumulation/distribution, capital rotation, altcoin seasons, how narratives form, and sector rotation — i.e., the macro backdrop that determines whether meme coins (and altcoins generally) are even a favorable environment to be trading right now.
+Bull/bear markets, accumulation/distribution, capital rotation, altcoin seasons, how narratives form, sector rotation, and how to tell whether a narrative is running on genuine fundamental development or on attention alone — i.e., the macro backdrop that determines whether meme coins (and altcoins generally) are even a favorable environment to be trading right now.
 
 ## 2. Why It Matters
 

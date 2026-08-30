@@ -7,7 +7,7 @@
 
 ## 1. What You Need to Learn
 
-One primary, testable meme-coin trading framework — not ten strategies — that combines market condition (Module 9), discovery (Module 10), narrative/X vetting (Module 11), tokenomics (Module 12), security (Module 13), on-chain/chart reliability (Module 14), and risk management, into a single repeatable process with explicit discovery, qualification, research, entry criteria, confirmation, stop/invalidation, position sizing, target/exit, trade management, no-trade conditions, and risk controls.
+One primary, testable meme-coin trading framework — not ten strategies — that combines market condition (Module 9), discovery (Module 10), narrative/X vetting (Module 11), tokenomics (Module 12), security (Module 13), on-chain/chart reliability (Module 14), and risk management, into a single repeatable, 11-stage process — discovery, qualification, research, entry criteria (with a confirmation requirement built in), stop/invalidation, position sizing, target/exit, trade management, no-trade conditions, and risk controls.
 
 ## 2. Why It Matters
 
