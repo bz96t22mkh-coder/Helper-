@@ -1,6 +1,6 @@
 # Module 10 — How to Talk Throughout a Video
 
-You flagged this as one of your highest priorities. This version of the module doesn't just name the techniques — it gives you the actual mechanism behind each one: what's happening in your head when it goes wrong, and the specific move that fixes it. Read each technique with its formula, then do the matching drill in Section 9 before moving on. Naming a skill isn't the same as being able to do it — the drills are where it actually becomes yours.
+You flagged this as one of your highest priorities. This version of the module doesn't just name the techniques — it gives you the actual mechanism behind each one: what's happening in your head when it goes wrong, and the specific move that fixes it. Read each technique with its formula, then do the matching drill in Section 19 before moving on. Naming a skill isn't the same as being able to do it — the drills are where it actually becomes yours.
 
 ## 1. Concept
 
@@ -18,7 +18,7 @@ Dead air and awkward silence are retention killers (Module 11) — but talking n
 
 **Worked example:** you open a door in-game and something jumps out. The unfiltered first thought in your head is genuinely just *"nope."* A beginner suppresses that as "too dumb to say" and goes silent for two seconds trying to think of something better. The trained move: say "nope" immediately, out loud, and let the next thought (which is now already forming because your mouth is moving) follow it — *"nope, nope, we're not doing that, I'm closing this door, this game hates me."* None of those individual words were clever. The chain of them, said without a gap, is the content.
 
-**Drill:** see Days 1–5 in Section 9.
+**Drill:** see Days 1–5 in Section 19.
 
 ## 4. Technique 2 — Narrating your internal state on a fixed template
 
@@ -28,7 +28,7 @@ Dead air and awkward silence are retention killers (Module 11) — but talking n
 
 **Worked example:** "I feel way more nervous than I expected because I genuinely thought this part would be easy" — built in under a second from noticing "nervous" and "thought it'd be easy," with zero writing required.
 
-**Drill:** built into Days 1–5 and 16–20 in Section 9.
+**Drill:** built into Days 1–5 and 16–20 in Section 19.
 
 ## 5. Technique 3 — Verbalized curiosity
 
@@ -36,7 +36,7 @@ Dead air and awkward silence are retention killers (Module 11) — but talking n
 
 **The mechanism:** whenever you notice yourself internally wondering something, that's your cue to ask it out loud instead of answering it silently: *"why would they put the item there?"* / *"what happens if I do this instead?"* You don't need an answer ready — the question itself fills space and invites the viewer into your head. Half the time, asking it out loud is what makes you actually go find the answer, which becomes the next beat.
 
-**Drill:** Days 16–20 in Section 9.
+**Drill:** Days 16–20 in Section 19.
 
 ## 6. Technique 4 — Callbacks, on a system (not luck)
 
@@ -46,7 +46,7 @@ Dead air and awkward silence are retention killers (Module 11) — but talking n
 
 **Worked example:** 12 minutes into a session, something goes wrong in a specific way. You say, in the moment: "that's going in the hall of fame of bad decisions." Eight minutes later, something similarly bad happens — you say "hall of fame, round two" — that's a built callback, constructed on purpose, not a lucky accident.
 
-**Drill:** Days 21–25 in Section 9.
+**Drill:** Days 21–25 in Section 19.
 
 ## 7. Technique 5 — Telling it, don't just play it: the 3-beat story shape
 
@@ -59,7 +59,7 @@ Dead air and awkward silence are retention killers (Module 11) — but talking n
 
 This takes about 8–10 seconds to say and turns a flat event into a mini-story with tension and a payoff. You don't plan this in advance — you apply the 3-beat shape to whatever just happened, immediately after it happens.
 
-**Drill:** Days 11–15 in Section 9.
+**Drill:** Days 11–15 in Section 19.
 
 ## 8. Technique 6 — Manufacturing a joke on demand (two formulas)
 
@@ -73,7 +73,7 @@ Neither formula requires being clever — they're mechanical substitutions. **De
 
 **Worked example (in-game death):** true fact: "I died." Formula A applied: "I have never in my life been betrayed this hard by a video game." Formula B applied: "that enemy had the accuracy of a Navy SEAL and I had the accuracy of a Roomba."
 
-**Drill:** Days 21–25 in Section 9.
+**Drill:** Days 21–25 in Section 19.
 
 ## 9. Technique 7 — Forming an opinion in under 3 seconds
 
@@ -83,7 +83,7 @@ Neither formula requires being clever — they're mechanical substitutions. **De
 
 **Worked example:** watching a clip of someone making a risky play. Binary test: did it help or hurt their stated goal? It hurt it. Claim + reason, said immediately: "that was a mistake, because he had a safer option right there and didn't take it." Total time from clip ending to opinion stated: under 3 seconds.
 
-**Drill:** Days 6–10 in Section 9.
+**Drill:** Days 6–10 in Section 19.
 
 ## 10. Technique 8 — Predicting on purpose
 
@@ -91,7 +91,7 @@ Neither formula requires being clever — they're mechanical substitutions. **De
 
 **The mechanism:** before a reveal or outcome, ask yourself two quick questions — *what's the most likely outcome, and separately, what's the most entertaining possible outcome* — then just say one of them out loud as a guess, framed as a guess ("I bet this goes horribly"), not a certainty. You are not being graded on accuracy. The prediction's job is to create a question in the viewer's head that the reveal then answers.
 
-**Drill:** Days 6–10 and 16–20 in Section 9.
+**Drill:** Days 6–10 and 16–20 in Section 19.
 
 ## 11. Technique 9 — The "so what" sentence (turning description into analysis)
 
@@ -101,7 +101,7 @@ Neither formula requires being clever — they're mechanical substitutions. **De
 
 **Worked example:** "He turned down the trade" (description) → "so what" sentence: "which tells you he's playing it safe instead of going for the win, and that's going to bite him." The second sentence is where the actual value is — the first sentence alone isn't content, it's just narration.
 
-**Drill:** Days 6–10 in Section 9, and applied throughout Days 21–30.
+**Drill:** Days 6–10 in Section 19, and applied throughout Days 21–30.
 
 ## 12. Technique 10 — The bridge phrase for connections/storytelling
 
@@ -109,7 +109,7 @@ Neither formula requires being clever — they're mechanical substitutions. **De
 
 **The mechanism:** say the trigger phrase *before* you've found the memory, not after: **"this reminds me of—"** or **"this is exactly like the time—."** Saying it out loud buys you a full second or two of real search time while you're already mid-sentence and can't back out — your brain reliably finds *something* once you're committed to finishing the sentence, even if it's a loose connection. Waiting until you have the memory ready before speaking is why this technique gets skipped; speaking the trigger first is what makes it usable live.
 
-**Drill:** Days 11–15 in Section 9.
+**Drill:** Days 11–15 in Section 19.
 
 ## 13. Technique 11 — Silence: the 2-second test
 
@@ -117,7 +117,7 @@ Neither formula requires being clever — they're mechanical substitutions. **De
 
 **The mechanism — ask one question the moment you go quiet:** *"is there something happening on screen right now that justifies this pause?"* If yes (a scare needs a second to land, a reveal needs a beat), let it run — but cap it: if you hit roughly 2 seconds and nothing is visually carrying the moment anymore, that's your cue to break it, and your fallback is always the Technique 2 line ("I feel [emotion] because [reason]") — it never fails you and it's always available.
 
-**Drill:** built into Days 16–20 and the Section 9 checklist review.
+**Drill:** built into Days 16–20 (Section 19) and the Section 20 checklist review.
 
 ## 14. Technique 12 — Building anticipation on purpose
 
@@ -125,7 +125,7 @@ Neither formula requires being clever — they're mechanical substitutions. **De
 
 **The mechanism:** the instant you sense something might matter (a risky attempt, an approaching threat, a decision point), say it out loud before the outcome happens: **"if this goes wrong I am actually going to lose it."** This works because you're stating stakes *before* resolution — the viewer now has a reason to keep watching to see if you're right.
 
-**Drill:** Days 16–20 in Section 9.
+**Drill:** Days 16–20 in Section 19.
 
 ## 15. Avoiding repetitive commentary
 
@@ -137,7 +137,7 @@ Natural speech has imperfections — false starts, mid-sentence redirects, fille
 
 ## 17. Developing your own speaking style
 
-Your style emerges from your natural rhythm, vocabulary, and humor type (Module 2) — don't imitate another creator's cadence. Review your own footage regularly (see the checklist in Section 19) specifically looking for which of the 12 techniques above you reach for naturally and which feel forced — lean into the ones that feel like you.
+Your style emerges from your natural rhythm, vocabulary, and humor type (Module 2) — don't imitate another creator's cadence. Review your own footage regularly (see the checklist in Section 20) specifically looking for which of the 12 techniques above you reach for naturally and which feel forced — lean into the ones that feel like you.
 
 ## 18. Examples
 
@@ -157,7 +157,7 @@ Watch short random clips (unfamiliar to you) and react out loud in real time. Af
 **Days 11–15 — Storytelling on the fly (Techniques 5, 12)**
 Take a mundane recent event and narrate it using setup → complication → outcome (Technique 5), out loud, in under 90 seconds. Practice the bridge-phrase technique (Technique 12) by deliberately saying "this reminds me of—" before you know what you'll say next.
 
-**Days 16–20 — Gameplay commentary reps (Techniques 2, 3, 11, 13)**
+**Days 16–20 — Gameplay commentary reps (Techniques 2, 3, 11)**
 Play 10–15 minutes of any game while narrating continuously — apply the internal-state fill-in-the-blank line (Technique 2), verbalize your curiosity as questions (Technique 3), and run the 2-second test (Technique 11) every time you go quiet. Review afterward for dead air and repetitive phrases.
 
 **Days 21–25 — Joke and callback drills (Techniques 6, 4)**

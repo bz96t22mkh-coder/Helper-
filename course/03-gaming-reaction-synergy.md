@@ -85,4 +85,4 @@ Complete the Content Pillar Map template. Then write 3 video titles you could ma
 
 ## 14. Checkpoint
 
-You should be able to state, in one breath: your core pillar(s), your secondary pillar(s), and the personality throughline that connects them. If your throughline is a topic ("gaming") instead of a personality trait ("overthinking everything out loud"), redo Section 6 of Module 2 and Section 4 here before advancing.
+You should be able to state, in one breath: your core pillar(s), your secondary pillar(s), and the personality throughline that connects them. If your throughline is a topic ("gaming") instead of a personality trait ("overthinking everything out loud"), redo Section 4 of Module 2 and Section 4 here before advancing.
