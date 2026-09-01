@@ -1,35 +1,41 @@
-# Personal Development Mastery Course
+# The Gaming + Reaction Creator Course
 
-A complete, 20-section, performance-based personal-development curriculum covering meta-learning, English/articulation, communication, social skills, confidence, charisma, storytelling, critical thinking, debating, productivity, problem-solving, decision-making, negotiation, networking, leadership, strategic thinking, financial literacy, and meditation/mindfulness — trained in 1-hour daily sessions, with a full day-by-day plan for every section.
+A complete, 24-module course that takes you from zero YouTube experience to running a genuine Gaming + Reaction personal-brand channel — idea generation, scripting, on-camera performance, editor collaboration, Shorts, cross-platform promotion, analytics, growth, monetization, and brand deals.
 
-- **Start here:** [`course/00-master-curriculum.md`](course/00-master-curriculum.md) — the full curriculum map, section order and rationale, priority tiers, estimated training length per section, the daily-session system, and the assessment/progression rules.
-- **Progress tracking:** [`course/progress-tracker.md`](course/progress-tracker.md) — updated as sections are completed.
+This course assumes you already have an editor. It does **not** teach video editing software. It teaches everything the person *in front of* the camera and *behind* the strategy needs to know.
 
-## Sections
+- **Start here:** [`course/00-master-roadmap.md`](course/00-master-roadmap.md) — full course map, module order and rationale, how the modules connect, and how to move through the course.
+- **Progress tracking:** [`course/progress-tracker.md`](course/progress-tracker.md) — updated as modules are completed.
 
-| # | Section | File |
+## Modules
+
+| # | Module | File |
 |---|---|---|
-| 1 | Meta-Learning | [`01-meta-learning.md`](course/01-meta-learning.md) |
-| 2 | Productivity & Time Management | [`02-productivity-time-management.md`](course/02-productivity-time-management.md) |
-| 3 | English & Articulation | [`03-english-articulation.md`](course/03-english-articulation.md) |
-| 4 | Communication | [`04-communication.md`](course/04-communication.md) |
-| 5 | Emotional Intelligence | [`05-emotional-intelligence.md`](course/05-emotional-intelligence.md) |
-| 6 | Social Skills | [`06-social-skills.md`](course/06-social-skills.md) |
-| 7 | Confidence & Charisma | [`07-confidence-charisma.md`](course/07-confidence-charisma.md) |
-| 8 | Storytelling (Verbal & Social) | [`08-storytelling.md`](course/08-storytelling.md) |
-| 9 | Critical Thinking | [`09-critical-thinking.md`](course/09-critical-thinking.md) |
-| 10 | Debating | [`10-debating.md`](course/10-debating.md) |
-| 11 | Problem-Solving | [`11-problem-solving.md`](course/11-problem-solving.md) |
-| 12 | Decision-Making | [`12-decision-making.md`](course/12-decision-making.md) |
-| 13 | Negotiation | [`13-negotiation.md`](course/13-negotiation.md) |
-| 14 | Networking | [`14-networking.md`](course/14-networking.md) |
-| 15 | Leadership | [`15-leadership.md`](course/15-leadership.md) |
-| 16 | Strategic Thinking | [`16-strategic-thinking.md`](course/16-strategic-thinking.md) |
-| 17 | Financial Literacy | [`17-financial-literacy.md`](course/17-financial-literacy.md) |
-| 18 | Meditation & Grounded Manifestation | [`18-meditation-manifestation.md`](course/18-meditation-manifestation.md) |
-| 19 | Advanced Integration | [`19-advanced-integration.md`](course/19-advanced-integration.md) |
-| 20 | Final Mastery | [`20-final-mastery.md`](course/20-final-mastery.md) |
+| 1 | Understanding YouTube | [`01-understanding-youtube.md`](course/01-understanding-youtube.md) |
+| 2 | Building Your Personal Brand | [`02-personal-brand.md`](course/02-personal-brand.md) |
+| 3 | Making Gaming + Reaction Work Together | [`03-gaming-reaction-synergy.md`](course/03-gaming-reaction-synergy.md) |
+| 4 | Gaming Content | [`04-gaming-content.md`](course/04-gaming-content.md) |
+| 5 | Reaction Content | [`05-reaction-content.md`](course/05-reaction-content.md) |
+| 6 | Video Ideas | [`06-video-ideas.md`](course/06-video-ideas.md) |
+| 7 | Titles | [`07-titles.md`](course/07-titles.md) |
+| 8 | Thumbnails | [`08-thumbnails.md`](course/08-thumbnails.md) |
+| 9 | Scriptwriting | [`09-scriptwriting.md`](course/09-scriptwriting.md) |
+| 10 | How to Talk Throughout a Video | [`10-talking-on-camera.md`](course/10-talking-on-camera.md) |
+| 11 | Audience Retention | [`11-audience-retention.md`](course/11-audience-retention.md) |
+| 12 | Filming & On-Camera Presence | [`12-filming-oncamera-presence.md`](course/12-filming-oncamera-presence.md) |
+| 13 | Working With Your Editor | [`13-working-with-editor.md`](course/13-working-with-editor.md) |
+| 14 | YouTube Shorts | [`14-youtube-shorts.md`](course/14-youtube-shorts.md) |
+| 15 | TikTok, Instagram & Other Platforms | [`15-cross-platform.md`](course/15-cross-platform.md) |
+| 16 | Building a Community | [`16-building-community.md`](course/16-building-community.md) |
+| 17 | Analytics | [`17-analytics.md`](course/17-analytics.md) |
+| 18 | Growth | [`18-growth.md`](course/18-growth.md) |
+| 19 | Monetization | [`19-monetization.md`](course/19-monetization.md) |
+| 20 | Brand Deals | [`20-brand-deals.md`](course/20-brand-deals.md) |
+| 21 | Your First 100 Videos | [`21-first-100-videos.md`](course/21-first-100-videos.md) |
+| 22 | Your First 90 Days | [`22-first-90-days.md`](course/22-first-90-days.md) |
+| 23 | Your Weekly Creator System | [`23-weekly-creator-system.md`](course/23-weekly-creator-system.md) |
+| 24 | Your Personal YouTube Playbook | [`24-personal-playbook.md`](course/24-personal-playbook.md) |
 
-Each section file contains: what to learn, why it matters, concepts from foundational to advanced, practical exercises, drills, real-world applications, challenges, baseline/exit assessments, mastery criteria, and a complete day-by-day 60-minute training plan.
+Each module contains: the concept explained simply, why it matters, how it applies specifically to Gaming + Reaction content, examples, practical exercises, templates, checklists, common mistakes, what beginners waste time on, homework, and a checkpoint before moving on.
 
-To begin, tell Claude: `Start Section 1` (or any other section number). Say `Day X` inside a section for that day's plan, and report your exercise results for evaluation.
+To begin, tell Claude: `Start Module 1` (or any other module number). Report your exercise results and Claude will evaluate them and help you improve before you move forward.
