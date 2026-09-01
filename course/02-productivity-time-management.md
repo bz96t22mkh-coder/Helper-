@@ -41,7 +41,7 @@ Deep work is one uninterrupted block on one hard thing — no tabs, no phone in 
 
 ### Day 4 — Removing the Trigger
 
-Willpower loses to a phone on the desk almost every time. Removing the trigger works because it takes the decision out of the moment entirely — you can't check a phone that's in another room, no matter how strong the urge.
+Willpower loses to a phone on the desk almost every time. Removing the trigger works because it takes the decision out of the moment entirely — you can't check a phone that's in another room, no matter how strong the urge. Before your block: phone physically in a different room (not just face-down), close every browser tab except the one you need, put a sticky note or timer where you'll see it. Do all three before you sit down, not after.
 
 | Min | Do |
 |---|---|
@@ -93,7 +93,7 @@ One fixed 15-minute ritual is the single highest-leverage habit in this whole sy
 
 ### Day 9 — Energy, Not Just Time
 
-Your focus quality isn't flat across the day — most people have a real peak window (often mid-morning) and real dead zones (often right after lunch). Put your hardest task in your actual best hour, not whatever hour happens to be free on the calendar.
+Your focus quality isn't flat across the day — most people have a real peak window (often mid-morning) and real dead zones (often right after lunch). Put your hardest task in your actual best hour, not whatever hour happens to be free on the calendar. To find your window: for 3 days, rate your focus 1–5 every 2 hours without trying to change anything — the pattern that emerges is your real map, not your guess about yourself.
 
 | Min | Do |
 |---|---|

@@ -43,7 +43,7 @@ This course, trading, and career aren't independent — they feed or drain each 
 
 ### Day 4 — What to Stop Doing
 
-Choosing what *not* to do matters as much as choosing what to do. Trying to be good at everything usually means being mediocre at everything, because your real, finite time gets spread too thin to go deep on anything.
+Choosing what *not* to do matters as much as choosing what to do. Trying to be good at everything usually means being mediocre at everything, because your real, finite time gets spread too thin to go deep on anything. **How to find candidates:** list your regular commitments, then for each ask "if I stopped this entirely, what would actually break?" If the honest answer is "not much," it's a real candidate to cut, no matter how long you've been doing it out of habit.
 
 | Min | Do |
 |---|---|

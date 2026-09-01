@@ -47,7 +47,7 @@ The easiest way to keep a conversation going: take one specific word or detail f
 
 ### Day 4 — Reading the Signals
 
-Leaning in vs. checking the time, short answers vs. elaborating, eye contact vs. scanning the room — these tell you whether to keep going or wrap up. The skill isn't complicated, it's just noticing instead of talking past them because you're focused on what you'll say next.
+Leaning in vs. checking the time, short answers vs. elaborating, eye contact vs. scanning the room — these tell you whether to keep going or wrap up. The skill isn't complicated, it's just noticing instead of talking past them because you're focused on what you'll say next. **What to check every minute or so:** are their answers getting longer or shorter, is their body angled toward you or away, are they asking you anything back? Two or more "wrap up" signals together means it's time to give them a graceful out, not push for more.
 
 | Min | Do |
 |---|---|

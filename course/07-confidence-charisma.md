@@ -100,7 +100,7 @@ Separate what happened from what it means about you — "they said no to this sp
 
 ### Day 9 — Letting Yourself Show More
 
-Playing it safe by flattening your reactions reads as less engaging, not more polished. Let real enthusiasm, surprise, or amusement actually show on your face and in your voice instead of keeping everything at one careful, neutral level.
+Playing it safe by flattening your reactions reads as less engaging, not more polished. Let real enthusiasm, surprise, or amusement actually show on your face and in your voice instead of keeping everything at one careful, neutral level. **Worked example.** Flat: hearing good news and saying "oh nice, cool" in the same tone you'd use for anything. Real: letting your voice actually lift, eyebrows up, a real "wait, that's great!" — the reaction most people have internally but edit down before it reaches their face.
 
 | Min | Do |
 |---|---|

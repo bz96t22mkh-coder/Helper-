@@ -80,6 +80,8 @@ People act on what addresses *their* concern, not on how airtight your own reaso
 
 Clear and short beats thorough and padded. State the point first, then add only the minimum context needed to act on it — most people bury the actual ask in three paragraphs of throat-clearing.
 
+**Worked example.** Padded: "Hi, hope you're doing well! I wanted to reach out because I've been thinking about our project timeline and I know things have been busy for everyone, but I was wondering if maybe we could possibly look at pushing the deadline back a bit if that works for you?" Point-first: "Requesting a 3-day extension on the project deadline — we hit an unexpected blocker on the integration. Can you confirm by Thursday?" Same ask, one sentence instead of four.
+
 | Min | Do |
 |---|---|
 | 5 | Warm-up. |
@@ -89,7 +91,7 @@ Clear and short beats thorough and padded. State the point first, then add only 
 
 ### Day 8 — Casual Register
 
-Same content, different packaging: contractions, shorter sentences, less formal structure — as if texting a friend, not writing a memo.
+Same content, different packaging: contractions, shorter sentences, less formal structure — as if texting a friend, not writing a memo. Take a professional line and run it through this filter: cut "I wanted to" and "I was wondering if," contract "do not" to "don't," and say it the way you'd actually say it out loud to someone you know.
 
 | Min | Do |
 |---|---|

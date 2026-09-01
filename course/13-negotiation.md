@@ -76,7 +76,7 @@ Ask open questions before you make any offer — what people first state often i
 
 ### Day 7 — Making Your Case Land
 
-Frame your position around what the other side actually cares about — credibility, real stakes, and sound logic together — not just stating your reasoning and hoping it lands on its own merits.
+Frame your position around what the other side actually cares about — credibility, real stakes, and sound logic together — not just stating your reasoning and hoping it lands on its own merits. **Worked example.** Logic-only: "This price is fair based on market rates." Combined: "I've done three deals like this in the last year at this rate (credibility), and if we go lower I genuinely can't deliver the quality you're asking for (stakes) — here's the breakdown of where the cost actually goes (logic)."
 
 | Min | Do |
 |---|---|

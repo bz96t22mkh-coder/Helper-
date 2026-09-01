@@ -59,7 +59,7 @@ Address a small accountability gap directly and early, before it grows — not a
 
 ### Day 6 — Explaining the Why, Not Just the What
 
-When a decision affects others, communicate the reasoning behind it, not just the decision itself — it's what people actually remember and trust, and it's what lets them make good calls themselves next time without asking you.
+When a decision affects others, communicate the reasoning behind it, not just the decision itself — it's what people actually remember and trust, and it's what lets them make good calls themselves next time without asking you. **Worked example.** Decision-only: "We're moving the deadline up a week." Decision + reasoning: "We're moving the deadline up a week — the client asked to launch before their board meeting, and I'd rather we control the crunch now than get surprised later." Same decision, but now everyone understands the logic well enough to apply it to the next similar call themselves.
 
 | Min | Do |
 |---|---|

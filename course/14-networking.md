@@ -74,7 +74,7 @@ A genuine, no-ask check-in every so often keeps a relationship warm. Reaching ou
 
 ### Day 7 — What You Want to Be Known For
 
-Reputation is built by being reliably known for something specific — consistency, expertise, generosity — which is what actually makes people want to introduce you to others, not a polished elevator pitch.
+Reputation is built by being reliably known for something specific — consistency, expertise, generosity — which is what actually makes people want to introduce you to others, not a polished elevator pitch. Ask yourself: if someone described me to a colleague in one sentence, what would they actually say? "The person who always replies fast," "the one who really knows X," "the one who makes intros for no reason" — reputation is built by repeatedly earning one of these, not by claiming it.
 
 | Min | Do |
 |---|---|
@@ -85,7 +85,7 @@ Reputation is built by being reliably known for something specific — consisten
 
 ### Day 8 — Checking Yourself for Transactional Drift
 
-If you're only reaching out to extract value, that's worth noticing and correcting before it becomes the default pattern people start to notice too.
+If you're only reaching out to extract value, that's worth noticing and correcting before it becomes the default pattern people start to notice too. **How to check:** for each recent message, ask "did this message offer something, or only ask for something?" A pattern of all-ask, no-offer is the definition of transactional — even if each individual message seemed reasonable on its own.
 
 | Min | Do |
 |---|---|
