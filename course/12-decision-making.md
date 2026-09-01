@@ -6,7 +6,9 @@
 
 ### Day 1 — Reversible vs. Irreversible
 
-If a decision is easy to undo, decide fast and cheap — you can fix it later. If it's hard to reverse, it deserves real deliberation. Most people get this backwards: agonizing over what to eat, rushing what to commit to long-term.
+If a decision is easy to undo, decide fast and cheap — you can fix it later. If it's hard to reverse, it deserves real deliberation. Most people get this backwards: agonizing over what to eat, rushing what to commit long-term to.
+
+**How to do it:** before spending time on any decision, ask "if this turns out wrong, how expensive and slow is it to undo?" Cheap and fast to undo → decide in minutes. Slow and expensive → actually deliberate.
 
 | Min | Do |
 |---|---|
@@ -17,7 +19,7 @@ If a decision is easy to undo, decide fast and cheap — you can fix it later. I
 
 ### Day 2 — What You're Giving Up
 
-Every choice means not doing the next-best alternative. Naming that alternative explicitly, instead of leaving it invisible, changes how attractive an option actually looks.
+Every choice means not doing the next-best alternative. Naming that alternative explicitly, instead of leaving it invisible, changes how attractive an option actually looks — "yes" to one thing is always also "no" to something else.
 
 | Min | Do |
 |---|---|
@@ -28,7 +30,9 @@ Every choice means not doing the next-best alternative. Naming that alternative 
 
 ### Day 3 — Size Times Likelihood
 
-A small likely gain can beat a huge unlikely one. Rough out the possible outcomes, how likely each is, and how big — don't just ask "could this go well."
+A small likely gain can beat a huge unlikely one, and vice versa. Rough out the possible outcomes, how likely each is, and how big — don't just ask "could this go well," ask "how often would this actually go well, and by how much."
+
+**Worked example.** Option A: 90% chance of a small win. Option B: 10% chance of a huge win, 90% chance of nothing. Which is better depends entirely on the actual numbers, not on which one "feels" more exciting to imagine.
 
 | Min | Do |
 |---|---|
@@ -39,7 +43,7 @@ A small likely gain can beat a huge unlikely one. Rough out the possible outcome
 
 ### Day 4 — Mood vs. Facts
 
-Fear, excitement, and impatience distort decisions without announcing themselves. Loss aversion overweights losses vs. equal gains. Anchoring overweights the first number you saw. Overconfidence overrates your own certainty. Check for these explicitly before finalizing.
+Fear, excitement, and impatience distort decisions without announcing themselves. **Loss aversion** overweights losses vs. equal gains (losing $100 feels worse than gaining $100 feels good). **Anchoring** overweights the first number you saw, even an arbitrary one. **Overconfidence** overrates your own certainty. Check for these explicitly, by name, before finalizing.
 
 | Min | Do |
 |---|---|
@@ -50,7 +54,7 @@ Fear, excitement, and impatience distort decisions without announcing themselves
 
 ### Day 5 — Knowing When You Have Enough Information
 
-Before gathering more data, ask: would this actually change my choice? If not, you already have enough — more research at that point is just stalling.
+Before gathering more data, ask: would this actually change my choice? If the answer is no, you already have enough — more research at that point is just stalling dressed up as diligence.
 
 | Min | Do |
 |---|---|

@@ -6,7 +6,9 @@
 
 ### Day 1 — Claim, Reason, Evidence
 
-Every argument has three parts: a claim, a reason for it, and evidence backing the reason. Most weak arguments are missing or hand-waving one of the three — breaking it down exposes exactly which.
+Every argument has three parts: a **claim** (the thing being asserted), a **reason** (why it's supposedly true), and **evidence** (what actually backs the reason up). Most weak arguments are missing or hand-waving one of the three.
+
+**Worked example.** "This trading strategy is good" (claim) "because it worked for me last month" (reason) "— I made $500 using it" (evidence). Sounds complete, but the evidence is one data point — that's the weak link, not the claim or reason themselves. Learning to spot *which* of the three is weak, not just that "something feels off," is the actual skill.
 
 | Min | Do |
 |---|---|
@@ -17,7 +19,9 @@ Every argument has three parts: a claim, a reason for it, and evidence backing t
 
 ### Day 2 — Hidden Assumptions
 
-Most disagreements are actually about an assumption neither side has said out loud. Ask "what would have to be true for this claim to hold?" and you'll usually find it.
+Most disagreements are actually about an assumption neither side has said out loud. Ask "what would have to be true for this claim to hold?" and you'll usually find it sitting there unexamined.
+
+**Worked example.** "We should invest in X because everyone's talking about it." The hidden assumption: "if lots of people are talking about something, that means it's a good investment" — which, said out loud, is obviously not always true. Surfacing it lets you actually evaluate it instead of nodding along.
 
 | Min | Do |
 |---|---|
@@ -28,7 +32,7 @@ Most disagreements are actually about an assumption neither side has said out lo
 
 ### Day 3 — Your Brain's Shortcuts
 
-Confirmation bias makes you notice evidence that agrees with you and skip what doesn't. Availability bias makes a vivid recent example feel more common than it is. Sunk-cost makes you keep going just because you already invested. These aren't stupidity — they're default settings everyone runs on unless they check for them.
+**Confirmation bias**: you notice evidence that agrees with you and skip what doesn't — so you feel more "proven right" over time than the actual evidence justifies. **Availability bias**: a vivid recent example (a plane crash in the news) feels more common than it statistically is, because it's easy to recall. **Sunk cost**: you keep going with something just because you already invested time or money, even when quitting is clearly the better move now. These aren't stupidity — they're default settings everyone runs on unless they check for them deliberately.
 
 | Min | Do |
 |---|---|
@@ -39,7 +43,9 @@ Confirmation bias makes you notice evidence that agrees with you and skip what d
 
 ### Day 4 — Common Fallacies
 
-Straw man attacks a distorted version of the argument. Ad hominem attacks the person instead of the claim. False dichotomy pretends there are only two options. Slippery slope assumes one step guarantees an extreme outcome. Appeal to authority treats "an expert said so" as proof on its own. Once you can name these, you start seeing them everywhere — including in your own arguments.
+**Straw man**: attacking a distorted, weaker version of the argument instead of the real one. **Ad hominem**: attacking the person instead of the claim ("well, you're just biased"). **False dichotomy**: pretending there are only two options when there are more. **Slippery slope**: assuming one small step guarantees an extreme outcome, with no real mechanism given for why. **Appeal to authority**: treating "an expert said so" as proof on its own, without checking if the expertise is even relevant.
+
+Once you can name these, you start seeing them everywhere — including, if you're honest, in your own arguments when you're trying to win rather than be right.
 
 | Min | Do |
 |---|---|
@@ -59,7 +65,9 @@ Straw man attacks a distorted version of the argument. Ad hominem attacks the pe
 
 ### Day 6 — Steelmanning
 
-Before responding to a view you disagree with, state it in its strongest, most charitable form — often stronger than its actual proponents state it. If your response still holds against the strongest version, it's a real response.
+Before responding to a view you disagree with, state it in its strongest, most charitable form — often stronger than its actual proponents state it themselves. If your response still holds against that strongest version, it's a real response. If it only worked against a weaker version, you haven't actually engaged with the idea yet.
+
+**How to do it:** ask "what's the best, smartest version of this argument a genuinely thoughtful person could make?" — not the version that's easiest to knock down.
 
 | Min | Do |
 |---|---|
@@ -70,7 +78,7 @@ Before responding to a view you disagree with, state it in its strongest, most c
 
 ### Day 7 — How Good Is This Evidence, Really
 
-A stat, a single story, and a large representative sample are not the same weight of evidence. Check source quality, sample size, and whether it's correlation being sold as causation.
+A single anecdote, a small sample, and a large representative study are not the same weight of evidence, even though they can all "prove a point" in conversation. Check: how big is the sample, is the source credible and checkable, and is this actually causation or just two things happening to correlate?
 
 | Min | Do |
 |---|---|
@@ -81,7 +89,7 @@ A stat, a single story, and a large representative sample are not the same weigh
 
 ### Day 8 — Thinking in Probabilities
 
-"Certainly true" and "certainly false" are rarely honest. Attach a rough confidence — "I'm about 70% sure" — and update it as evidence comes in.
+"Certainly true" and "certainly false" are rarely honest positions. Attach a rough confidence instead — "I'm about 70% sure" — and let new evidence actually move that number up or down, rather than treating your first belief as fixed.
 
 | Min | Do |
 |---|---|

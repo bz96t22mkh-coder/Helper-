@@ -6,7 +6,7 @@
 
 ### Day 1 — Know Your Walk-Away Point First
 
-Before anything else, know your BATNA — your Best Alternative To a Negotiated Agreement, i.e. what you'll actually do if this falls through. That single number sets your real confidence and your walk-away point. Negotiating without it means you're guessing at your own leverage.
+Before anything else, know your BATNA — your Best Alternative To a Negotiated Agreement, i.e. what you'll actually do if this falls through. If you're negotiating a salary and your BATNA is "I already have another offer at $X," you know exactly where your floor is. If your BATNA is "I have no other options," you know you're negotiating from a weaker position — and that's useful to know before you start, not mid-conversation.
 
 | Min | Do |
 |---|---|
@@ -17,7 +17,9 @@ Before anything else, know your BATNA — your Best Alternative To a Negotiated 
 
 ### Day 2 — Where Your Leverage Actually Comes From
 
-Leverage isn't fixed — it comes from your BATNA, how urgent this is for each side, and who has more information. It can shift mid-negotiation as you learn more.
+Leverage isn't fixed — it comes from your BATNA, how urgent this is for each side, and who has more information. It can shift mid-negotiation as you learn more about their situation.
+
+**Ask yourself:** who needs this deal more, right now? Whoever can walk away more easily has more leverage, regardless of who "should" have the upper hand on paper.
 
 | Min | Do |
 |---|---|
@@ -28,7 +30,9 @@ Leverage isn't fixed — it comes from your BATNA, how urgent this is for each s
 
 ### Day 3 — The First Number Matters More Than You Think
 
-Whoever states a number first shapes the whole range that follows, disproportionately. Know when to anchor first, and how to respond to someone else's anchor without over-conceding to it.
+Whoever states a number first shapes the whole range that follows, disproportionately — even when the other side knows the anchor is a negotiating tactic, it still pulls the outcome toward it. Know when to anchor first, and how to respond to someone else's anchor without over-conceding to it.
+
+**Responding to their anchor:** don't counter close to their number — that silently validates it as the real range. Counter from your own, separately-reasoned number, then work toward the middle from there.
 
 | Min | Do |
 |---|---|
@@ -39,7 +43,9 @@ Whoever states a number first shapes the whole range that follows, disproportion
 
 ### Day 4 — Giving Something Up on Purpose
 
-A concession only works if you signal it has real value and ask for something back — quietly giving in just invites more asks.
+A concession only works if you signal it has real value and ask for something back — quietly giving in just invites more asks, because it teaches the other side that pushing works.
+
+**Format:** "I can do X, if you can do Y" — never just "okay, fine, X" with nothing in return.
 
 | Min | Do |
 |---|---|
@@ -59,7 +65,7 @@ A concession only works if you signal it has real value and ask for something ba
 
 ### Day 6 — What Do They Actually Want
 
-Ask open questions before you make any offer — what people first state often isn't their real priority, and you can't trade well until you know what actually matters to them.
+Ask open questions before you make any offer — what people first state often isn't their real priority, and you can't trade well until you know what actually matters to them. Someone insisting on a specific price might actually care more about timeline, and would happily trade on price if you moved faster.
 
 | Min | Do |
 |---|---|
@@ -70,7 +76,7 @@ Ask open questions before you make any offer — what people first state often i
 
 ### Day 7 — Making Your Case Land
 
-Frame your position around what the other side actually cares about — credibility, real stakes, and sound logic together — not just stating your reasoning and hoping it lands.
+Frame your position around what the other side actually cares about — credibility, real stakes, and sound logic together — not just stating your reasoning and hoping it lands on its own merits.
 
 | Min | Do |
 |---|---|
@@ -81,7 +87,7 @@ Frame your position around what the other side actually cares about — credibil
 
 ### Day 8 — Finding the Trade Both Sides Actually Want
 
-If one side cares more about timeline and the other more about price, there's a trade that gives both more of what they actually want — but only once you know their real priorities.
+If one side cares more about timeline and the other more about price, there's a trade that gives both more of what they actually want — but only once you know their real priorities from Day 6. This is the whole point of asking first: without it, you're just splitting the difference on the wrong axis.
 
 | Min | Do |
 |---|---|
@@ -92,7 +98,7 @@ If one side cares more about timeline and the other more about price, there's a 
 
 ### Day 9 — Staying Calm Against a Difficult Counterpart
 
-Match their aggression or evasiveness and you lose the negotiation to your own reaction. Stay regulated and hold your position calmly instead.
+Match their aggression or evasiveness and you lose the negotiation to your own reaction, not to their tactics. Stay regulated (the pause from Section 5) and hold your position calmly instead — calm, repeated firmness outlasts aggression almost every time.
 
 | Min | Do |
 |---|---|

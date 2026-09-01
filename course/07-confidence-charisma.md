@@ -6,7 +6,9 @@
 
 ### Day 1 — Evidence, Not Hype
 
-Confidence isn't a mood you talk yourself into — it's built from proof you've actually handled things before. Trying to pump yourself up with vague affirmations doesn't work nearly as well as pointing at specific things you've actually done.
+Confidence isn't a mood you talk yourself into — it's built from proof you've actually handled things before. Trying to pump yourself up with vague affirmations ("I've got this!") doesn't work nearly as well as pointing at specific things you've actually done, because vague hype has nothing real to stand on.
+
+**How to do it:** write down 10 concrete, specific things you've done that took real nerve or competence — not "I'm a hard worker" but "I gave that presentation in March even though I was terrified" or "I fixed that bug nobody else could figure out." Before something that makes you nervous, reread 2–3 of them. You're not hyping yourself up — you're reminding yourself of actual evidence.
 
 | Min | Do |
 |---|---|
@@ -17,29 +19,31 @@ Confidence isn't a mood you talk yourself into — it's built from proof you've 
 
 ### Day 2 — Occupying Space
 
-Presence is just staying still and calm — not shrinking, not fidgeting. It reads as confidence before you say a word.
+Presence is just staying still and calm — not shrinking, not fidgeting. It reads as confidence before you say a word, because fidgeting and shrinking read as "I don't feel like I belong here," regardless of what you actually say.
+
+**The reset:** feet planted, shoulders back and down, hands still (not fidgeting with anything), chin level, unhurried movements. Practice noticing when you've drifted out of this and resetting mid-conversation.
 
 | Min | Do |
 |---|---|
 | 5 | Reread 2 items from your evidence list. |
-| 15 | Before 2 interactions today, deliberately reset posture and stillness. |
+| 15 | Before 2 interactions today, deliberately reset posture and stillness using the checklist above. |
 | 20 | Notice and adjust your posture mid-interaction at least once. |
 | 20 | How did resetting posture change how you felt going in? |
 
 ### Day 3 — Your Voice
 
-A steadier, unhurried delivery reads as more confident than either mumbling or forcing volume.
+A steadier, unhurried delivery reads as more confident than either mumbling or forcing volume — it's not about being loud, it's about not rushing. Rushing signals "I want this to be over," which undercuts everything else you're doing.
 
 | Min | Do |
 |---|---|
 | 5 | Warm-up. |
-| 20 | Record yourself at your normal pace, then again slower and steadier. Compare. |
+| 20 | Record yourself at your normal pace, then again 20% slower and steadier. Compare. |
 | 15 | Use the steadier delivery in one real conversation today. |
 | 20 | Did it feel different from the inside than it probably sounded? |
 
 ### Day 4 — Holding Eye Contact
 
-Glancing away mid-sentence reads as uncertain. Hold eye contact through a full sentence at a time, then break naturally.
+Glancing away mid-sentence reads as uncertain. Hold eye contact through a full sentence at a time — from the start of your thought to the end of it — then break naturally by looking slightly away, not down.
 
 | Min | Do |
 |---|---|
@@ -59,40 +63,44 @@ Glancing away mid-sentence reads as uncertain. Hold eye contact through a full s
 
 ### Day 6 — Doing the Uncomfortable Thing on Purpose
 
-Confident people aren't less afraid — they've just built a track record of acting anyway, which shrinks the fear's power over time. Build a ladder: 5 things, increasing difficulty, all safe.
+Confident people aren't less afraid — they've just built a track record of acting anyway, which shrinks the fear's power over time. Each time you do the uncomfortable thing and survive it, your brain updates its prediction of how bad it actually is.
+
+**Build a ladder:** write 5 uncomfortable-but-genuinely-safe actions, ordered easiest to hardest — e.g. (1) ask a stranger a small question, (2) disagree with someone respectfully, (3) ask for a small favor, (4) make a bold statement in a group, (5) your actual hardest one. Climb one rung at a time.
 
 | Min | Do |
 |---|---|
 | 5 | Warm-up. |
-| 20 | Build a 5-rung ladder of increasingly uncomfortable-but-safe actions. |
+| 20 | Build your 5-rung ladder. |
 | 20 | Do rung 1 for real today. |
 | 15 | Rate the actual discomfort (1–5) vs. what you predicted. |
 
 ### Day 7 — Recovering From a Mistake
 
-A visible stumble doesn't need a spiral or an over-apology — a brief acknowledgment and moving on reads as far more confident than pretending nothing happened.
+A visible stumble doesn't need a spiral or an over-apology — a brief acknowledgment and moving on reads as far more confident than pretending nothing happened, because everyone already saw it; pretending just adds a second awkward layer.
+
+**The move:** a short, light acknowledgment ("well, that came out wrong") and immediately continue — don't dwell, don't over-explain.
 
 | Min | Do |
 |---|---|
 | 5 | Warm-up. |
-| 20 | Deliberately misspeak on purpose in a low-stakes moment. Practice a light, non-spiraling recovery. |
+| 20 | Deliberately misspeak on purpose in a low-stakes moment. Practice the light recovery move above. |
 | 20 | Climb to ladder rung 2 today. |
 | 15 | How did the practiced recovery feel vs. your normal reaction to a real mistake? |
 
 ### Day 8 — Handling "No" Without Shutting Down
 
-Separate what happened from what it means about you. Stay warm and open instead of withdrawing.
+Separate what happened from what it means about you — "they said no to this specific ask" is a fact; "I'm not good enough" is a story you added. Stay warm and open instead of withdrawing, which keeps the relationship intact for next time.
 
 | Min | Do |
 |---|---|
 | 5 | Warm-up. |
-| 20 | Practice a light, non-defensive, still-warm response to an imagined "no." |
+| 20 | Practice a light, non-defensive, still-warm response to an imagined "no" ("no worries, appreciate you considering it"). |
 | 20 | Climb to ladder rung 3 today. |
 | 15 | Write what happened and what it means about you — as two separate things. |
 
 ### Day 9 — Letting Yourself Show More
 
-Playing it safe by flattening your reactions reads as less engaging, not more polished. Let real enthusiasm or surprise show.
+Playing it safe by flattening your reactions reads as less engaging, not more polished. Let real enthusiasm, surprise, or amusement actually show on your face and in your voice instead of keeping everything at one careful, neutral level.
 
 | Min | Do |
 |---|---|

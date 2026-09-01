@@ -6,7 +6,9 @@
 
 ### Day 1 — What Meditation Actually Trains
 
-The goal isn't an empty mind — it's noticing when your attention has wandered and gently bringing it back. That noticing-and-returning motion, repeated, is the entire exercise. Every time you catch your mind wandering, that's a successful rep, not a failure.
+The goal isn't an empty mind — it's noticing when your attention has wandered and gently bringing it back. That noticing-and-returning motion, repeated, is the entire exercise. Every time you catch your mind wandering, that's a successful rep, not a failure — it means the noticing worked.
+
+**How to do it:** sit, close your eyes or soften your gaze, and count your breaths silently, 1 through 10, then restart at 1. When you notice you've drifted off into a thought (you will, repeatedly), don't judge it — just note "wandered" and gently come back to counting, starting over at 1.
 
 | Min | Do |
 |---|---|
@@ -17,7 +19,7 @@ The goal isn't an empty mind — it's noticing when your attention has wandered 
 
 ### Day 2 — Bringing Attention Into a Routine Moment
 
-Most of the day runs on autopilot. Picking one routine activity — eating, walking — and giving it full attention, no phone, is the same skill applied outside a formal sit.
+Most of the day runs on autopilot. Picking one routine activity — eating, walking — and giving it full, deliberate attention (what do you actually taste, feel, see, right now) is the same skill applied outside a formal sit.
 
 | Min | Do |
 |---|---|
@@ -28,7 +30,7 @@ Most of the day runs on autopilot. Picking one routine activity — eating, walk
 
 ### Day 3 — Sitting Longer, Working With Restlessness
 
-Restlessness and distraction aren't signs you're doing it wrong — they're the actual material you're training on. Notice the pattern without judging the sit as good or bad.
+Restlessness and distraction aren't signs you're doing it wrong — they're the actual material you're training on. Notice the pattern (are you planning, replaying a memory, physically fidgety) without judging the sit as good or bad because of it.
 
 | Min | Do |
 |---|---|
@@ -48,7 +50,7 @@ Restlessness and distraction aren't signs you're doing it wrong — they're the 
 
 ### Day 5 — A Goal That's Actually Specific
 
-A vague wish is easy to avoid acting on. A specific, realistic, self-determined goal with a real timeline is the starting point for anything you visualize or build a habit around.
+A vague wish is easy to avoid acting on. A specific, realistic, self-determined goal with a real timeline is the starting point for anything you visualize or build a habit around. "Get better at trading" is a wish. "Complete 20 practice trades and review each one by the end of the month" is a goal.
 
 | Min | Do |
 |---|---|
@@ -59,7 +61,9 @@ A vague wish is easy to avoid acting on. A specific, realistic, self-determined 
 
 ### Day 6 — Rehearsing the Process, Not the Outcome
 
-Vividly imagining the specific steps of achieving a goal — not just the finish line — primes the actual behavior. This is a real cognitive mechanism: mental rehearsal of a process, not magical thinking about an outcome.
+Vividly imagining the specific steps of achieving a goal — not just the finish line — primes the actual behavior. This is a real cognitive mechanism: mental rehearsal of a process, not magical thinking about an outcome. Athletes use this to rehearse the actual motions of a performance, not just picture themselves winning.
+
+**How to do it:** close your eyes and walk through the goal step by step, as if it's happening now — where are you, what's the first thing you do, what does it feel like when it gets hard, what do you do next.
 
 | Min | Do |
 |---|---|
@@ -70,7 +74,7 @@ Vividly imagining the specific steps of achieving a goal — not just the finish
 
 ### Day 7 — Identity Over Willpower
 
-"I am someone who trains daily" drives more consistent action than "I should train today," because every day becomes a vote for who you're becoming instead of an isolated decision to make from scratch.
+"I am someone who trains daily" drives more consistent action than "I should train today," because every day becomes a vote for who you're becoming instead of an isolated decision to make from scratch each time, weighing pros and cons.
 
 | Min | Do |
 |---|---|
@@ -81,7 +85,7 @@ Vividly imagining the specific steps of achieving a goal — not just the finish
 
 ### Day 8 — Confidence Built on Evidence, Not Wishful Thinking
 
-Real expectation of success comes from an actual track record, not from repeating something positive to yourself.
+Real expectation of success comes from an actual track record, not from repeating something positive to yourself. This is the same evidence-list mechanism from the Confidence section, applied to this specific goal.
 
 | Min | Do |
 |---|---|
@@ -101,7 +105,7 @@ Real expectation of success comes from an actual track record, not from repeatin
 
 ### Day 10 — Meditation as a Live Tool, Not Just a Sit
 
-A 60-second breath reset used in a real stressful moment is the same mechanism as the formal sit, just deployed live.
+A 60-second breath reset used in a real stressful moment is the same mechanism as the formal sit, just deployed live: notice the spike, take a few slow counted breaths, let the urgency of the moment settle slightly before responding.
 
 | Min | Do |
 |---|---|

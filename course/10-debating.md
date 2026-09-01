@@ -6,18 +6,22 @@
 
 ### Day 1 — The Full Argument Spine
 
-A real argument has four parts said as one unit: Claim → Reason → Evidence → Conclusion. A claim alone is just an assertion. Say all four out loud, cleanly, without a big gap between them.
+A real argument has four parts said as one continuous unit: **Claim** (what you're asserting) → **Reason** (why) → **Evidence** (what backs the reason) → **Conclusion** (restate the claim, now earned). A claim alone is just an assertion; skip the evidence and you're just repeating yourself louder.
+
+**Worked example.** "We should switch to strategy X (claim) because it manages risk better (reason) — the max drawdown in backtesting was 8% versus 15% for our current approach (evidence) — so switching reduces our downside without giving up much upside (conclusion)." Notice each part does a different job; missing any one weakens the whole thing.
 
 | Min | Do |
 |---|---|
 | 15 | Baseline: given a real debatable topic, deliver a 90-second argument for one side, no prep beyond picking the side. Record it. |
-| 20 | Do the same on 2 new topics, full spine each time. |
+| 20 | Do the same on 2 new topics, hitting all four parts of the spine each time. |
 | 15 | Which part of the spine is weakest for you right now — claim, reason, evidence, or conclusion? |
 | 10 | Reflection. |
 
 ### Day 2 — Rebutting the Real Point
 
-Rebut the *strongest* part of the other side's argument, not a weaker point that's easier to knock down — that's a straw man, and it doesn't actually move anyone.
+Rebut the *strongest* part of the other side's argument, not a weaker point that's easier to knock down — that's a straw man, and it doesn't actually move anyone who's paying attention, including yourself.
+
+**How to find it:** before rebutting, ask "if I had to defend their side, what's the one point I couldn't easily dismiss?" That's the point to address.
 
 | Min | Do |
 |---|---|
@@ -28,7 +32,7 @@ Rebut the *strongest* part of the other side's argument, not a weaker point that
 
 ### Day 3 — Credibility, Stakes, Logic
 
-Persuasion runs on three levers: your credibility, making the stakes feel real, and sound logic. Most people lean on only one. Use all three in the same argument.
+Persuasion runs on three levers: your **credibility** (why should they trust you on this), making the **stakes** feel real and concrete (why does this actually matter to them), and **sound logic** (does the reasoning actually hold). Most people lean on only one — usually just logic — and wonder why a technically correct argument doesn't land.
 
 | Min | Do |
 |---|---|
@@ -39,7 +43,7 @@ Persuasion runs on three levers: your credibility, making the stakes feel real, 
 
 ### Day 4 — Disagreeing Without Making It Personal
 
-State your position, steelman theirs, then explain specifically why you still land where you do. This keeps a disagreement about the argument, not the person.
+State your position, steelman theirs, then explain specifically why you still land where you do. This keeps a disagreement about the argument, not the person — which is what actually lets people change their minds without losing face.
 
 | Min | Do |
 |---|---|
@@ -59,7 +63,7 @@ State your position, steelman theirs, then explain specifically why you still la
 
 ### Day 6 — Actually Argue Both Sides
 
-Argue side A for real, at full effort — not a token opposing statement — then argue side B the same way.
+Argue side A for real, at full effort — not a token opposing statement — then argue side B the same way. This trains the actual skill of argument construction, separate from what you personally believe.
 
 | Min | Do |
 |---|---|
@@ -69,7 +73,7 @@ Argue side A for real, at full effort — not a token opposing statement — the
 
 ### Day 7 — Staying Composed Under Interruption
 
-Getting interrupted mid-argument doesn't mean starting over — acknowledge the interruption and return to your point deliberately.
+Getting interrupted mid-argument doesn't mean starting over — acknowledge the interruption in one short phrase ("hold on, let me finish this point") and return to exactly where you left off, deliberately.
 
 | Min | Do |
 |---|---|

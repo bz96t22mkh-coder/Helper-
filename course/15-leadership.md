@@ -6,7 +6,7 @@
 
 ### Day 1 — Own the Outcome, Not the Excuse
 
-A leader owns what happened, including the parts that went wrong, instead of explaining it away. That's what actually earns trust — not being right all the time.
+A leader owns what happened, including the parts that went wrong, instead of explaining it away. That's what actually earns trust — not being right all the time. "I should have caught that earlier, here's what I'm changing" lands completely differently than "well, the timeline was unrealistic to begin with."
 
 | Min | Do |
 |---|---|
@@ -17,7 +17,7 @@ A leader owns what happened, including the parts that went wrong, instead of exp
 
 ### Day 2 — Saying the Direction Clearly
 
-A vague direction gets a vague result. State the expectation in one unambiguous sentence instead of hinting at it.
+A vague direction gets a vague result. State the expectation in one unambiguous sentence instead of hinting at it. "Can someone maybe look into this at some point" produces nothing; "I need this done by Thursday, here's what done looks like" produces something.
 
 | Min | Do |
 |---|---|
@@ -28,7 +28,7 @@ A vague direction gets a vague result. State the expectation in one unambiguous 
 
 ### Day 3 — Handing Off the Outcome, Not the Method
 
-Delegate with a clear outcome and enough context — not a script for exactly how to do it. Micromanaging the method defeats the point of delegating at all.
+Delegate with a clear outcome and enough context — not a script for exactly how to do it. "Get me a summary of X by Friday, here's why it matters" beats a step-by-step instruction sheet; it trusts the person and usually gets a better result than your exact method would have.
 
 | Min | Do |
 |---|---|
@@ -39,7 +39,7 @@ Delegate with a clear outcome and enough context — not a script for exactly ho
 
 ### Day 4 — Catching Gaps Early
 
-Address a small accountability gap directly and early, before it grows — not after it's already a problem.
+Address a small accountability gap directly and early, before it grows — not after it's already caused real damage. "Hey, I noticed X didn't happen — what happened there?" said early and calmly is completely different from the same conversation three weeks later, frustrated.
 
 | Min | Do |
 |---|---|
@@ -59,7 +59,7 @@ Address a small accountability gap directly and early, before it grows — not a
 
 ### Day 6 — Explaining the Why, Not Just the What
 
-When a decision affects others, communicate the reasoning behind it, not just the decision itself — it's what people actually remember and trust.
+When a decision affects others, communicate the reasoning behind it, not just the decision itself — it's what people actually remember and trust, and it's what lets them make good calls themselves next time without asking you.
 
 | Min | Do |
 |---|---|
@@ -70,7 +70,7 @@ When a decision affects others, communicate the reasoning behind it, not just th
 
 ### Day 7 — Addressing Tension Directly
 
-Avoiding a real tension doesn't make it go away — it just delays it and lets it grow. Address it directly and early, using regulation and negotiation skills, not avoidance.
+Avoiding a real tension doesn't make it go away — it just delays it and lets it grow underground. Address it directly and early, using the regulation (Section 5) and negotiation (Section 13) skills you already have, not avoidance.
 
 | Min | Do |
 |---|---|
@@ -81,7 +81,7 @@ Avoiding a real tension doesn't make it go away — it just delays it and lets i
 
 ### Day 8 — Different People Want Different Things
 
-Recognition, autonomy, mastery, or purpose — what motivates one person doesn't motivate another. Read what actually drives the specific person in front of you.
+Recognition, autonomy, mastery, or purpose — what motivates one person doesn't motivate another. Someone driven by mastery wants a hard problem and space to solve it; someone driven by recognition wants their work seen and named. Read what actually drives the specific person in front of you instead of assuming everyone wants what you want.
 
 | Min | Do |
 |---|---|
@@ -92,7 +92,7 @@ Recognition, autonomy, mastery, or purpose — what motivates one person doesn't
 
 ### Day 9 — Feedback That's Actually Useful
 
-Specific and behavior-focused lands; vague or personality-focused doesn't. Give positive feedback as deliberately as corrective.
+Specific and behavior-focused lands; vague or personality-focused doesn't. "You're not detail-oriented" is unhelpful and feels like an attack; "the last two reports had numbers that didn't match the summary — can we add a check before sending?" is specific, fixable, and not personal.
 
 | Min | Do |
 |---|---|
@@ -111,7 +111,7 @@ Specific and behavior-focused lands; vague or personality-focused doesn't. Give 
 
 ### Day 11 — Real Autonomy
 
-Trust matters most when it's tested — do your actions actually match your commitments? And can you give real autonomy instead of checking in constantly?
+Trust matters most when it's tested — do your actions actually match your commitments? Giving real autonomy means resisting the urge to check in constantly once you've delegated; checking in every hour defeats the entire point of delegating.
 
 | Min | Do |
 |---|---|

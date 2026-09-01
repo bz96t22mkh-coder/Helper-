@@ -6,18 +6,18 @@
 
 ### Day 1 — Net Worth and Cash Flow
 
-Net worth is assets minus liabilities — the clearest single snapshot of where you actually stand. Cash flow is money in minus money out over time, and it's a different number: you can have healthy net worth and negative cash flow, or the reverse. An asset puts money in your pocket or holds value; a liability takes money out or is owed.
+**Net worth** = assets minus liabilities — the clearest single snapshot of where you actually stand. An asset is anything that puts money in your pocket or holds/grows value (cash, investments, property); a liability is anything you owe (credit card balance, a loan). **Cash flow** = money in minus money out over a period of time, and it's a genuinely different number: you can have healthy net worth (a paid-off house) and negative cash flow (spending more than you earn this month), or the reverse.
 
 | Min | Do |
 |---|---|
 | 10 | Baseline: rate your financial knowledge 1–5 on budgeting, debt/interest, investing. Do you track your net worth or cash flow today? |
-| 25 | List your real assets and liabilities. Calculate your actual current net worth. |
+| 25 | List your real assets and liabilities. Calculate your actual current net worth (assets minus liabilities). |
 | 15 | Begin tracking real income vs. expenses this week. |
 | 10 | Did the net worth number surprise you? |
 
 ### Day 2 — Building a Budget
 
-Track income vs. expenses, then deliberately split allocations — needs, wants, savings — instead of spending reactively and hoping it works out.
+Track income vs. expenses, then deliberately split allocations — a common starting split is 50% needs (rent, food, bills), 30% wants, 20% savings/debt paydown — instead of spending reactively and hoping it works out at the end of the month.
 
 | Min | Do |
 |---|---|
@@ -28,7 +28,7 @@ Track income vs. expenses, then deliberately split allocations — needs, wants,
 
 ### Day 3 — Emergency Fund
 
-3–6 months of essential expenses set aside before other financial goals. It's what keeps one bad month from becoming a crisis.
+3–6 months of essential expenses (not your whole budget — just rent, food, utilities, minimum debt payments) set aside before other financial goals. It's what keeps one bad month — a job loss, a medical bill — from turning into a crisis or forcing you into high-interest debt.
 
 | Min | Do |
 |---|---|
@@ -39,13 +39,13 @@ Track income vs. expenses, then deliberately split allocations — needs, wants,
 
 ### Day 4 — Debt, and the Math of Interest
 
-Good debt can build an asset or earning capacity at a reasonable rate. Bad debt is high-interest and funds things that lose value. Either way, unpaid interest compounds against you — the exact same mechanism that grows savings, just running in reverse.
+**Good debt** can build an asset or earning capacity at a reasonable rate (a mortgage, a business loan). **Bad debt** is high-interest and funds things that lose value (credit card debt on consumption). Either way, unpaid interest compounds against you — the exact same mechanism that grows savings, just running in reverse: each period, you're charged interest not just on the original amount, but on the interest already added.
 
 | Min | Do |
 |---|---|
 | 5 | Warm-up. |
 | 20 | Classify 3 real or hypothetical debts as generally good or bad, and why. |
-| 20 | Manually calculate how a credit-card-style balance grows if unpaid over 12 months at a typical high rate. |
+| 20 | Manually calculate how a credit-card-style balance (e.g. $1,000 at 22% APR) grows if unpaid over 12 months. |
 | 15 | What did seeing the actual math change about how you think about debt? |
 
 ### Day 5 — Checkpoint
@@ -59,7 +59,7 @@ Good debt can build an asset or earning capacity at a reasonable rate. Bad debt 
 
 ### Day 6 — Compound Interest and Inflation
 
-The same mechanism that grows debt against you grows savings for you, in the other direction. Inflation is why cash sitting idle for years quietly loses real value — which is the actual argument for investing instead of just saving.
+The same mechanism that grows debt against you (Day 4) grows savings for you, in the other direction: each period you earn interest on your original amount plus all the interest already earned. **Inflation** is why cash sitting idle for years quietly loses real value — prices rise even if your bank balance doesn't — which is the actual argument for investing instead of just saving long-term.
 
 | Min | Do |
 |---|---|
@@ -70,7 +70,7 @@ The same mechanism that grows debt against you grows savings for you, in the oth
 
 ### Day 7 — Banking and Credit
 
-Your credit score is driven by payment history, how much of your available credit you're using, and how long you've had it. It matters because it affects every future borrowing cost.
+Your credit score is driven mainly by payment history (do you pay on time), utilization (how much of your available credit you're using), and length of credit history. It matters because it affects the interest rate you'll be offered on every future loan.
 
 | Min | Do |
 |---|---|
@@ -81,7 +81,7 @@ Your credit score is driven by payment history, how much of your available credi
 
 ### Day 8 — What a Stock, Bond, and ETF Actually Are
 
-A stock is ownership in a company. A bond is a loan to a company or government, paid back with interest. An ETF is a bundled basket of many stocks or bonds, bought as one unit. That's the whole plain-language version.
+A **stock** is ownership in a company — you gain or lose as the company does. A **bond** is a loan to a company or government, paid back with interest on a schedule, generally lower risk than stocks. An **ETF** is a bundled basket of many stocks or bonds, bought as one unit — you get instant diversification instead of picking individual companies.
 
 | Min | Do |
 |---|---|
@@ -92,7 +92,7 @@ A stock is ownership in a company. A bond is a loan to a company or government, 
 
 ### Day 9 — Why Diversification Actually Works
 
-Putting everything into one company means one bad event can wipe you out. Spreading across uncorrelated assets means no single event can — that's the entire logic, not a superstition.
+Putting everything into one company means one bad event (a scandal, a failed product) can wipe out a huge chunk of your money. Spreading across many uncorrelated assets means no single event can do that — if one holding drops, the others aren't necessarily affected the same way. That's the entire logic, not a superstition about "not putting all your eggs in one basket."
 
 | Min | Do |
 |---|---|
@@ -112,7 +112,7 @@ Putting everything into one company means one bad event can wipe you out. Spread
 
 ### Day 11 — One Connected Plan
 
-Budget, emergency fund, and investing aren't separate silos — they're one continuous plan, each step feeding the next.
+Budget, emergency fund, and investing aren't separate silos — they're one continuous plan, each step feeding the next: budget frees up money → emergency fund protects you from needing to touch investments early → then, and only then, investing puts the surplus to work long-term.
 
 | Min | Do |
 |---|---|
@@ -123,7 +123,7 @@ Budget, emergency fund, and investing aren't separate silos — they're one cont
 
 ### Day 12 — Spotting a Scam
 
-Guaranteed high returns, pressure to act immediately, unverifiable sources, "too good to be true" — these are the actual red flags, especially relevant since trading spaces get targeted heavily.
+Guaranteed high returns, pressure to act immediately, unverifiable sources, "too good to be true" framing — these are the actual red flags, and trading-adjacent spaces get targeted with them heavily because people there are already primed to believe in fast gains.
 
 | Min | Do |
 |---|---|

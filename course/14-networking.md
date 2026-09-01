@@ -6,18 +6,20 @@
 
 ### Day 1 — Introducing Yourself
 
-A short, clear statement of who you are and what you care about — no over-explaining, no under-selling. Say it enough times that it stops sounding rehearsed.
+A short, clear statement of who you are and what you care about — no over-explaining, no under-selling. Structure: name, what you do (in plain terms, not a job title nobody outside your field understands), and one thing you're genuinely interested in right now.
+
+**Worked example:** "I'm Alex — I work in operations at a logistics company, and lately I've gotten really into learning to trade, so I'm deep in that right now." Fifteen seconds, gives them two easy threads to ask about.
 
 | Min | Do |
 |---|---|
 | 15 | Baseline: describe your current networking habits. How often do you meet new contacts, and follow up? |
-| 20 | Write and practice a 15-second and a 30-second self-introduction. |
+| 20 | Write and practice a 15-second and a 30-second self-introduction using the structure above. |
 | 15 | What do you usually lead with, and does it represent what you want to be known for? |
 | 10 | Reflection. |
 
 ### Day 2 — Starting a Professional Conversation
 
-Same skill as any social opener, aimed at a professional context — a shared situation or a genuine question about their work.
+Same skill as any social opener, aimed at a professional context — a shared situation ("how do you know the host?") or a genuine question about their work ("what does a normal day look like in your role?").
 
 | Min | Do |
 |---|---|
@@ -28,7 +30,9 @@ Same skill as any social opener, aimed at a professional context — a shared si
 
 ### Day 3 — Give Before You Ask
 
-Offering something useful — an introduction, a resource, help — before you need anything builds a relationship that can actually hold a future ask.
+Offering something useful — an introduction, a resource, help — before you need anything builds a relationship that can actually hold a future ask. This isn't a manipulation tactic; it just means you're building an actual two-way relationship instead of a transaction.
+
+**Ask yourself:** what does this specific person actually need or want right now, that I could genuinely help with, with no expectation of anything back?
 
 | Min | Do |
 |---|---|
@@ -39,7 +43,7 @@ Offering something useful — an introduction, a resource, help — before you n
 
 ### Day 4 — The Follow-Up Is Where It Actually Happens
 
-The first conversation is just an opener. A specific message referencing something real from that conversation is what turns it into an actual relationship.
+The first conversation is just an opener. A specific message referencing something real from that conversation is what turns it into an actual relationship. "Great meeting you!" gets deleted; "hey, that book you mentioned — I looked it up and it looks great, thanks for the rec" gets a reply.
 
 | Min | Do |
 |---|---|
@@ -59,7 +63,7 @@ The first conversation is just an opener. A specific message referencing somethi
 
 ### Day 6 — Staying in Touch Without an Agenda
 
-A genuine, no-ask check-in every so often keeps a relationship warm. Reaching out only when you need something is what makes it feel transactional.
+A genuine, no-ask check-in every so often keeps a relationship warm. Reaching out only when you need something is what makes a relationship feel transactional — the fix is simple: message people sometimes with nothing to ask for at all.
 
 | Min | Do |
 |---|---|
@@ -70,7 +74,7 @@ A genuine, no-ask check-in every so often keeps a relationship warm. Reaching ou
 
 ### Day 7 — What You Want to Be Known For
 
-Reputation is built by being reliably known for something specific — consistency, expertise, generosity — which is what actually makes people want to introduce you to others.
+Reputation is built by being reliably known for something specific — consistency, expertise, generosity — which is what actually makes people want to introduce you to others, not a polished elevator pitch.
 
 | Min | Do |
 |---|---|
@@ -81,7 +85,7 @@ Reputation is built by being reliably known for something specific — consisten
 
 ### Day 8 — Checking Yourself for Transactional Drift
 
-If you're only reaching out to extract value, that's worth noticing and correcting before it becomes the pattern.
+If you're only reaching out to extract value, that's worth noticing and correcting before it becomes the default pattern people start to notice too.
 
 | Min | Do |
 |---|---|

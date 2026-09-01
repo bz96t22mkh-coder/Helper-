@@ -6,39 +6,48 @@
 
 ### Day 1 — Starting a Conversation
 
-You don't need a clever line — a situational observation or a genuine question about the context you're both in works better and feels less rehearsed. Rapport comes from curiosity about the other person, not from being interesting yourself.
+You don't need a clever line — a situational observation or a genuine question about the context you're both in works better and feels less rehearsed, because it is less rehearsed. Rapport comes from curiosity about the other person, not from being interesting yourself.
+
+**Three openers that work almost anywhere:**
+1. Observation about the shared situation: "This line is not moving fast, huh."
+2. Genuine question about context: "Have you tried this place before? What's good here?"
+3. A direct, warm statement: "I like your [specific real thing] — where's that from?"
+
+All three work because they need almost no setup and give the other person an easy, obvious thing to respond to.
 
 | Min | Do |
 |---|---|
 | 15 | Baseline: rate your comfort starting conversations with strangers (1–5). Recall your last attempt — what happened? |
-| 20 | Write 5 situational openers for contexts you'll actually face this week. |
+| 20 | Write 5 openers for contexts you'll actually face this week, using the three types above. |
 | 15 | Use one for real today, even somewhere low-stakes. |
 | 10 | How did it feel before, during, after? |
 
 ### Day 2 — Body Language
 
-Open posture and steady eye contact read as approachable before you've said a word. Closed-off posture undercuts even a good opener.
+Open posture and steady eye contact read as approachable before you've said a word. Closed-off posture — arms crossed, angled away, phone in hand — undercuts even a good opener, because people read the body before they process the words.
+
+**The reset:** face the person fully, relax your shoulders down, hands visible and unclasped, chin level. Do this deliberately before you speak, not as an afterthought.
 
 | Min | Do |
 |---|---|
 | 5 | Recall yesterday's attempt. |
-| 15 | Before 2 interactions today, deliberately reset posture — open, facing them, relaxed hands. |
+| 15 | Before 2 interactions today, deliberately reset posture using the checklist above. |
 | 20 | Use another opener from your list, consciously applying it. |
 | 20 | Did adjusting posture change how the interaction felt? |
 
 ### Day 3 — Following Up on What They Said
 
-The easiest way to keep a conversation going: ask a follow-up question that builds on their last answer instead of pivoting to talk about yourself.
+The easiest way to keep a conversation going: take one specific word or detail from their last answer and ask more about it, instead of pivoting to talk about yourself. If they say "I just got back from a trip," don't say "oh nice, I love traveling too, I went to..." — ask "where'd you go?" and let them keep talking.
 
 | Min | Do |
 |---|---|
 | 5 | Recall yesterday's interaction. |
-| 25 | In a real conversation today, ask 3 consecutive follow-ups building on their last answer before you mention yourself. |
+| 25 | In a real conversation today, ask 3 consecutive follow-ups building on their last answer before you mention yourself once. |
 | 30 | Did the conversation go deeper than usual? Where did you want to jump to yourself instead? |
 
 ### Day 4 — Reading the Signals
 
-Leaning in vs. checking the time, short answers vs. elaborating — these tell you whether to keep going or wrap up. Notice them instead of talking past them.
+Leaning in vs. checking the time, short answers vs. elaborating, eye contact vs. scanning the room — these tell you whether to keep going or wrap up. The skill isn't complicated, it's just noticing instead of talking past them because you're focused on what you'll say next.
 
 | Min | Do |
 |---|---|
@@ -65,7 +74,7 @@ Leaning in vs. checking the time, short answers vs. elaborating — these tell y
 
 ### Day 7 — Genuine Curiosity
 
-Rapport isn't built by being impressive — it's built by making the other person feel genuinely interesting to you. Ask "why" or "what was that like" instead of relating everything back to your own story.
+Rapport isn't built by being impressive — it's built by making the other person feel genuinely interesting to you. Ask "why" or "what was that like" instead of relating everything back to your own similar story, which quietly shifts the spotlight to you.
 
 | Min | Do |
 |---|---|
@@ -76,13 +85,15 @@ Rapport isn't built by being impressive — it's built by making the other perso
 
 ### Day 8 — Silence Is Fine
 
-A pause is normal, not a crisis. Resist filling every gap with nervous talk — let it sit for a couple of seconds and see what happens.
+A pause is normal, not a crisis. Resist filling every gap with nervous talk — let it sit for a couple of seconds and see what happens; often the other person fills it themselves with something more genuine than small talk.
+
+**Recovery line for when something lands wrong:** "well, that landed differently in my head" — said lightly, with a small smile, then move on. No over-apologizing.
 
 | Min | Do |
 |---|---|
 | 5 | Warm-up. |
 | 20 | In a real conversation, let one natural pause sit for 2–3 seconds without filling it. |
-| 15 | Prepare and practice a light recovery line for when something lands wrong ("well, that landed differently in my head"). |
+| 15 | Practice the recovery line above until it feels natural. |
 | 10 | What actually happened during the silence — was it as bad as you feared? |
 | 10 | Reflection. |
 
@@ -91,7 +102,7 @@ A pause is normal, not a crisis. Resist filling every gap with nervous talk — 
 | Min | Do |
 |---|---|
 | 5 | Warm-up. |
-| 30 | In one real conversation, focus entirely on making the other person comfortable — validate rather than correct or one-up. |
+| 30 | In one real conversation, focus entirely on making the other person comfortable — validate what they say rather than correct or one-up it. |
 | 15 | What did you do differently, and how did they respond? |
 | 10 | Reflection. |
 
@@ -115,7 +126,7 @@ A pause is normal, not a crisis. Resist filling every gap with nervous talk — 
 
 ### Day 12 — Matching Their Style
 
-Some people want brief and to-the-point, others want depth and detail. Match their style instead of running one fixed script on everyone.
+Some people want brief and to-the-point, others want depth and detail. Watch their first response — a short, factual answer means match brief; a long, detailed answer means they want depth. Mirror that instead of running one fixed script on everyone.
 
 | Min | Do |
 |---|---|
@@ -126,7 +137,7 @@ Some people want brief and to-the-point, others want depth and detail. Match the
 
 ### Day 13 — Processing a Past Rejection
 
-Separate "this didn't land" from "I am bad." Regulate first, then decide what — if anything — you'd do differently.
+Separate "this didn't land" from "I am bad." One is a fact about a moment; the other is a story you're adding on top of it. Name the emotion, understand what it's actually pointing at, then decide what — if anything — you'd do differently.
 
 | Min | Do |
 |---|---|
@@ -137,12 +148,12 @@ Separate "this didn't land" from "I am bad." Regulate first, then decide what �
 
 ### Day 14 — Taking Criticism Without Defending
 
-Acknowledge, ask a clarifying question if needed, don't over-apologize or counter-attack.
+**Format:** acknowledge ("that's fair, I hadn't thought about it that way") → ask a clarifying question if genuinely unclear → stop. No over-apologizing, no counter-attacking, no long defense of yourself.
 
 | Min | Do |
 |---|---|
 | 5 | Warm-up. |
-| 25 | Write 3 pieces of real or plausible criticism you might get. Draft a calm, non-defensive response to each. |
+| 25 | Write 3 pieces of real or plausible criticism you might get. Draft a calm response to each using the format above. |
 | 20 | Which response felt hardest to write calmly, and why? |
 | 10 | Reflection. |
 

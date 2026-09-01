@@ -8,16 +8,20 @@
 
 Most "shoulds" are just convention, not truth. Ask whether an assumption is actually true, or just how it's normally done, and rebuild your view from what's actually real underneath it.
 
+**How to do it:** take a belief and keep asking "why is that true?" until you hit something that's actually a fact, not just a repeated convention. "You need a 4-year degree to succeed" — why? "Because employers want it" — why? "Because it signals competence" — okay, now you're at the real thing: competence. Are there other ways to signal competence? Now you're thinking from fundamentals instead of the convention.
+
 | Min | Do |
 |---|---|
 | 15 | Baseline: describe a real long-term goal you're pursuing. Is your thinking about it mostly next-step, or does it consider ripple effects and multiple futures? |
-| 20 | Take a belief about how something "should" be done. Rebuild it from fundamentals. |
+| 20 | Take a belief about how something "should" be done. Rebuild it from fundamentals using the method above. |
 | 15 | Did the fundamentals actually support the conventional approach, or not? |
 | 10 | Reflection. |
 
 ### Day 2 — And Then What Happens?
 
-Most strategic mistakes come from stopping at the first, obvious effect. Ask "and then what happens?" three times in a row and you'll usually find the real cost or benefit.
+Most strategic mistakes come from stopping at the first, obvious effect. Ask "and then what happens?" three times in a row and you'll usually find the real cost or benefit that wasn't visible at first glance.
+
+**Worked example.** "I'll take on this extra project." And then what happens? "I have less time for my main priorities." And then what happens? "The main priorities slip, and that's actually what I'm evaluated on." And then what happens? "The extra project helped short-term but hurt the thing that actually matters." Three questions in, the decision looks very different than it did at first.
 
 | Min | Do |
 |---|---|
@@ -28,7 +32,7 @@ Most strategic mistakes come from stopping at the first, obvious effect. Ask "an
 
 ### Day 3 — Your Goals Are One System, Not Separate Tracks
 
-This course, trading, and career aren't independent — they feed or drain each other. Seeing the connections changes how you'd actually allocate time between them.
+This course, trading, and career aren't independent — they feed or drain each other. This course's communication skills make your trading community interactions better; poor sleep from late-night trading study drains your energy for this course. Seeing the connections changes how you'd actually allocate time between them.
 
 | Min | Do |
 |---|---|
@@ -39,7 +43,7 @@ This course, trading, and career aren't independent — they feed or drain each 
 
 ### Day 4 — What to Stop Doing
 
-Choosing what *not* to do matters as much as choosing what to do. Trying to be good at everything usually means being mediocre at everything.
+Choosing what *not* to do matters as much as choosing what to do. Trying to be good at everything usually means being mediocre at everything, because your real, finite time gets spread too thin to go deep on anything.
 
 | Min | Do |
 |---|---|
@@ -59,7 +63,7 @@ Choosing what *not* to do matters as much as choosing what to do. Trying to be g
 
 ### Day 6 — Best Case, Worst Case, Most Likely
 
-Sketch 2–3 plausible futures for a real strategic choice and check whether your plan actually survives the worst one, not just the one you're hoping for.
+Sketch 2–3 plausible futures for a real strategic choice and check whether your plan actually survives the worst one, not just the one you're hoping for. A plan that only works in the best case isn't really a plan.
 
 | Min | Do |
 |---|---|
@@ -70,7 +74,7 @@ Sketch 2–3 plausible futures for a real strategic choice and check whether you
 
 ### Day 7 — Where Small Effort Pays Off Disproportionately
 
-Some time/effort produces linear returns; some produces outsized returns because it compounds — a skill, a relationship, a piece of knowledge. Find where you're spending effort without leverage.
+Some time and effort produces linear returns (work an extra hour, get an extra hour's worth of output); some produces outsized returns because it compounds — a skill, a relationship, a piece of knowledge that keeps paying off. Find where you're spending effort without leverage and where you're not spending enough where it would compound.
 
 | Min | Do |
 |---|---|
@@ -81,7 +85,7 @@ Some time/effort produces linear returns; some produces outsized returns because
 
 ### Day 8 — Combining All Three Lenses
 
-Fundamentals, second-order thinking, and systems thinking together, on one genuinely complex question — not one lens at a time.
+Fundamentals, second-order thinking, and systems thinking together, on one genuinely complex question — not one lens at a time, since real questions need all three at once.
 
 | Min | Do |
 |---|---|

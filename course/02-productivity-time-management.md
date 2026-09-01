@@ -6,28 +6,32 @@
 
 ### Day 1 — Important vs. Urgent
 
-Most of your day gets eaten by things that are urgent but don't actually matter (a notification, a small ask) while the things that actually compound — deep skill work like this course — never feel urgent, so they get pushed to "later" forever. The fix isn't willpower, it's putting the important stuff on the calendar at a fixed time so it doesn't have to compete for attention in the moment.
+Most of your day gets eaten by things that are urgent but don't actually matter (a notification, a small ask) while the things that actually compound — deep skill work like this course — never feel urgent, so they get pushed to "later" forever.
+
+**The tool:** a 2x2 grid. Sort everything on your plate into: Important+Urgent (do today), Important+Not-Urgent (schedule a fixed slot — this is where this course lives), Urgent+Not-Important (delegate, batch, or say no), Neither (drop it). The fix for the second box specifically isn't willpower — it's putting it on the calendar at a fixed time so it doesn't have to compete with whatever feels loud in the moment.
 
 | Min | Do |
 |---|---|
-| 15 | List everything on your plate this week. Sort each into: important+urgent, important+not-urgent, urgent+not-important, neither. |
-| 20 | Circle everything in "important, not urgent" — that's what keeps losing to noise. This course is probably one. |
-| 15 | Do a rough hour-by-hour time audit of yesterday. Compare to the sort above. |
+| 15 | List everything on your plate this week. Sort each into the 4 boxes above. |
+| 20 | Circle everything in Important+Not-Urgent — that's what keeps losing to noise. This course is probably one. |
+| 15 | Do a rough hour-by-hour time audit of yesterday. Compare to the sort above — did the important-not-urgent items actually get time? |
 | 10 | Name the one thing that wins your time by default that shouldn't. |
 
 ### Day 2 — Time-Blocking
 
 A to-do list tells you what to do. A calendar block tells you *when* — and only the second one reliably happens, because it's already claimed a slot instead of competing with everything else for one.
 
+**How to do it:** open a real calendar (paper or digital). For each Important+Not-Urgent item from Day 1, pick the exact day and hour it happens this week — not "sometime Tuesday," but "Tuesday 7:00–8:00am." Treat that block like an appointment with someone else: you wouldn't casually skip a meeting, don't casually skip your own block.
+
 | Min | Do |
 |---|---|
-| 30 | Time-block a real draft week: a fixed slot for this course, a fixed slot for trading study, a fixed slot for anything else important. |
+| 30 | Time-block a real draft week: a fixed slot for this course, a fixed slot for trading study, a fixed slot for anything else important. Exact day and hour, not "sometime." |
 | 15 | Find the slot where two things collide and fix it now. |
 | 15 | Adjust one thing to make the schedule realistic, not aspirational. |
 
 ### Day 3 — Deep Work
 
-Deep work is one uninterrupted block on one hard thing — no tabs, no phone in reach. Most people never actually get one because they don't remove the trigger for distraction before starting; they just try to resist it in the moment, and lose.
+Deep work is one uninterrupted block on one hard thing — no tabs, no phone in reach. Most people never actually get one because they don't remove the trigger for distraction before starting; they just try to resist it in the moment, and lose. The fix happens *before* the block starts: phone in another room, one browser tab, door closed, timer set — the environment does the work, not your willpower once you're already sitting there.
 
 | Min | Do |
 |---|---|
@@ -37,17 +41,17 @@ Deep work is one uninterrupted block on one hard thing — no tabs, no phone in 
 
 ### Day 4 — Removing the Trigger
 
-Willpower loses to a phone on the desk almost every time. Removing the trigger (phone in another room, one tab, notifications off) works because it takes the decision out of the moment entirely.
+Willpower loses to a phone on the desk almost every time. Removing the trigger works because it takes the decision out of the moment entirely — you can't check a phone that's in another room, no matter how strong the urge.
 
 | Min | Do |
 |---|---|
-| 15 | Remove your top distraction trigger before today's block. |
+| 15 | Remove your top distraction trigger before today's block (phone in another room, one tab, notifications off). |
 | 25 | Run another 30-minute block with the trigger removed. Compare to Day 3. |
 | 20 | Was the improvement from willpower or from the environment change? |
 
 ### Day 5 — Why You Procrastinate
 
-You don't procrastinate because you're lazy — you procrastinate on tasks that feel boring, ambiguous, or make you anxious, because avoiding the feeling is easier than doing the task. The fix targets the feeling: shrink the task until the first slice is small enough that starting takes under two minutes.
+You don't procrastinate because you're lazy — you procrastinate on tasks that feel boring, ambiguous, or make you anxious, because avoiding the feeling is easier in the moment than doing the task. The fix targets the feeling, not the task: shrink it until the very first slice is small enough that starting takes under two minutes. "Write the report" is too big and vague to start. "Open the document and write one sentence" isn't.
 
 | Min | Do |
 |---|---|
@@ -58,18 +62,18 @@ You don't procrastinate because you're lazy — you procrastinate on tasks that 
 
 ### Day 6 — Habit Design
 
-A habit sticks when it's tied to a fixed cue ("right after coffee"), not to "whenever I feel motivated" — motivation is unreliable, a fixed trigger isn't.
+A habit sticks when it's tied to a fixed cue ("right after coffee, before I check my phone"), not to "whenever I feel motivated" — motivation is unreliable, a fixed trigger isn't. The cue has to be something that already happens every day without fail, so the new habit gets attached to something solid.
 
 | Min | Do |
 |---|---|
-| 20 | Pick one fixed daily cue and attach this course's session to it explicitly. |
+| 20 | Pick one fixed daily cue that already happens without fail. Attach this course's session to it explicitly ("right after X, I do this course"). |
 | 15 | Attach a second recurring task (trading review) to its own fixed cue. |
-| 15 | Write your fallback plan for the day the cue gets disrupted — decide it now, not in the moment. |
+| 15 | Write your fallback plan for the day the cue gets disrupted (travel, a bad day) — decide it now, not in the moment. |
 | 10 | Check: did today's session actually happen at the cue you picked? |
 
 ### Day 7 — Connecting Daily Work to a Real Goal
 
-If your daily schedule doesn't visibly ladder up to something, it's easy to let it slide. Pick a real goal, break it into this month's outcome, then this week's, then today's block.
+If your daily schedule doesn't visibly ladder up to something, it's easy to let it slide the first time something else feels more pressing. **The cascade:** pick one real 1–3 month goal → break it into what this month needs to look like → break that into what this week needs to look like → check that today's schedule actually serves this week's piece.
 
 | Min | Do |
 |---|---|
@@ -79,21 +83,21 @@ If your daily schedule doesn't visibly ladder up to something, it's easy to let 
 
 ### Day 8 — The Weekly Review
 
-One fixed 15-minute ritual — what got done, what didn't and why, what's the priority next week — is the single highest-leverage habit in this whole system. Everything else drifts without it.
+One fixed 15-minute ritual is the single highest-leverage habit in this whole system — everything else drifts without it. **The template, every week, same 4 questions:** What actually got done this week? What didn't, and why? What's the one priority for next week? What's one thing about the system itself I should fix?
 
 | Min | Do |
 |---|---|
-| 15 | Write a fixed 4-question weekly review template. |
+| 15 | Write out those 4 questions as your fixed weekly review template. |
 | 25 | Run it right now on this actual week. |
-| 20 | Commit to a fixed day/time this becomes standing. |
+| 20 | Commit to a fixed day/time this becomes standing — put it on the calendar now. |
 
 ### Day 9 — Energy, Not Just Time
 
-Your focus quality isn't flat across the day. Put your hardest task in your actual best hour, not whatever hour happens to be free.
+Your focus quality isn't flat across the day — most people have a real peak window (often mid-morning) and real dead zones (often right after lunch). Put your hardest task in your actual best hour, not whatever hour happens to be free on the calendar.
 
 | Min | Do |
 |---|---|
-| 20 | Roughly chart your energy across a typical day — high/medium/low by hour. |
+| 20 | Roughly chart your energy across a typical day — high/medium/low by hour, based on real observation, not guessing. |
 | 15 | Move your hardest task into your real best window if it isn't there already. |
 | 15 | What low-value task is currently sitting in your best hour that shouldn't be? |
 | 10 | Adjust the schedule. |
