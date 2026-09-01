@@ -15,16 +15,32 @@ High-effort reaction: watch → **give context** (what is this, why does it matt
 
 The added layers — context, opinion, connection — are what turn a passive viewing session into content.
 
-## 4. The toolbox
+## 4. The toolbox — with the actual mechanism for each
 
-- **Commentary**: describe what's happening in your own words with a spin (not neutral narration — narration with attitude).
-- **Humor**: exaggerate reactions for comedic effect, find the absurd angle, make callbacks to earlier moments in the same video.
-- **Opinions**: take an actual position ("this was a mistake and here's why") rather than staying neutral — neutral is forgettable.
-- **Storytelling**: relate the clip to a personal anecdote or a broader narrative ("this reminds me of the time...") to add a layer viewers can't get from the source alone.
-- **Predictions**: pause before a reveal and guess out loud what happens next — creates tension and makes the payoff land harder (Module 11).
-- **Analysis**: break down *why* something worked, failed, or matters — especially valuable for gaming-adjacent reaction content (patch notes, trailers, community drama).
-- **Arguments/devil's advocate**: deliberately take the less obvious side sometimes — disagreement drives comments (Module 16).
-- **Audience interaction**: address the viewer directly ("you know this is about to go wrong"), ask rhetorical questions, invite comments on a specific debate.
+Naming these isn't enough to use them live under filming pressure — each one needs a concrete move, not just an intention. Module 10 builds several of these mechanisms in depth; this section gives you the reaction-specific version of each, with the fast, repeatable process to actually generate the line on camera.
+
+- **Commentary with a spin, not neutral narration**: the mechanism is to never describe an event without attaching a judgment word to it. Neutral: "he picked the red door." Spin: "he picked the red door, which is already a mistake." The rule to drill: after any factual description, force one evaluative word onto it (smart/dumb/risky/lazy/bold) before moving on — that single word is what separates commentary from narration.
+- **Humor — Formula A (exaggeration) and Formula B (comparison)**: full mechanism in Module 10, Technique 6. Quick version: take the true, boring fact and either (A) multiply the stakes ("this is annoying" → "this is the worst thing that's happened to me all week") or (B) compare it to an absurd unrelated thing sharing one trait ("that was slow" → "that had the reaction time of a brick"). Pick whichever comes faster, say it with full confidence, no hedging.
+- **Opinions — the helped-or-hurt test**: full mechanism in Module 10, Technique 7. Ask one binary question — did this choice help or hurt what the person on screen was actually trying to do — take whichever answer arrives first, and say it as **"[claim], because [reason]"** within about 3 seconds of the clip ending. Don't search for your "real," fully-considered opinion first; the fast claim IS the opinion. You can soften or complicate it a few seconds later without it costing you anything.
+- **Storytelling — the bridge-phrase trigger**: full mechanism in Module 10, Technique 12. Say "this reminds me of—" or "this is exactly like the time—" *before* you know what comes next. Committing to the sentence out loud buys you the second or two of real search time you need to actually find the connection — waiting until the memory is ready before speaking is why this technique usually gets skipped.
+- **Predictions — likely vs. entertaining**: full mechanism in Module 10, Technique 10. Before a reveal, quickly ask yourself two things — what's the *most likely* outcome, and separately, what's the *most entertaining possible* outcome — then say one of them out loud, framed clearly as a guess ("I bet this goes horribly"). You are not being scored on accuracy; a confidently wrong prediction is often more rewatchable than a correct one, because the gap between your guess and reality becomes its own payoff.
+- **Analysis — the "so what" sentence**: full mechanism in Module 10, Technique 9. After describing what happened, force out one more sentence that answers *why it matters* — what it reveals, what it changes, what pattern it fits. Description alone is narration; the forced follow-up sentence is where the actual analytical value lives. This is especially load-bearing for gaming-adjacent reaction content (patch notes, trailers, community drama), where viewers already know *what* happened and are specifically there for the "so what."
+- **Arguments/devil's advocate — the deliberate-flip move**: once you've stated your real take (via the helped-or-hurt test above), the mechanism for playing devil's advocate is to explicitly flag the flip out loud rather than silently switching sides: *"okay, but let me steelman the other side for a second—"* then argue the opposite position for 15–20 seconds before returning to your actual view. Naming the flip out loud is what keeps it readable as a deliberate bit instead of confusing, wishy-washy waffling.
+- **Audience interaction — the second-person guess**: address what you believe the viewer is likely thinking, out loud, and either confirm or challenge it — the mechanism is a fixed sentence starter: **"you're probably thinking—"** or **"I know what you're thinking—"** followed by your best guess at their reaction, then your own take on whether they're right. This is a fast, repeatable way to manufacture a second-person line without waiting for actual comments to react to.
+
+## 4a. Worked example — applying the full toolbox to one clip
+
+Say you're reacting to a 20-second clip of someone making a risky, ultimately failed play. Here's the toolbox applied in real time, technique by technique:
+
+1. **Spin, not narration**: "he goes for the risky play instead of the safe one" (neutral) → "he goes for the *greedy* play instead of the safe one" (spin — one judgment word added).
+2. **Prediction, before the outcome**: "I bet this doesn't work out — this feels like a highlight-reel fail in the making."
+3. *(clip resolves — it fails)*
+4. **Opinion via helped-or-hurt**: "yeah, that was a mistake, because the safe option was right there and would've guaranteed the win."
+5. **"So what" sentence**: "and that's the difference between playing to not lose and playing to win big — he picked the wrong one at the wrong time."
+6. **Humor (Formula B)**: "that decision had the risk tolerance of someone gambling their rent money."
+7. **Bridge phrase**: "this reminds me of — okay, this is going to sound random, but my friend does this exact thing in card games, goes for the flashy play when the boring one wins every time."
+
+That's roughly 30 seconds of dense, varied commentary built from one 20-second clip, constructed entirely from mechanical moves — none of it required waiting for natural wit to strike.
 
 ## 5. Reaction video structures (pick based on the source material)
 
