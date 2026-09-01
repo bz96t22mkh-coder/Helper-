@@ -1,3 +1,12 @@
+# Helper
+
+This repository contains multiple self-contained courses:
+
+- **[YouTube Gaming + Reaction Editing Course](youtube-editing-course/README.md)** — a 23-module, beginner-to-capable course for a video editor learning to cut high-energy, personality-driven Gaming + Reaction YouTube content.
+- **Personal Development Mastery Course** (below) — a 20-section personal-development curriculum.
+
+---
+
 # Personal Development Mastery Course
 
 A complete, 20-section, performance-based personal-development curriculum covering meta-learning, English/articulation, communication, social skills, confidence, charisma, storytelling, critical thinking, debating, productivity, problem-solving, decision-making, negotiation, networking, leadership, strategic thinking, financial literacy, and meditation/mindfulness — trained in 1-hour daily sessions, with a full day-by-day plan for every section.
