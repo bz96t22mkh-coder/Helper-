@@ -1,326 +1,255 @@
 # Section 3 — English & Articulation
 
-**Est. length:** 20–35 sessions (core track: 24 days, in 5 phases with checkpoints every ~5 days).
-**Prerequisite:** Section 1 (Meta-Learning). **This is your highest-priority section** — nearly everything after it depends on this baseline.
-
-**Framing:** you are a native speaker rebuilding and *upgrading* fluency that's gone rusty from disuse — this is not ESL instruction. Grammar theory stays minimal; the volume is in spontaneous-speaking reps.
+**Length:** 24 days. **Goal:** you're a native speaker whose spoken English has gone rusty from disuse — this rebuilds fluency, not grammar from scratch.
 
 ---
 
-## 1. What You Need to Learn
-Organizing thoughts before speaking, finding the right word fast, forming natural sentences without jumbling, vocabulary and precise word choice, spoken sentence structure and grammar, verbal fluency, clarity of pronunciation, explaining complex ideas simply, expressing opinions and emotions, spontaneous speech, confident delivery, cutting filler words, pacing, tone, structuring an argument out loud, switching between professional and casual register, and telling stories naturally in conversation.
+## Phase A — Organizing Thought Into Speech (Days 1–5)
 
-## 2. Why It Matters
-This is the load-bearing skill under almost every other section: communication, social skills, charisma, debating, storytelling, negotiation, leadership, and networking all run *through* your spoken English. Fix this first and every later section trains on a stronger foundation instead of fighting the same underlying problem repeatedly.
+### Day 1 — Think, Then Speak
 
-## 3. Foundational Concepts
-- **Think → Organize → Speak:** the jumbled-words problem is usually not a vocabulary problem, it's a *sequencing* problem — you're trying to speak before you've decided the shape of what you're saying. A 1–2 second organizing pause, used deliberately, fixes more than any vocabulary list.
-- **One idea per sentence:** rambling and jumbling both come from stacking multiple ideas into one sentence. Native-sounding fluency comes from short, complete units chained together, not from long complex sentences.
-- **Fluency ≠ speed:** fluency is *unbroken forward motion*, even if that motion is sometimes a well-placed pause — not talking fast.
+Jumbled speech is almost never a vocabulary problem — it's a sequencing problem. You start talking before you've decided the shape of what you're saying, so it comes out in pieces. The fix is a deliberate 1–2 second pause before you answer, using it to pick a simple shape: **Point → Reason → Example → Point.** State your point, say why, give one concrete example, restate the point. That's it — most rambling comes from skipping the pause and hoping the sentence finds its own ending.
 
-## 4. Beginner Concepts
-- **PREP structure** (Point → Reason → Example → Point): a default skeleton for answering almost any spoken question in an organized way.
-- **Filler-word awareness:** noticing "um / like / you know / sort of" as a signal that you spoke before you had the next chunk ready — not something to suppress directly, but a symptom to fix at the source (organize first).
-- **Circumlocution:** describing a word you can't retrieve ("the thing you use to...") instead of stalling — keeps you moving while your brain finds the real word.
-
-## 5. Intermediate Concepts
-- **Precise word choice:** upgrading vague words (good, thing, stuff, nice) to specific ones (concrete nouns, strong verbs) without sounding like you're reaching for a thesaurus.
-- **Self-editing in real time:** catching an awkward sentence mid-stream and cleanly restarting the clause ("what I mean is...") instead of freezing or ploughing through the mess.
-- **Explaining simply (Feynman applied to speech):** stripping jargon and multi-clause complexity so a complex idea lands cleanly on first hearing.
-- **Emotional articulation:** naming what you feel with specific, accurate emotion words instead of vague defaults ("fine," "weird," "a lot").
-
-## 6. Advanced Concepts
-- **Argument structure out loud:** claim → reason → evidence/example → conclusion, deployed live, under follow-up questions.
-- **Tone and pacing control:** deliberately varying pace and emphasis for meaning and engagement, not speaking in a flat monotone.
-- **Register-switching:** the same idea delivered in a boardroom vs. with friends — different word choice and structure, same clarity.
-- **Delivery under pressure:** holding organization, word choice, and pacing together while being interrupted, rushed, or asked a hard follow-up.
-
-## 7. Practical Exercises
-- **2-minute topic drill:** given a random topic, speak for 2 minutes using PREP, no notes.
-- **Rephrase-the-mess drill:** take a jumbled sentence (yours or given) and clean it into 2–3 short, clear ones.
-- **Teach-it drill:** explain a concept (from any course) to an imagined beginner in under 90 seconds.
-- **Both-sides drill:** argue a position for 60 seconds, then argue the opposite for 60 seconds.
-- **Describe-it drill:** describe an object/scene/person with concrete, specific detail for 60–90 seconds.
-
-## 8. Drills
-- **Filler-count drill:** record a 1-minute spontaneous answer, count filler words, redo, compare counts.
-- **1-word-upgrade drill:** take 5 vague words from something you just said and replace each with a sharper one.
-- **Pause-and-organize drill:** force a 2-second silent pause before answering any prompt, then speak — notice how much cleaner the output is.
-- **Circumlocution drill:** describe 10 objects without naming them, forcing yourself to talk *around* a gap instead of stopping.
-
-## 9. Real-World Applications
-- Use PREP the next time someone asks your opinion in conversation.
-- Use the teach-it drill format the next time you explain a day-trading or course concept to anyone (or to me).
-- Use register-switching consciously in your next professional vs. casual message/conversation.
-- Use the rephrase-the-mess habit live, mid-conversation, instead of only in drills.
-
-## 10. Challenges
-- Have one real unscripted 5-minute conversation (in person, call, or voice memo monologue) on a topic you didn't prepare, and self-review filler words and organization afterward.
-- Explain a genuinely difficult idea (from trading or elsewhere) to a total beginner, live, with follow-up questions, and keep it clear throughout.
-- Deliver the same 90-second explanation twice — once in a casual register, once in a professional register — back to back.
-
-## 11. Assessments
-
-**Baseline (Day 1):** Record yourself (voice memo, or write out verbatim if recording isn't possible) speaking for 2 minutes, unscripted, on: "Describe your week and how you feel about it." No prep, no notes. Send me a transcript/description of how it went — where you stalled, jumbled, or lost the thread.
-
-**Checkpoints:** every ~5 days (Days 5, 10, 15, 21) with a scored 2-minute (or longer) spontaneous performance task.
-
-**Exit (Day 24):** A cold, unrehearsed 4-minute performance combining: explain a complex idea simply, argue a position and defend it under a follow-up challenge, and tell a short real story — all in one continuous take, evaluated on organization, word choice, fluency (filler rate), pacing, and confidence.
-
-## 12. Mastery Criteria
-
-| Level | Looks like |
+| Min | Do |
 |---|---|
-| Beginner | Frequent jumbling, long pauses, heavy filler use, loses the thread mid-sentence |
-| Developing | Can organize with visible effort; still stalls on word-finding under any pressure |
-| Competent | Speaks in clean PREP-structured units on familiar topics with low filler rate |
-| Advanced | Organizes and speaks clearly on unfamiliar/abstract topics, recovers smoothly from mistakes |
-| Highly Proficient | Fluent, precise, natural across registers, under interruption and follow-up pressure |
-| Mastery | Sounds effortless, sophisticated, and natural in any real conversation without conscious drilling |
+| 15 | Baseline: record yourself talking for 2 minutes, unscripted, about your week. Note where you stalled or lost the thread. |
+| 20 | 3 random topics, 60 seconds each. Pause 2 seconds before each, then use Point → Reason → Example → Point. |
+| 10 | Redo your weakest one, counting filler words ("um," "like"). |
+| 15 | Where did you jumble — picking words, or picking the shape of the sentence? |
 
-**Advanced** is the target to exit this section (not just Competent) given how foundational it is — extend the section if you're plateauing at Competent.
+### Day 2 — When You Can't Find the Word
 
----
+Freezing on a missing word kills momentum. Instead, describe around it — "the thing you use to..." — and keep moving. Your brain often finds the real word a few seconds later anyway, once it's not under pressure.
 
-## 13. Day-by-Day Training Plan
+| Min | Do |
+|---|---|
+| 15 | Describe 10 random objects without naming them. |
+| 20 | 3 new topics, 60–90 sec each, using description instead of stalling whenever a word won't come. |
+| 15 | Reflect: did describing around it keep you moving instead of freezing? |
+| 10 | Warm-up: redo yesterday's weakest topic. |
 
-*Structure: 5 phases of ~5 days each — Foundations → Precision & Explaining → Opinion/Emotion & Self-Editing → Argument & Delivery Range → Integration/Pressure/Exit. A checkpoint closes each phase. If a checkpoint shows you below target, repeat the phase's core drills on new material (Days Xb) before continuing.*
+### Day 3 — One Idea Per Sentence
 
-### PHASE A — Foundations: Organizing Thought Into Speech
+Rambling comes from stacking two or three ideas into one sentence. Native-sounding fluency is short, complete sentences chained together — not long, complex ones.
 
-**Day 1 — Baseline + Think→Organize→Speak (60 min)**
+| Min | Do |
+|---|---|
+| 5 | Warm-up topic. |
+| 20 | Take 5 run-on sentences you'd normally produce and rewrite each as 2–3 short, complete ones. |
+| 20 | 2 topics, deliberately using short sentences only. |
+| 15 | Notice: is short-sentence delivery slower or faster than your rambling default? |
 
-| Segment | Min | What to do |
-|---|---|---|
-| Baseline assessment | 15 | Record/describe the Section 11 baseline 2-minute unscripted response. |
-| Learn | 10 | Read Section 3–4 (Think→Organize→Speak, one-idea-per-sentence, PREP). |
-| Exercise: PREP drill x3 | 20 | 3 random light topics (favorite season, a hobby, a recent meal), 60 seconds each, using PREP, pausing 2 sec before starting each. |
-| Exercise: Filler count | 10 | Redo one of the 3 topics, count filler words this time. |
-| Reflection | 5 | Where did your thoughts jumble — was it word-finding or sequencing? |
+### Day 4 — Harder Topics
 
-**Day 2 — Word-Finding & Circumlocution (60 min)**
+| Min | Do |
+|---|---|
+| 5 | Warm-up. |
+| 30 | 4 tougher, more abstract topics ("what makes a good decision," "why people procrastinate"), 90 sec each, Point-Reason-Example-Point. |
+| 15 | Rate each 1–5 for organization and fluency. |
+| 10 | What's different about abstract topics for you vs. concrete ones? |
 
-| Segment | Min | What to do |
-|---|---|---|
-| Review | 5 | Redo yesterday's weakest PREP topic, compare filler count. |
-| Learn | 10 | Read circumlocution (Section 4). |
-| Exercise: Circumlocution drill | 15 | Describe 10 random objects without naming them. |
-| Exercise: PREP drill x3, new topics | 20 | 3 new topics, 60–90 sec each, using circumlocution instead of stalling whenever you lose a word. |
-| Reflection | 10 | Did circumlocution keep you moving instead of freezing? |
+### Day 5 — Checkpoint
 
-**Day 3 — Sentence Structure: One Idea Per Sentence (60 min)**
+| Min | Do |
+|---|---|
+| 10 | Warm-up. |
+| 25 | 2 unscripted 90-second answers, one concrete topic, one abstract. Record them and send to me. |
+| 15 | Based on your weakest pattern, 2 focused reps on just that. |
+| 10 | Compare to Day 1's baseline — what's visibly better? |
 
-| Segment | Min | What to do |
-|---|---|---|
-| Review | 5 | Quick PREP warm-up on a random topic. |
-| Learn | 10 | Read one-idea-per-sentence (Section 3). |
-| Exercise: Rephrase-the-mess | 20 | Take 5 rambling/run-on sentences (write your own examples of how you'd normally over-stack a thought) and break each into 2–3 clean short sentences. |
-| Exercise: PREP drill x2 | 15 | 2 topics, deliberately using short, complete sentences. |
-| Reflection | 10 | Notice: shorter sentences vs. your natural tendency to over-stack. |
+## Phase B — Precision (Days 6–10)
 
-**Day 4 — Spontaneous Speaking, Harder Topics (60 min)**
+### Day 6 — Upgrading Vague Words
 
-| Segment | Min | What to do |
-|---|---|---|
-| Review | 5 | Filler-count warm-up. |
-| Learn | 5 | Reread pause-and-organize principle. |
-| Exercise: PREP drill x4, tougher topics | 30 | 4 topics with more abstraction (e.g., "what makes a good decision," "why do people procrastinate") — 90 sec each. |
-| Exercise: Self-rate | 10 | Rate each on 1–5 for organization and fluency; note the weakest. |
-| Reflection | 10 | What's different about abstract vs. concrete topics for you? |
+"Good," "thing," "stuff," "nice" carry no real information. The fix isn't memorizing a thesaurus — it's noticing the vague word right after you say it and swapping in something specific.
 
-**Day 5 — Checkpoint 1 (60 min)**
+| Min | Do |
+|---|---|
+| 5 | Warm-up. |
+| 20 | Talk on a topic for 60 sec, then go back and upgrade 5 vague words to precise ones. |
+| 20 | Redo the same topic, trying to use the precise words the first time. |
+| 15 | Which upgrades felt natural vs. forced? |
 
-| Segment | Min | What to do |
-|---|---|---|
-| Warm-up | 10 | One easy PREP topic to loosen up. |
-| Checkpoint assessment | 25 | 2 unscripted 90-second responses on new topics (one concrete, one abstract), recorded/transcribed, sent to me. |
-| Evaluation | — | Scored on organization, filler rate, jumbling vs. Day 1 baseline. |
-| Targeted fix | 15 | Based on your single weakest pattern, do 2 focused reps just on that. |
-| Reflection | 10 | Compare today's performance to Day 1 — what's visibly improved? |
+### Day 7 — Catching Yourself Mid-Sentence
 
-### PHASE B — Precision: Vocabulary, Grammar-in-Speech, Explaining, Describing
+When a sentence goes wrong mid-way, don't freeze or push through the mess — say "what I mean is—" and restart the clause clean. It sounds far more confident than either option.
 
-**Day 6 — Precise Word Choice (60 min)**
+| Min | Do |
+|---|---|
+| 5 | Warm-up. |
+| 20 | 3 topics. Whenever a sentence goes wrong, say "what I mean is—" and restart cleanly. |
+| 20 | Identify your 2–3 most common slip patterns and drill fixing them specifically. |
+| 15 | Did the reset phrase feel smoother than fighting the sentence? |
 
-| Segment | Min | What to do |
-|---|---|---|
-| Review | 5 | Quick PREP warm-up. |
-| Learn | 10 | Read precise word choice (Section 5). |
-| Exercise: 1-word-upgrade drill | 20 | Speak on a topic for 60 sec, then go back and upgrade 5 vague words to precise ones. |
-| Exercise: Redo with upgrades live | 15 | Same topic again, trying to use precise words the first time. |
-| Reflection | 10 | Which upgraded words felt natural vs. forced? |
+### Day 8 — Explaining Hard Things Simply
 
-**Day 7 — Grammar-in-Speech Self-Correction (60 min)**
+Same principle as the Feynman technique: strip jargon, use plain language, and you'll immediately find the parts you don't actually understand yet.
 
-| Segment | Min | What to do |
-|---|---|---|
-| Review | 5 | Warm-up topic. |
-| Learn | 10 | Read self-editing in real time (Section 5). |
-| Exercise: Catch-and-fix drill | 20 | Speak on 3 topics; whenever a sentence goes wrong, say "what I mean is—" and cleanly restart the clause instead of freezing. |
-| Exercise: Common slip patterns | 15 | Identify your 2–3 recurring grammar/phrasing slips (e.g., subject-verb mismatches when a sentence runs long) and drill correcting them specifically. |
-| Reflection | 10 | Did the "what I mean is—" reset feel smoother than trying to fix mid-clause? |
+| Min | Do |
+|---|---|
+| 5 | Warm-up. |
+| 35 | Explain 3 concepts (trading, this course, anything complex) to an imagined beginner, 90 sec each, zero jargon. |
+| 20 | Where did jargon creep back in? What's the plain-language version? |
 
-**Day 8 — Explaining Complex Ideas Simply (60 min)**
+### Day 9 — Describing Vividly
 
-| Segment | Min | What to do |
-|---|---|---|
-| Review | 5 | Warm-up. |
-| Learn | 5 | Reread Feynman-applied-to-speech (Section 5). |
-| Exercise: Teach-it drill x3 | 35 | Explain 3 concepts (1 from trading, 1 from this course, 1 anything else complex) to an imagined beginner, 90 sec each, no jargon. |
-| Reflection | 15 | Where did jargon creep back in? What's a cleaner substitute? |
+One specific, concrete detail beats five vague ones. "The barista actually laughed out loud" does more work than "it was a funny situation."
 
-**Day 9 — Describing Vividly (60 min)**
+| Min | Do |
+|---|---|
+| 5 | Warm-up. |
+| 35 | Describe 4 things (object, place, person, memory) with concrete sensory detail, 60–90 sec each. |
+| 20 | Compare your most vivid description to your flattest — what was the actual difference? |
 
-| Segment | Min | What to do |
-|---|---|---|
-| Review | 5 | Warm-up. |
-| Learn | 5 | Read describing-it concepts (Section 7). |
-| Exercise: Describe-it drill x4 | 35 | Describe 4 things (an object, a place, a person, a memory) with concrete sensory detail, 60–90 sec each. |
-| Reflection | 15 | Compare your most vivid description to your flattest — what made the difference? |
+### Day 10 — Checkpoint
 
-**Day 10 — Checkpoint 2 (60 min)**
+| Min | Do |
+|---|---|
+| 10 | Warm-up. |
+| 25 | Teach a concept (90 sec) + describe something vividly (60 sec). Record and send to me. |
+| 15 | Focused rep on weakest element. |
+| 10 | Progress vs. Day 5. |
 
-| Segment | Min | What to do |
-|---|---|---|
-| Warm-up | 10 | Easy topic PREP. |
-| Checkpoint assessment | 25 | Teach a concept (90 sec) + describe something vividly (60 sec), recorded/transcribed. |
-| Evaluation | — | Scored on word precision, self-correction, clarity, vividness. |
-| Targeted fix | 15 | 2 reps on weakest pattern. |
-| Reflection | 10 | Progress check against Day 5. |
+## Phase C — Opinion, Emotion, Self-Editing (Days 11–15)
 
-### PHASE C — Opinion, Emotion, and Self-Editing Under Content Difficulty
+### Day 11 — Stating Opinions Directly
 
-**Day 11 — Expressing Opinions (60 min)**
+Most people hedge opinions into mush. State the opinion first, then justify it — don't bury it under six qualifiers.
 
-| Segment | Min | What to do |
-|---|---|---|
-| Review | 5 | Warm-up. |
-| Learn | 5 | Reread PREP + precise word choice combined for opinions. |
-| Exercise: Opinion drill x4 | 35 | State and briefly justify an opinion on 4 topics (light to moderately contentious), 60–90 sec each, using PREP. |
-| Reflection | 15 | Did you hedge excessively? Where could you have been more direct without being harsh? |
+| Min | Do |
+|---|---|
+| 5 | Warm-up. |
+| 35 | State and justify an opinion on 4 topics, 60–90 sec each, Point-Reason-Example-Point. |
+| 20 | Where did you over-hedge? Could you have been more direct without being harsh? |
 
-**Day 12 — Expressing Emotions Precisely (60 min)**
+### Day 12 — Naming Emotions Precisely
 
-| Segment | Min | What to do |
-|---|---|---|
-| Review | 5 | Warm-up. |
-| Learn | 10 | Read emotional articulation (Section 5). |
-| Exercise: Emotion-word upgrade | 15 | List 10 vague emotion words you'd normally use ("fine," "weird," "annoyed") and pair each with 2 more precise alternatives. |
-| Exercise: Describe-a-feeling drill x3 | 20 | Describe 3 real recent emotional experiences (a frustration, a win, a worry) using the precise words, 60–90 sec each. |
-| Reflection | 10 | Did precision change how honest/clear the description felt? |
+"Fine," "weird," "annoyed" are vague defaults. Precise emotion words — frustrated vs. disappointed vs. anxious — call for different responses and land more honestly.
 
-**Day 13 — Rephrasing Awkward Sentences Live (60 min)**
+| Min | Do |
+|---|---|
+| 5 | Warm-up. |
+| 15 | List 10 vague emotion words you default to; pair each with 2 more precise alternatives. |
+| 20 | Describe 3 real recent emotional moments using the precise words. |
+| 20 | Did precision make the description feel more honest? |
 
-| Segment | Min | What to do |
-|---|---|---|
-| Review | 5 | Warm-up. |
-| Learn | 5 | Reread self-editing principle. |
-| Exercise: Awkward-sentence bank | 15 | Write 6 genuinely awkward/jumbled sentences (real ones you tend to produce). |
-| Exercise: Live rephrase drill | 25 | Say each awkward sentence out loud, then immediately clean-rephrase it out loud without pausing to write first. |
-| Reflection | 10 | Is live rephrasing getting faster than Day 3? |
+### Day 13 — Live Rephrasing
 
-**Day 14 — Increasing Difficulty: Abstract + Rapid Topics (60 min)**
+| Min | Do |
+|---|---|
+| 5 | Warm-up. |
+| 15 | Write 6 genuinely awkward sentences you tend to produce. |
+| 25 | Say each out loud, then immediately clean-rephrase it out loud, no pause to write first. |
+| 15 | Is live rephrasing faster than Day 3? |
 
-| Segment | Min | What to do |
-|---|---|---|
-| Review | 5 | Warm-up. |
-| Exercise: Rapid-fire PREP | 30 | 6 topics, only 30 seconds prep-pause and 60 sec to speak each, mixing concrete/abstract/opinion/emotion. |
-| Exercise: Self-score | 15 | Rate each response 1–5, identify the single hardest topic type for you right now. |
-| Reflection | 10 | What breaks down first under time pressure — organization, word choice, or confidence? |
+### Day 14 — Rapid-Fire, Less Prep Time
 
-**Day 15 — Checkpoint 3 (60 min)**
+| Min | Do |
+|---|---|
+| 5 | Warm-up. |
+| 30 | 6 topics — concrete, abstract, opinion, emotion mixed — 30 sec prep, 60 sec to answer each. |
+| 15 | Rate each 1–5. What's your hardest topic type under time pressure? |
+| 10 | What breaks first under pressure: organization, words, or confidence? |
 
-| Segment | Min | What to do |
-|---|---|---|
-| Warm-up | 10 | Easy topic. |
-| Checkpoint assessment | 25 | An opinion (90 sec) + an emotional description (90 sec) on new prompts, minimal prep time, recorded/transcribed. |
-| Evaluation | — | Scored on directness, precision, fluency under time pressure. |
-| Targeted fix | 15 | 2 reps on weakest pattern. |
-| Reflection | 10 | Progress check against Day 10. |
+### Day 15 — Checkpoint
 
-### PHASE D — Argument Structure & Delivery Range
+| Min | Do |
+|---|---|
+| 10 | Warm-up. |
+| 25 | An opinion (90 sec) + an emotional description (90 sec), minimal prep. Record and send. |
+| 15 | Rep on weakest pattern. |
+| 10 | Progress vs. Day 10. |
 
-**Day 16 — Structuring an Argument Out Loud (60 min)**
+## Phase D — Argument & Delivery Range (Days 16–21)
 
-| Segment | Min | What to do |
-|---|---|---|
-| Review | 5 | Warm-up. |
-| Learn | 10 | Read argument structure out loud (Section 6). |
-| Exercise: Claim-Reason-Evidence-Conclusion drill x3 | 30 | 3 positions (pick moderately debatable ones), structure and deliver each fully, 90 sec each. |
-| Reflection | 15 | Where was the weakest link — the reason, the evidence, or the conclusion? |
+### Day 16 — Structuring an Argument
 
-**Day 17 — Arguing Both Sides (60 min)**
+A real argument needs all four parts spoken as one unit: Claim → Reason → Evidence → Conclusion. A claim with no evidence is just an assertion.
 
-| Segment | Min | What to do |
-|---|---|---|
-| Review | 5 | Warm-up. |
-| Exercise: Both-sides drill x3 pairs | 40 | 3 topics, argue one side for 60 sec, immediately argue the other side for 60 sec. |
-| Reflection | 15 | Which side was easier for each topic, and why — genuine belief, or just familiarity? |
+| Min | Do |
+|---|---|
+| 5 | Warm-up. |
+| 30 | 3 positions, full Claim-Reason-Evidence-Conclusion, 90 sec each. |
+| 15 | Which part was weakest — reason, evidence, or conclusion? |
+| 10 | Redo the weakest one. |
 
-**Day 18 — Verbal Storytelling Basics (light touch) (60 min)**
+### Day 17 — Arguing Both Sides
 
-| Segment | Min | What to do |
-|---|---|---|
-| Review | 5 | Warm-up. |
-| Learn | 10 | Basic verbal story shape: setup → complication → resolution, told out loud (full storytelling craft comes in Section 8 — this is just delivery fluency). |
-| Exercise: 2 short real stories | 30 | Tell 2 real short stories from your life (90 sec each) with a clear setup/complication/resolution. |
-| Reflection | 15 | Did you ramble the setup and rush the ending, or the reverse? |
+| Min | Do |
+|---|---|
+| 5 | Warm-up. |
+| 40 | 3 topics — argue one side 60 sec, then immediately argue the other side 60 sec. |
+| 15 | Which side was easier each time — genuine belief, or just familiarity? |
 
-**Day 19 — Tone & Pacing Control (60 min)**
+### Day 18 — Telling a Story Out Loud
 
-| Segment | Min | What to do |
-|---|---|---|
-| Review | 5 | Warm-up. |
-| Learn | 10 | Read tone/pacing (Section 6). |
-| Exercise: Same line, 3 tones | 20 | Say the same sentence 3 ways: neutral, enthusiastic, serious — notice what actually changes (pace, emphasis, pitch). |
-| Exercise: Deliberate pacing drill | 15 | Retell one Day 18 story, deliberately slowing at the key moment instead of rushing it. |
-| Reflection | 10 | Which tone/pace changes felt most natural vs. performative? |
+A story needs shape: setup → complication → resolution. Trim the setup ruthlessly, spend your time on the complication.
 
-**Day 20 — Register-Switching (60 min)**
+| Min | Do |
+|---|---|
+| 5 | Warm-up. |
+| 30 | Tell 2 short real stories (90 sec each) with a clear setup, complication, and resolution. |
+| 15 | Did you rush the ending or ramble the setup? |
+| 10 | Redo the weaker one. |
 
-| Segment | Min | What to do |
-|---|---|---|
-| Review | 5 | Warm-up. |
-| Learn | 10 | Read register-switching (Section 6). |
-| Exercise: Dual-register drill x3 | 30 | Explain the same idea 3 times, twice each: once professional/formal, once casual/friend-style — 6 short deliveries total. |
-| Reflection | 15 | What specifically changes between registers for you — word choice, sentence length, both? |
+### Day 19 — Tone and Pacing
 
-**Day 21 — Checkpoint 4 (60 min)**
+Slow down at the important moment, speed through the connective bits. That contrast is what makes delivery sound alive instead of flat.
 
-| Segment | Min | What to do |
-|---|---|---|
-| Warm-up | 10 | Easy topic. |
-| Checkpoint assessment | 30 | Structure and deliver an argument (90 sec) + tell a short story (90 sec) + explain one idea in both registers, recorded/transcribed. |
-| Evaluation | — | Scored on argument structure, storytelling shape, tone/pacing control, register control. |
-| Reflection | 20 | Full progress check against Day 15 — what's now closer to automatic? |
+| Min | Do |
+|---|---|
+| 5 | Warm-up. |
+| 20 | Say the same sentence 3 ways — neutral, enthusiastic, serious. Notice what actually changes: pace, emphasis, pitch. |
+| 20 | Retell a Day 18 story, deliberately slowing at the key moment. |
+| 15 | Which changes felt natural vs. performative? |
 
-### PHASE E — Integration, Pressure, and Exit
+### Day 20 — Switching Registers
 
-**Day 22 — High-Pressure Spontaneous Speaking (60 min)**
+Same idea, different clothes: formal word choice and full sentences for professional contexts, contractions and casual phrasing for friends. The content doesn't change, the packaging does.
 
-| Segment | Min | What to do |
-|---|---|---|
-| Review | 5 | Warm-up. |
-| Exercise: Rapid interview-style round | 35 | 8 rapid prompts (mix of opinion/explain/describe/argue), 45 sec prep max, 60 sec to answer, back to back with no long breaks. |
-| Self-score | 10 | Rate consistency across all 8 — did quality hold or degrade under pace? |
-| Reflection | 10 | What's your recovery move when a response goes badly mid-round? |
+| Min | Do |
+|---|---|
+| 5 | Warm-up. |
+| 30 | Explain the same idea 3 times each way — professional, then casual. 6 short deliveries total. |
+| 15 | What specifically changes between the two — word choice, sentence length, both? |
+| 10 | Which register is more natural for you by default? |
 
-**Day 23 — Real-World Application Challenge (60 min)**
+### Day 21 — Checkpoint
 
-| Segment | Min | What to do |
-|---|---|---|
-| Setup | 10 | Plan one real unscripted 5-minute conversation or voice-memo monologue today (a real call, a real conversation, or a solo recorded piece) on a topic you don't prepare in advance. |
-| Real-world task | 30 | Have/record the conversation. |
-| Self-review | 10 | Immediately after, note: filler rate, any jumbling, one moment you're proud of. |
-| Reflection | 10 | How did today feel different from Day 1's baseline task? |
+| Min | Do |
+|---|---|
+| 10 | Warm-up. |
+| 30 | Structure and deliver an argument (90 sec) + tell a short story (90 sec) + explain one idea in both registers. Record and send. |
+| 20 | Full progress check against Day 15. |
 
-**Day 24 — Exit Assessment (60 min)**
+## Phase E — Pressure and Exit (Days 22–24)
 
-| Segment | Min | What to do |
-|---|---|---|
-| Warm-up | 5 | One easy topic. |
-| Exit assessment | 40 | One continuous 4-minute cold performance: explain a complex idea simply, argue a position and hold it under a follow-up challenge (ask yourself the hardest counter-question you can, then answer it), tell a short real story — all back to back, minimal pause between parts. Record/transcribe and send to me. |
-| Evaluation | — | Scored against the full mastery table (Section 12). |
-| Reflection | 15 | Self-assess first, then compare to my evaluation — write down what changed most since Day 1. |
+### Day 22 — Rapid Pressure Round
 
-**If exit lands below Advanced:** extend with Days 25+ repeating the specific weak phase's drills on fresh material (e.g., if argument structure is weak, redo Phase D-style drills) before reassessing — not the whole section. **If Advanced+:** move to Section 4; this section moves into permanent light maintenance (a 2–5 minute spontaneous-speaking warm-up recurs inside later sections' review segments).
+| Min | Do |
+|---|---|
+| 5 | Warm-up. |
+| 35 | 8 rapid prompts (opinion/explain/describe/argue mixed), 45 sec prep, 60 sec to answer, back to back. |
+| 10 | Did quality hold across all 8, or degrade? |
+| 10 | What's your recovery move when a response goes badly mid-round? |
+
+### Day 23 — Real Conversation
+
+| Min | Do |
+|---|---|
+| 10 | Plan one real 5-minute unscripted conversation or voice memo today, no prep. |
+| 30 | Have it. |
+| 10 | Note filler rate, any jumbling, one moment you're proud of. |
+| 10 | How does this feel compared to Day 1's baseline? |
+
+### Day 24 — Exit Check
+
+One continuous 4-minute cold performance: explain a complex idea simply, argue a position and hold it under your own hardest counter-question, tell a short real story — back to back, minimal pause. Send it to me.
+
+| Min | Do |
+|---|---|
+| 5 | Warm-up. |
+| 40 | The full 4-minute performance, recorded. |
+| 15 | Self-assess first, then compare to my evaluation. What changed most since Day 1? |
+
+**Mastery bar:** organized, low-filler, confident delivery on unfamiliar topics, recovers smoothly from mistakes — not just on familiar ones. If you're not there yet, we repeat the weakest phase's drills on fresh material, not the whole section.
