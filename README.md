@@ -1,11 +1,26 @@
-# Personal Development Mastery Course
+# Courses
+
+This repo hosts self-paced courses. Each one is self-contained in its own folder.
+
+## Uniform & Workwear Outsourcing Business Course
+
+A complete, practical course for building a real uniform/workwear/branded-clothing outsourcing business from zero, based in South Africa — 21 modules, 2 focused hours/day, build-while-you-learn (LEARN → PRACTICE → BUILD → TEST → IMPROVE). Every module that produces a real business system (website, CRM, pricing tool, automations) is built live with Claude Code, not just described.
+
+- **Start here:** [`outsourcing-course/00-roadmap.md`](outsourcing-course/00-roadmap.md) — business model, niche recommendation and rationale, full module map, estimated course length, technology stack, and the Claude Code Business Builder Workflow.
+- **Progress tracking:** [`outsourcing-course/progress-tracker.md`](outsourcing-course/progress-tracker.md) — current day/module, key decisions, day log.
+- **Day-by-day lessons:** [`outsourcing-course/day-logs/`](outsourcing-course/day-logs/) — each completed day's full lesson, saved permanently.
+- **The actual business:** [`/business`](business/) — not course material; this is the real company being built (decisions log, prospect list, pricing, suppliers, customers, marketing, finance, website, CRM), filled in as the course progresses.
+
+To begin, say `Day 1` (already delivered) or `Day 2` to continue. Report your exercise answers and business-task results as you go — each day is written based on your actual progress, not pre-scripted.
+
+## Personal Development Mastery Course
 
 A complete, 20-section, performance-based personal-development curriculum covering meta-learning, English/articulation, communication, social skills, confidence, charisma, storytelling, critical thinking, debating, productivity, problem-solving, decision-making, negotiation, networking, leadership, strategic thinking, financial literacy, and meditation/mindfulness — trained in 1-hour daily sessions, with a full day-by-day plan for every section.
 
 - **Start here:** [`course/00-master-curriculum.md`](course/00-master-curriculum.md) — the full curriculum map, section order and rationale, priority tiers, estimated training length per section, the daily-session system, and the assessment/progression rules.
 - **Progress tracking:** [`course/progress-tracker.md`](course/progress-tracker.md) — updated as sections are completed.
 
-## Sections
+### Sections
 
 | # | Section | File |
 |---|---|---|
