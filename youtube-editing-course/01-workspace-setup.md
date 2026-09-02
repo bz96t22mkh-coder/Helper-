@@ -18,6 +18,20 @@ Rough beginner targets:
 
 **Why this matters:** if your computer is slow, playback will lag while you're trying to find the funny moment. That makes it hard to feel the comedy timing. If your computer is slower, edit at a lower preview quality (Module 6 shows you how) instead of fighting full-quality playback.
 
+### Is a GTX 1070 good enough?
+
+If your GPU is a GTX 1070 (or a similar card from around the same time — a GTX 1080, or an RTX 2060/2070): **yes, it's good enough to start.** Here's why:
+
+- It has 8GB of its own memory. That's above the minimum DaVinci Resolve needs, and enough for 1080p editing without trouble.
+- It supports the graphics processing DaVinci Resolve relies on (called CUDA, if you ever see that word in a settings menu).
+
+A couple of things to know, since it's an older card (it came out in 2016):
+
+- It doesn't have some of the newest hardware tricks that brand-new graphics cards have. So if your footage is 4K, or recorded in a newer, heavily-compressed format (you'll sometimes see this called "H.265" or "HEVC"), playback might stutter, especially once you stack several memes, zooms, and effects on the same moment.
+- If that happens, don't assume something is broken. It's just your GPU working hard. Module 6 shows you two easy settings — **Optimized Media** and a lower **timeline playback resolution** — that fix this in a couple of clicks. You still export in full quality at the end. You're just previewing at a lower quality while you work.
+
+In short: edit your videos, and if playback ever gets choppy, turn to Module 6's "if playback is choppy" section before worrying that your computer isn't good enough. For this channel's kind of content, it is.
+
 ## 2. How much storage do you need?
 
 Raw gaming footage takes up a lot of space.
