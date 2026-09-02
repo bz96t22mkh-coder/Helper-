@@ -1,52 +1,64 @@
 # Module 3 — Copyright & Licensing Basics
 
-Read this before you pull a single meme, song, or clip into a real video. Getting this wrong doesn't just risk an awkward email — it can mean the channel's revenue on a video gets redirected to someone else, a video gets taken down, or in repeated/serious cases, the channel itself gets penalized. This module teaches you to actually check, not guess.
+> **In short:** Almost everything online is owned by someone. Before you use a song, image, or clip in a real video, you must check if you're allowed to. This module teaches you exactly how to check.
 
-## The core concepts
+This is one of the most important modules in the whole course. Read it slowly. Getting this wrong can mean:
+- The video's ad money goes to someone else, not the creator.
+- The video gets taken down.
+- In serious cases, the whole channel gets in trouble.
 
-**Copyright** is the automatic legal right an original creator has over their work — a song, a video clip, an image, a meme template's underlying artwork — the moment they create it. No registration or "©" symbol is required for it to exist. Almost everything you see online is copyrighted by default, including that meme, that clip, and that song, unless it explicitly says otherwise.
+## The basic words you need to know
 
-**Fair use** (a US legal doctrine; other countries have similar but different concepts like "fair dealing") is a narrow, case-by-case legal defense that *might* excuse using copyrighted material without permission — for purposes like commentary, criticism, parody, or education, evaluated on factors like how much you used, whether you transformed it, and whether it harms the original's market. **It is not a rule you can rely on in advance, and it is not a YouTube feature.** YouTube's automated systems do not detect or grant "fair use" — a fair use claim is a legal argument you'd have to make (potentially to a court), not a checkbox that protects you. Don't build a video's monetization on the assumption that your use will be judged fair use.
+**Copyright** means: someone owns this. The moment a person creates something — a song, a video clip, a photo — they own it automatically. They don't need to register it or add a © symbol. Almost everything you see online is copyrighted by default, including that meme, that clip, and that song.
 
-**Licensed content** is content the rights holder has explicitly given permission to use, under specific stated terms (the license). This is what you actually want to build your asset library from — it removes the guesswork.
+**Fair use** is a legal idea (mainly a US idea, though other countries have similar rules). It sometimes lets you use copyrighted material without asking — for things like commentary, criticism, or parody. But here's the key part:
 
-**Public domain** work has no copyright owner at all (the copyright expired, was never claimed, or was explicitly released — e.g., via a CC0 dedication). Anyone can use it for anything, including commercially, with no permission needed. Genuinely public domain assets are the safest category that exists, but be careful: a lot of content *claimed* to be "public domain" or "no copyright" online isn't actually verified as such — check the actual source.
+**Fair use is not a guarantee.** It's not a rule you can rely on ahead of time. It's not something YouTube checks or grants automatically. It's an argument you might have to make later, possibly to a court. Don't plan a video's income around "this will probably count as fair use."
 
-**Creative Commons (CC)** is a set of standard license types creators can attach to their work, each with different rules. The ones you'll encounter most:
-- **CC0** — no rights reserved, use for anything, no attribution required. Functionally public domain.
-- **CC BY** — free to use, including commercially, but you **must credit the creator** in the way they specify.
-- **CC BY-SA** — like CC BY, but anything you make with it must be shared under the same license (rare to matter for a YouTube video itself, but read the terms).
-- **CC BY-NC** — free, but **non-commercial only**. A monetized YouTube video is commercial use, so CC BY-NC content is **not** safe for a monetized channel.
-- Always read which specific CC variant applies — "Creative Commons" alone isn't one license, it's a family of them with very different rules.
+**Licensed content** means the owner has given clear, written permission to use their work, under specific rules. This is what you actually want to build your library from — it removes the guesswork.
 
-**Commercial-use license** is any license that explicitly permits use in content made for profit (which includes ad-monetized YouTube videos, sponsorships, and merch). Some free asset sites split into "personal use" vs "commercial use" tiers — always confirm which one covers a monetized YouTube channel specifically, not just "any commercial use," since a few licenses carve out media/broadcast separately.
+**Public domain** means: nobody owns it. The copyright expired, or was never claimed, or the creator gave it away on purpose. Anyone can use public domain work for anything, free. This is the safest category — but only if it's *really* public domain. A lot of stuff online is wrongly labeled "public domain." Always check the real source.
 
-**Attribution** means crediting the original creator, usually in your video description, in the exact format the license or platform specifies (some require a specific text string, a link, or an on-screen credit). If a license requires attribution and you skip it, you are violating the license even though you "paid" with credit instead of money.
+**Creative Commons (CC)** is a set of standard licenses creators can attach to their work. There are several types, and they are **not all the same**:
+- **CC0** — no rules. Use it for anything. No credit needed. Basically the same as public domain.
+- **CC BY** — free to use, even commercially, but you **must give credit** in the way the creator asks.
+- **CC BY-SA** — like CC BY, but anything you make with it must use the same license too. Rarely matters for a normal YouTube video, but read the terms.
+- **CC BY-NC** — free, but **only for non-commercial use**. A monetized YouTube video is commercial. So this license does **not** cover it.
 
-## YouTube's enforcement system
+Always check exactly which type of Creative Commons license you're looking at. They are not interchangeable.
 
-**Content ID** is YouTube's automated system that scans every uploaded video's audio and video against a database of reference files submitted by rights holders (major labels, publishers, etc.). A match doesn't necessarily take your video down — the rights holder chooses what happens: they can **mute** the matched audio, **block** the video (in some/all countries), **track** it (just monitor), or — most commonly for music — **monetize it themselves**, meaning ad revenue from your video gets redirected to them even though the video stays up and stays yours.
+**Commercial-use license** means the license clearly allows use in content made for money — this includes ad-monetized YouTube videos. Some free sites split into "personal use" and "commercial use." Always check which one applies to a monetized YouTube channel specifically.
 
-**Copyright claim** (via Content ID) is usually automated, doesn't punish your channel standing, and is often resolved by simply removing/replacing the flagged asset — but until resolved, it very likely means you're not earning ad revenue on that video, and sometimes the video is blocked entirely.
+**Attribution** means giving credit to the creator — usually in your video description, written exactly the way the license asks. If a license requires credit and you skip it, you're breaking the rules, even if you didn't pay money.
 
-**Copyright strike** is different and far more serious: it's a formal legal takedown request, typically submitted by a human rights holder (not an automated Content ID match), under the DMCA or your country's equivalent process. Strikes are tied to the *channel*, not just the video — accumulate enough (three, on YouTube, within 90 days) and the channel can be terminated entirely. A strike also removes access to some monetization/upload features immediately upon receipt, even after just one.
+## How YouTube enforces this
+
+**Content ID** is YouTube's automatic system. It scans every video's audio and video against a huge database submitted by rights holders. If it finds a match, the rights holder decides what happens:
+- **Mute** the matched sound.
+- **Block** the video, in some or all countries.
+- **Track** it — just watch, no action.
+- **Take the ad money** — most common for music. The video stays up, but the money goes to them, not you.
+
+**Copyright claim** (through Content ID) is usually automatic. It doesn't punish your whole channel. But until it's fixed, you likely aren't earning money on that video — sometimes it's blocked entirely.
+
+**Copyright strike** is much more serious. A real person files a formal legal request to take the video down. Strikes are attached to your **whole channel**, not just one video. Get three strikes in 90 days, and the channel can be shut down completely. Even one strike removes some features right away.
 
 ## Myths that will get you in trouble
 
-- **"I found it on Google."** Google Images and search results are not a licensing database. An image showing up in a search result tells you nothing about whether you're allowed to use it — the vast majority of images online are copyrighted, full stop, regardless of how easy they were to find or download.
-- **"No copyright intended" in the description.** This does nothing. It has no legal effect whatsoever. It doesn't stop Content ID, doesn't stop a strike, and doesn't create a fair use defense. If you see other creators writing this, they are (at best) misinformed, not following a real protection.
-- **"It's just a random clip from TikTok/YouTube."** Someone else uploading it doesn't transfer rights to you, and it doesn't mean the original uploader had rights either. A clip being widely re-shared or "everywhere" online is not evidence it's free to use — it usually just means a lot of people are *also* infringing, or that it's Content ID–protected and getting claimed automatically on every re-upload, including yours.
+- **"I found it on Google."** Google Images is not a list of things you're allowed to use. It just shows you pictures. Most images online are copyrighted, no matter how easy they were to find.
+- **"No copyright intended," written in the description.** This does nothing. It has zero legal effect. It doesn't stop a claim. It doesn't stop a strike. It doesn't create fair use. Writing it just means you didn't check.
+- **"It's just a random clip everyone reposts."** Someone else posting it does not give you the right to use it. It usually just means a lot of people are breaking the same rule — or that Content ID is about to flag every copy, including yours.
 
-## How to actually check if an asset is safe to use
+## How to actually check if something is safe to use
 
-For every music track, sound effect, image, meme, font, or piece of footage before it goes in a real (monetized) video, work through this:
+Do this for every music track, image, meme, font, or clip before it goes into a real, monetized video:
 
-1. **Where did it come from?** Prefer sources built specifically for creators (Module 4) over generic search results. If you can't name the specific source/license, don't use it yet.
-2. **What license does the source state, right now?** Go to the actual license page on that source's site — don't rely on memory or a tutorial you watched last year; licenses and platform terms change. Look for the specific words: "commercial use," "YouTube," "monetization," "attribution required," "non-commercial."
-3. **Does that license cover a monetized YouTube video specifically?** "Personal use" and "non-commercial" licenses do not. Some platform-specific libraries (like YouTube's own Audio Library — Module 4) have terms restricted to *that* platform only.
-4. **Does it require attribution?** If yes, write down the exact required credit text now, and put it in a running "credits" note for that video's description — don't try to remember it later.
-5. **When in doubt, don't use it, or replace it with something from a source you've already verified.** A slightly less perfect meme from a known-safe source beats a perfect meme from an unknown one.
+1. **Where did it come from?** Use sources built for creators (Module 4 lists safe ones). If you can't say exactly where something came from, don't use it yet.
+2. **What does the license say, right now?** Go to the real license page on the source's own website. Don't guess from memory. Look for the words: "commercial use," "YouTube," "monetization," "attribution required," "non-commercial."
+3. **Does it cover a monetized YouTube video?** "Personal use" and "non-commercial" licenses do not. Some platform libraries (like YouTube's own Audio Library) are only for use on that one platform.
+4. **Does it need credit?** If yes, write down the exact credit text right away. Keep a running note for that video's description.
+5. **Not sure? Don't use it.** Pick something else you've already checked. A slightly-less-perfect but safe meme beats a perfect but risky one.
 
-This isn't a one-time lesson — it's a habit you run on every asset, every video, for as long as you're editing for a monetized channel. Module 4 gives you a working list of sources where this check is fast because the licensing is already clear; Module 5 shows you how to build your own pre-vetted library so you're not re-checking the same trusted assets over and over.
+This isn't a one-time lesson. It's a habit — run this check on every asset, every video, for as long as the channel makes money. Module 4 gives you a list of sources where this check is fast, because the rules are already clear. Module 5 shows you how to build your own pre-checked library, so you don't repeat this work over and over.
 
 Move to [Module 4: Where to Get Assets](04-asset-sources.md).

@@ -1,50 +1,50 @@
 # Module 21 — Editing Quality Checklist
 
-Run this before every single video is delivered — treat it the same way the Final Approval Checklist (Module 19) is treated: non-negotiable, even under deadline pressure. Keep this file open on a second monitor during your Step 15–19 review pass (Module 20).
+> **In short:** Run through this list before every video ships. Keep it open on a second screen during your final review pass (Module 20, steps 15–19).
 
 ## Entertainment
 
-- [ ] Is the video entertaining, watched straight through as a viewer would?
-- [ ] Are the funniest moments emphasized appropriately (Module 8's pairing table — not over- or under-sold)?
+- [ ] Is the video entertaining, watched straight through like a real viewer would?
+- [ ] Are the funniest moments given the right amount of emphasis (Module 8's pairing table — not too much, not too little)?
 - [ ] Does the creator's personality clearly come through (Module 15's "would this still feel like their channel with the effects removed" test)?
 
 ## Pacing
 
-- [ ] Are there unnecessary pauses that should be tightened (Module 16)?
-- [ ] Are boring/repetitive sections removed or compressed (Module 13, 16)?
-- [ ] Does the video move naturally — does it have rhythm (intensity and breathing room), not just one constant speed?
+- [ ] Are there pauses that should be tightened (Module 16)?
+- [ ] Are boring or repeated sections removed or shortened (Modules 13, 16)?
+- [ ] Does the video have rhythm — energy and breathing room — instead of one constant speed?
 
 ## Comedy
 
-- [ ] Is every meme actually necessary — responding to a specific moment, not filler (Module 10)?
-- [ ] Are zooms well-timed and matched in intensity to the moment (Module 9)?
-- [ ] Are sound effects appropriate in placement, volume, and variety — not repetitive or overused (Module 11)?
-- [ ] Do jokes feel enhanced by the edit rather than forced by it (Module 10's enhancing-vs-forcing test)?
+- [ ] Is every meme actually needed — responding to a real moment, not just filler (Module 10)?
+- [ ] Are the zooms well-timed and matched to the size of the moment (Module 9)?
+- [ ] Are the sound effects placed well, at the right volume, and varied — not repetitive (Module 11)?
+- [ ] Do the jokes feel *enhanced* by the edit, not *forced* by it (Module 10)?
 
 ## Audio
 
-- [ ] Is the creator's voice clear and the loudest, most prominent element throughout?
-- [ ] Is the music ever overpowering the voice (checked on both headphones and a phone speaker — Module 12)?
-- [ ] Are sound effects ever too loud, clipping, or drowning out dialogue (Module 11)?
+- [ ] Is the creator's voice clear, and the loudest thing in the mix, all the way through?
+- [ ] Does the music ever get louder than the voice (checked on headphones **and** a phone speaker — Module 12)?
+- [ ] Are any sound effects too loud, distorted, or drowning out the dialogue (Module 11)?
 
 ## Visuals
 
-- [ ] Are effects (zooms, overlays, transitions) executed cleanly, with no visible artifacts or awkward cropping?
-- [ ] Is on-screen text readable — legible size/contrast, tested at phone-screen scale?
-- [ ] Are zooms smooth or intentionally snappy — never accidentally janky?
-- [ ] Are memes/images positioned properly — not blocking important content, sized appropriately (Module 10)?
+- [ ] Do the effects (zooms, overlays, transitions) look clean, with no glitches or awkward cropping?
+- [ ] Is the on-screen text easy to read — big enough, good contrast, tested at phone size?
+- [ ] Do the zooms look smooth (or intentionally snappy), never accidentally janky?
+- [ ] Are memes and images placed well — not blocking important content, sized right (Module 10)?
 
-## Legal / licensing
+## Legal and licensing
 
-- [ ] Has every music track, SFX, meme/image, font, and piece of stock footage been checked against Module 3's verification process?
-- [ ] Is a running attribution note kept for anything requiring credit, ready to paste into the video description?
+- [ ] Has every music track, sound effect, meme, image, font, and clip of stock footage been checked using Module 3's steps?
+- [ ] Is there a running note of anything that needs credit, ready to paste into the video description?
 
 ## Overall
 
-- [ ] Would you personally keep watching this if you were a random viewer with no obligation to?
-- [ ] Does anything feel excessive — over-edited, effect-heavy without purpose (Module 7/8's core principle)?
-- [ ] Does the edit feel like *our channel's* style, rather than a generic YouTube edit or an imitation of another creator (Module 23)?
+- [ ] Would you personally keep watching this if you were a random viewer with no reason to be nice about it?
+- [ ] Does anything feel like too much — over-edited, effects for no reason (Modules 7 and 8's core rule)?
+- [ ] Does the edit feel like **our channel's** style — not a generic YouTube edit, and not a copy of another creator (Module 23)?
 
-If any box goes unchecked, that's not a note for "next time" — it's a note for **this** video, before it ships. Fix it, then re-run the checklist on the fixed section (not necessarily the whole checklist again) before moving on to Module 19's Final Approval Checklist with the creator.
+If any box is unchecked, that's not a note for "next time." It's a note for **this** video, before it ships. Fix it, re-check just that fixed section, and then move to Module 19's Final Approval Checklist with the creator.
 
 Move to [Module 22: Practical Exercises](22-practical-exercises.md).

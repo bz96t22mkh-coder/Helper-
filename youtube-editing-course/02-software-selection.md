@@ -1,87 +1,88 @@
 # Module 2 — Software Selection & Your First Edit
 
-## Choosing your editor
+> **In short:** Use DaVinci Resolve — it's free, powerful, and safe for a monetized channel. This module explains why, then walks you through your very first edit, button by button.
 
-There are three programs worth seriously considering for a beginner building a Gaming + Reaction channel. Here's the honest comparison (verify current pricing yourself before committing — software pricing changes):
+## Picking your editor
+
+There are three programs worth thinking about. Always double-check current pricing yourself before deciding — software pricing changes.
 
 | | **DaVinci Resolve** (free) | **Adobe Premiere Pro** | **CapCut Desktop** |
 |---|---|---|---|
-| **Cost** | Free version: no watermark, no time limit, no feature gate on core editing/audio/color/effects. Optional one-time Studio upgrade (~$295) unlocks extras like advanced noise reduction and Magic Mask — not needed to start. | Subscription (~$20+/month as part of Creative Cloud), ongoing cost forever. | Free plan exists, but its Terms of Service **restrict commercial use** — a monetized YouTube channel is commercial use. A paid Standard/Pro plan (~$10–20/month) is required for a commercial-use license on content you create in the app. |
-| **Learning curve** | Moderate — more powerful, so slightly more to learn, but the free "Cut" page is built for fast, simple editing. | Moderate–steep, industry-standard layout. | Easiest — built for speed and mobile-style workflows. |
-| **Power/ceiling** | Very high — editing, color grading (Resolve's specialty), audio mixing (Fairlight), and visual effects (Fusion) all built in. You will not outgrow it. | Very high, huge plugin/template ecosystem, standard in professional studios. | Limited — fine for quick edits and short-form, weaker for structured multi-track long-form editing, keyframe control, and complex audio work. |
-| **Built-in music/SFX safety** | None built in — you bring your own properly licensed assets (Module 4). | None built in (Adobe Stock is a separate paid add-on). | Has built-in music, but **library tracks are often registered with YouTube's Content ID by the original rights holder** — using them can redirect ad revenue on your video away from you even if you're a paying CapCut subscriber. Don't trust "built into the editor" as proof it's safe for monetized YouTube. |
-| **Performance** | GPU-hungry but efficient once set up; runs well on modest hardware for 1080p work. | Can be heavier on RAM; generally solid. | Lightest, since it's built for simpler edits. |
-| **Best for** | A serious, long-term YouTube editor who wants one tool that scales from "first cut" to "full comedic sound design and color" without switching software later. | Studios/teams already inside the Adobe ecosystem, or where a client requires Premiere project files. | Fast turnarounds, Shorts/TikTok-first content, editors who don't want a subscription and don't need deep timeline control. |
+| **Cost** | Free version has no watermark and no time limit. A paid "Studio" upgrade (~$295, one time) adds extra tools you don't need yet. | Monthly subscription (~$20+), forever. | Free plan exists, but its rules **do not allow commercial use** — and a monetized YouTube channel counts as commercial. You'd need a paid plan (~$10–20/month) for that. |
+| **How hard to learn** | Medium. More powerful, so a little more to learn. But the free "Cut" page is built for fast, simple edits. | Medium to hard. Standard layout used by studios. | Easiest. Built for quick, mobile-style edits. |
+| **How much it can do** | A lot. Editing, color, audio mixing, and effects are all built in. You won't outgrow it. | A lot. Huge library of templates and plugins. | Limited. Fine for quick edits. Not great for detailed, multi-layer comedy editing. |
+| **Built-in music safety** | None built in — you bring your own properly licensed music (Module 4). | None built in either. | Has built-in music, but **tracks are often flagged by YouTube automatically** — even on a paid plan, this can send your ad money to someone else. |
+| **Best for** | A serious, long-term editor who wants one tool that does everything. | Teams already using other Adobe software. | Fast turnarounds and short-form content. |
 
-### The recommendation
+### The choice: learn DaVinci Resolve
 
-**Learn DaVinci Resolve.** Reasoning, specific to this channel:
+Here's why, specifically for this channel:
 
-1. **It's genuinely free** with no functional handicap for what a Gaming + Reaction channel needs — full timeline control, keyframing, color, and Fairlight audio (crucial for balancing commentary, game audio, music, and SFX — Modules 10–12). No recurring cost is a real advantage for a channel just starting out.
-2. **It has one of the largest free tutorial ecosystems on YouTube** — which matters, because your editor will be learning *from* YouTube while editing *for* YouTube.
-3. **It won't be outgrown.** Premiere and Resolve are both professional-grade; there's no "upgrade path" you're missing by starting on Resolve. CapCut, by contrast, will start to feel limiting once you need frame-accurate multi-layer comedic editing (stacked memes + zoom + text + SFX on one moment).
-4. **The commercial-use licensing is unambiguous** — the free version's license doesn't carry the same "is my plan actually cleared for a monetized channel" question CapCut's free tier does.
+1. **It's genuinely free.** No monthly cost. Everything you need — cutting, keyframes, color, audio — is included.
+2. **It has huge free tutorials on YouTube.** You'll be learning *from* YouTube while editing *for* YouTube.
+3. **You won't outgrow it.** DaVinci Resolve is used by professionals. There's no "next program" you'll need to move to later.
+4. **It's clearly safe for monetized videos.** No confusing rules about what counts as commercial use.
 
-You are learning **one program**, not three. Every lesson from here forward in this course uses DaVinci Resolve terminology (Media Pool, Cut/Edit page, Inspector, Fairlight, Deliver page). If the creator or a future collaborator works in Premiere, the *concepts* (cutting, keyframing, ripple edits, exporting) transfer directly — only button locations change.
+You're learning **one program**, not three. Every lesson from here on uses DaVinci Resolve's terms — Media Pool, Cut/Edit page, Inspector, Fairlight, Deliver page. If you ever switch software later, the *ideas* (cutting, keyframes, exporting) stay the same. Only the button locations change.
 
-## Your first edit: import to export
+## Your first edit, step by step
 
-Follow this in order, on a short (1–2 minute) piece of throwaway gaming footage. Don't worry about it being good — the goal is muscle memory with the basic loop, not a finished video.
+Try this on a short (1–2 minute) piece of throwaway footage. It doesn't need to be good. The goal is just to get comfortable with the buttons.
 
-### Step 1 — Install and create a project
-1. Download DaVinci Resolve free from Blackmagic Design's official site and install it.
-2. Open it → **New Project** → name it using your Module 1 convention (e.g., `2026-09-03_MinecraftEp12`).
-3. Immediately **File → Save Project** into that episode's `02_Project_Files/` folder.
+### Step 1 — Install and start a project
+1. Download DaVinci Resolve (free) from Blackmagic Design's official website. Install it.
+2. Open it → click **New Project** → name it using your Module 1 naming pattern.
+3. Right away, go to **File → Save Project** and save it into your project's `02_Project_Files/` folder.
 
-### Step 2 — Import footage
+### Step 2 — Bring in your footage
 1. Go to the **Media** page (bottom toolbar).
-2. In the **Media Storage** panel, browse to your `01_Raw_Footage/` folder.
-3. Drag the footage into the **Media Pool** (bottom-left panel). This doesn't move or copy the file — Resolve just links to it, so don't move the original file afterward or you'll break the link.
+2. In the **Media Storage** panel, find your `01_Raw_Footage/` folder.
+3. Drag the footage into the **Media Pool**. This does not move the file — it just links to it. So don't move the original file afterward.
 
-### Step 3 — Create a timeline
-1. Right-click your imported clip in the Media Pool → **New Timeline Using Selected Clips** (this auto-matches the timeline settings to your footage — the easiest way to start).
-2. You're now on the **Cut** or **Edit** page, looking at your timeline with the clip already on it. (Cut page = simplified, fast editing; Edit page = full control. Start on Cut, move to Edit once comfortable — Module 6 covers both.)
+### Step 3 — Start a timeline
+1. Right-click your clip in the Media Pool → choose **New Timeline Using Selected Clips**. This sets up the timeline to match your footage automatically.
+2. You're now looking at your clip on a timeline. (The **Cut** page is simple and fast. The **Edit** page gives you full control. Start on Cut — Module 6 covers both.)
 
-### Step 4 — Cut clips
-1. Move the playhead (the vertical line) to the point you want to cut.
-2. Press **B** (Blade tool) then click on the clip at the playhead — or use the keyboard shortcut **Ctrl/Cmd+B** to split at the playhead directly.
-3. You now have two separate clips you can work with independently.
+### Step 4 — Cut a clip
+1. Move the playhead (the vertical line) to where you want to cut.
+2. Press **B** for the Blade tool, then click the clip. Or press **Ctrl/Cmd+B** to cut right at the playhead.
+3. You now have two separate clips.
 
-### Step 5 — Move clips
-1. Switch back to the **Selection** tool (**A**).
-2. Click and drag a clip left/right on the timeline to reposition it. Resolve will show ripple/overwrite behavior depending on mode — for now, use it in a way where gaps don't appear (drag onto an empty part of the timeline, or use ripple mode — Module 6 explains ripple edits properly).
+### Step 5 — Move a clip
+1. Press **A** to switch back to the Selection tool.
+2. Drag a clip left or right to move it.
 
-### Step 6 — Delete sections
-1. Select the unwanted clip/section.
-2. Press **Shift+Delete** (or right-click → **Ripple Delete**) to remove it *and* close the gap automatically, rather than plain **Delete**, which leaves a black gap behind.
+### Step 6 — Delete a section
+1. Select the part you don't want.
+2. Press **Shift+Delete** (or right-click → **Ripple Delete**). This removes the clip *and* closes the gap automatically. Plain **Delete** would leave an empty black gap — avoid that.
 
 ### Step 7 — Add audio and music
-1. Import a music/SFX file the same way you imported video (drag into Media Pool).
-2. Drag it onto an **audio track** below your video track (Resolve auto-creates tracks as needed, or right-click the track header → **Add Track → Audio**).
-3. Trim it the same way you trimmed video (Blade tool, drag edges).
+1. Bring in a music or sound file the same way you brought in video.
+2. Drag it onto an audio track below your video.
+3. Trim it the same way you trimmed video — Blade tool, or drag the edges.
 
-### Step 8 — Add images
-1. Drag an image file into the Media Pool, then onto a **video track above** your main footage (this is how overlays/memes work — higher tracks render on top of lower ones).
-2. Trim its duration by dragging its edges on the timeline, same as any clip.
+### Step 8 — Add an image
+1. Drag an image into the Media Pool, then onto a video track **above** your footage. Higher tracks show on top.
+2. Trim its length by dragging its edges.
 
 ### Step 9 — Add text
-1. Go to the **Effects Library** (top-left, Edit page) → **Titles**.
-2. Drag a basic text title onto a video track above your footage.
-3. Double-click it, and use the **Inspector** panel (top-right) to type your text and adjust size/position/font.
+1. Go to **Effects Library → Titles**.
+2. Drag a basic text title onto a track above your footage.
+3. Double-click it. Use the **Inspector** panel to type your text and set its size, color, and position.
 
-### Step 10 — Add transitions
-1. In the Effects Library, open **Transitions**.
-2. Drag one (start with a simple **Cross Dissolve**) onto the boundary between two clips on the timeline.
-3. Use sparingly — Module 7 explains why hard cuts, not transitions, are the default in fast-paced YouTube comedic editing.
+### Step 10 — Add a transition
+1. Open **Effects Library → Transitions**.
+2. Drag a simple **Cross Dissolve** onto the point where two clips meet.
+3. Use transitions rarely — Module 7 explains why hard cuts, not transitions, are the usual choice in this fast-paced style.
 
-### Step 11 — Export
+### Step 11 — Export your video
 1. Go to the **Deliver** page.
-2. Choose a preset — **YouTube 1080p** is a safe starting point (or 4K if your footage is 4K).
-3. Set the **Filename** and **Location** (your project's `04_Exports/Drafts/` folder), following your Module 1 naming convention.
+2. Pick the **YouTube 1080p** preset (or 4K, if your footage is 4K).
+3. Set the file name and save location — put it in `04_Exports/Drafts/`, following your Module 1 naming pattern.
 4. Click **Add to Render Queue**, then **Start Render**.
 
 ## Do this before Module 3
 
-Complete the full loop above once on throwaway footage: import → cut → rearrange → delete a section → add music → add an image → add text → add one transition → export. Don't aim for funny yet — aim for *comfortable with the buttons*. Time yourself; if it takes over 30 minutes the first time, that's completely normal.
+Do the full loop once: import → cut → rearrange → delete a section → add music → add an image → add text → add one transition → export. Don't worry about making it funny yet — just get comfortable with the buttons. If it takes over 30 minutes the first time, that's completely normal.
 
-Then move to [Module 3: Copyright & Licensing Basics](03-copyright-basics.md) — **do not skip ahead to pulling memes and music into real videos before reading it.**
+Then move to [Module 3: Copyright & Licensing Basics](03-copyright-basics.md). Do not skip ahead to using memes and music in real videos before reading it.

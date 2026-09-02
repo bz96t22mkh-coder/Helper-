@@ -1,38 +1,38 @@
 # Module 9 — Zoom & Camera Movement
 
-Zooms are probably the single most-used technique in this editing style, which means they're also the easiest to overuse or make look amateurish. This module is about making every zoom feel like a deliberate choice, not a tic.
+> **In short:** Zooms are one of the most-used tools in this style — and one of the easiest to overuse. This module teaches you how to make every zoom feel planned, not random.
 
-## The moves
+## The different moves
 
-- **Zoom-in / punch-in**: scale increases, drawing the viewer's focus tighter onto the frame (usually onto a face or a specific on-screen detail).
-- **Zoom-out**: scale decreases, usually used to reveal something (context, a second element entering frame) or to "release" tension after a punch-in.
-- **Punch-in specifically** refers to a *fast, often instant or near-instant* zoom — a hard jump in scale, not a smooth glide — used for comedic emphasis (contrast this with a slow keyframed zoom, used more for building tension, per Module 8's table).
-- **Keyframed movement**: a smooth animated move between two states over a set duration, built exactly as practiced in Module 6 (two keyframes, value changes between them) — used for pans, slow zooms, or simulated "camera" drift on a static image/screenshot.
-- **Sudden scale changes**: an instant cut from one static scale to another, no animation at all (a "cut zoom") — often *funnier and punchier* than an animated zoom because it mimics a hard edit rather than a camera move.
-- **Position changes**: moving the framing (X/Y) rather than or in addition to scale — e.g., pushing in specifically toward a face in the corner of frame rather than the frame's center.
+- **Zoom-in / punch-in:** the image gets bigger, pulling the viewer's focus in tighter — usually onto a face or a specific detail.
+- **Zoom-out:** the image gets smaller. Often used to show something new, or to release tension after a punch-in.
+- **Punch-in (specifically):** a *fast*, often instant zoom — a hard jump in size, not a smooth glide. Used for comedy (see Module 8's pairing table).
+- **Keyframed movement:** a smooth, timed move between two points, built the way you practiced in Module 6 — two keyframes, a value change between them. Used for slow zooms or a simulated camera drift.
+- **Sudden scale change:** an instant cut from one size to another, with no animation at all. Often funnier than an animated zoom, because it feels like a hard edit.
+- **Position change:** moving the framing left/right/up/down instead of (or along with) resizing.
 
-## What makes a zoom feel intentional vs. amateurish
+## What makes a zoom feel planned, not random
 
-The difference is almost never the zoom itself — it's **timing, speed, and restraint.**
+The difference is almost never the zoom itself. It's **timing, speed, and restraint.**
 
-- **Timing**: the zoom should land exactly on the beat of the moment it's emphasizing — a half-second early or late and it reads as sloppy, even if viewers can't articulate why. Nudge it frame-by-frame against the audio/reaction until it feels locked in.
-- **Speed matches intensity**: a subtle punch-in (small scale change, fast) for a mild moment; a bigger, more dramatic scale jump for a big moment (Module 8's pairing table). A huge zoom on a small joke feels like the edit is overselling it — the opposite failure of a tiny zoom on a huge reaction, which feels like it's underselling it.
-- **Consistency of style within a video**: pick a "zoom language" for the video (e.g., "punch-ins are always a hard cut-zoom, never eased") and stay consistent, rather than randomly mixing smooth and hard zooms with no logic — random mixing is what reads as amateurish, not the zooms themselves.
-- **Restraint**: not every funny line needs a zoom (Module 8's core rule). A video with a zoom on literally everything trains the viewer to stop noticing zooms as meaningful at all.
-- **Clean execution**: no visible edge artifacts (avoid zooming in so far that footage looks pixelated/blurry — Module 6's Transform panel shows the zoom percentage; as a rough guide, keep zooms under roughly 130–150% on 1080p-sourced footage before quality visibly degrades, more headroom if your source is 4K), and the zoom should never clip an important part of the frame (a face, on-screen text) awkwardly.
+- **Timing:** the zoom should land right on the beat of the moment. Even half a second early or late feels sloppy, even if the viewer can't say why. Nudge it frame by frame until it locks in.
+- **Match speed to size:** a small, fast zoom for a small moment. A bigger, slower zoom for a bigger moment (Module 8's table). A huge zoom on a small joke feels like the edit is overselling it.
+- **Stay consistent within one video.** Pick a "zoom style" for the video — for example, "punch-ins are always a hard cut, never smooth" — and stick with it. Randomly mixing styles is what looks messy, not the zoom itself.
+- **Don't overdo it.** Not every funny line needs a zoom (Module 8's core rule). If you zoom on everything, the viewer stops noticing zooms at all.
+- **Keep it clean.** Don't zoom in so far the footage looks blurry or pixelated (a rough guide: stay under about 130–150% on 1080p footage, more room if your source is 4K). Never let a zoom accidentally cut off a face or important text.
 
-## Building a punch-in (practical, step-by-step)
+## How to build a punch-in, step by step
 
-1. Select the clip in the timeline, open Inspector → **Transform**.
-2. Set the playhead to the exact frame the moment lands (the punchline, the reaction).
-3. For a **hard cut-zoom** (no animation): use the Blade tool to split the clip at that exact frame, select the *second* half, and directly set its Zoom value higher (no keyframes needed — it's an instant jump because it's technically now a new clip).
-4. For a **smooth punch-in**: keyframe the Zoom value from 1.0 to your target scale over a short window (roughly 4–8 frames for a fast punch feels snappy; longer feels more like a slow reveal — try both and trust your eye).
-5. Play it back against the audio. Adjust the exact frame the zoom starts by a few frames in either direction until it feels locked to the moment rather than slightly ahead of or behind it.
+1. Select the clip. Open Inspector → **Transform**.
+2. Move the playhead to the exact frame where the moment lands.
+3. **For a hard cut-zoom (no animation):** use the Blade tool to split the clip at that exact frame. Select the second half. Set its Zoom value higher directly — no keyframes needed.
+4. **For a smooth punch-in:** keyframe the Zoom value from 1.0 up to your target size, over a short window (try 4–8 frames for a snappy feel; longer feels more like a slow reveal).
+5. Play it back with the sound on. Nudge the exact starting frame a few frames earlier or later until it feels locked to the moment.
 
-## Exercises for mastering comedic zooms
+## Practice exercises
 
-1. Take one reaction clip and apply three different zoom treatments to the same moment (subtle smooth punch-in, hard cut-zoom, big dramatic slow zoom). Compare them back to back — notice how differently the *same* footage reads depending only on the zoom choice.
-2. Take five different moments of varying intensity from one piece of footage (a mild joke, a big reaction, a jumpscare-style surprise, an awkward silence, a victory) and apply the Module 8 pairing table's suggested zoom treatment to each. Watch the sequence back — does the *variation* in zoom intensity across the five feel matched to the variation in the moments themselves?
-3. Deliberately zoom on a moment that doesn't need it, then watch it back next to the same moment left alone. This builds the instinct for "does this moment actually call for a zoom" faster than any amount of reading about it.
+1. Take one reaction clip. Apply three different zoom styles to the same moment: a small smooth punch-in, a hard cut-zoom, and a big dramatic slow zoom. Watch them back to back. Notice how differently the *same* footage feels, based only on the zoom choice.
+2. Take five moments with different levels of intensity — a mild joke, a big reaction, a jumpscare-style surprise, an awkward silence, a victory. Apply the zoom treatment Module 8's table suggests for each. Watch the sequence. Does the change in zoom size across the five match the change in the moments themselves?
+3. Deliberately zoom on a moment that doesn't need it. Then watch it next to the same moment left alone. This builds your instinct for "does this moment actually need a zoom," faster than reading about it ever could.
 
 Move to [Module 10: Memes & Visual Comedy](10-memes-visual-comedy.md).

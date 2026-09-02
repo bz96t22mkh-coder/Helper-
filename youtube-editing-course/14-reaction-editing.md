@@ -1,27 +1,29 @@
 # Module 14 — Reaction Video Editing
 
-Reaction content lives or dies on one thing: **the creator's response to what's happening.** The source material (a video, a clip, a piece of content being reacted to) is not the show — the creator's face, voice, and commentary is. This module is about editing to keep that always true.
+> **In short:** In a reaction video, the show is the creator's reaction — not the thing they're watching. This module teaches you to keep it that way.
 
-## What to emphasize
+Reaction content lives or dies on one thing: **the creator's response to what's happening.** The video they're reacting to isn't the show. The creator's face, voice, and comments are the show. This module is about editing to protect that, always.
 
-- **Facial expressions** — a strong facial reaction (even a small one, like a raised eyebrow) is often worth a punch-in (Module 9) to make sure it doesn't get lost, especially if the facecam is small in frame.
-- **Shock, confusion, excitement, anger, humor** — each of these has a different "correct" treatment per Module 8's pairing table (a shock moment might get a hard zoom + record scratch; a confused moment might get a comedic pause and on-screen text asking the question the viewer is also thinking).
-- **Commentary** — genuinely funny or insightful spoken lines deserve to be *heard clearly* first (never buried under music/SFX, per Modules 11–12) and can be reinforced with on-screen text if a line is especially quotable.
-- **Interesting opinions** — moments where the creator says something genuinely thought-provoking or unexpected are worth their own beat, even without a joke attached, because they're part of what makes the creator worth watching (Module 15 goes deeper on this).
-- **Unexpected reactions** — if the creator reacts in a way a viewer wouldn't predict, that gap between expectation and reality is itself often the funniest/most interesting moment in the video — protect it with clean timing rather than burying it under other effects competing for attention.
+## What to give extra attention to
 
-## Avoiding dead "just watching" stretches
+- **Facial expressions** — even a small reaction (a raised eyebrow) is often worth a punch-in (Module 9), especially if the facecam is small on screen.
+- **Shock, confusion, excitement, anger, humor** — each gets a different treatment, per Module 8's pairing table. A shock moment might get a hard zoom and a record scratch. A confused moment might get a pause and on-screen text asking the question the viewer is also thinking.
+- **Commentary** — funny or interesting lines need to be heard clearly first. Never bury them under music or sound effects (Modules 11–12). A great line can be reinforced with on-screen text.
+- **Interesting opinions** — a genuinely thoughtful or surprising comment deserves its own beat, even without a joke attached. It's part of what makes the creator worth watching (Module 15 goes deeper on this).
+- **Unexpected reactions** — if the creator reacts in a way nobody would predict, that gap between what's expected and what happens is often the funniest moment in the video. Protect it with clean timing, not a pile of competing effects.
 
-The single biggest risk specific to reaction content: long stretches where the viewer is essentially watching the *source material* with the creator silently observing, adding nothing. This is dead time (Module 7) that's easy to miss because "something is technically happening on screen" — but if the creator isn't reacting, commenting, or otherwise adding value, the viewer has no reason to watch your reaction video over just watching the source material directly.
+## Avoid long stretches of "just watching"
 
-**How to fix it in the edit:**
-- **Cut or heavily compress silent-watching stretches** where nothing is added — a quick way to check: if you paused the video and covered the creator's facecam, would this stretch still be worth including? If the answer is "no, because it's just the source content," it's a cut candidate.
-- **Use picture-in-picture sizing intentionally** — during a stretch where the source content itself needs full attention (something visually important is happening), it's fine to let it take more of the frame; when the creator's reaction is the point, size the facecam up or punch in on it instead.
-- **Fill genuinely necessary quiet stretches with something that still adds value** — a quick on-screen text summarizing what's happening (useful if the source content itself is hard to follow), a brief cutaway to a relevant meme reacting on the viewer's behalf, or simply trust a short beat of real silence if the creator's expression alone is compelling (Module 7's "let it breathe").
-- **Never rely on the source material's own pacing.** You are not obligated to show a source clip at its original length or speed just because that's how long it originally ran — trim, speed up, or skip within the source clip itself (where reaction-content norms and any relevant platform/licensing terms allow) so the *reaction* stays the pace-setting element, not the source.
+Here's the biggest risk specific to reaction content: long stretches where the viewer is watching the **source material**, with the creator silently observing and adding nothing. This is dead time (Module 7), and it's easy to miss because *something* is technically happening on screen. But if the creator isn't reacting, talking, or adding value, the viewer has no reason to watch your reaction video instead of just watching the source material directly.
 
-## The core reaction-editing test
+**How to fix it:**
+- **Cut or shorten silent-watching stretches.** A quick test: if you paused and covered the creator's facecam, would this stretch still be worth including? If the honest answer is "no, it's just the source content," it's a cut candidate.
+- **Size the facecam on purpose.** During a stretch where the source content needs full attention, it's fine to let it take up more of the screen. When the reaction is the point, size the facecam up, or punch in on it.
+- **Fill genuinely necessary quiet stretches with something useful** — quick on-screen text summarizing what's happening, a brief cutaway to a meme reacting on the viewer's behalf, or trust a short beat of real silence if the expression alone is compelling.
+- **You don't have to show the source material at its original length or speed.** Trim it, speed it up, or skip ahead within the source clip (where reaction norms and any license terms allow), so the *reaction* stays the thing that sets the pace — not the source.
 
-Before finalizing any stretch of a reaction video, ask: **"Is the value in this section coming from the creator, or am I just showing someone else's content?"** If it's the latter for more than a few seconds at a stretch, that section needs editing — either compression, an added layer of value, or a cut.
+## The core test
+
+Before finishing any stretch of a reaction video, ask: **"Is the value in this section coming from the creator, or am I just showing someone else's content?"** If it's the second one for more than a few seconds, that section needs work — either shortening, added value, or a cut.
 
 Move to [Module 15: Editing the Creator's Personality](15-editing-personality.md).

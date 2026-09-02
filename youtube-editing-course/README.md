@@ -1,8 +1,10 @@
 # YouTube Gaming + Reaction Editing Course
 
-A complete, 23-module, beginner-to-capable editing course for a video editor learning to cut high-energy, personality-driven Gaming + Reaction YouTube content — inspired by the comedic pacing and energy of creators like CoryxKenshin, while building the channel's own distinct editing identity.
+A complete, 24-part course that teaches a beginner video editor how to cut fun, high-energy Gaming + Reaction YouTube videos — no experience required. It's written in plain, simple language on purpose, with short sentences and a lot of structure, so it's easy to follow.
 
-**Start here:** [`00-roadmap.md`](00-roadmap.md) — the full course map, module order and rationale, suggested pace, and the final goal.
+**Start here:** [`00-roadmap.md`](00-roadmap.md) — the full course map, what order to go in, and what you'll be able to do by the end.
+
+There's also an interactive, color-coded, click-to-open version of this course you can use in a browser — ask for "The Cutting Room" artifact link if you don't have it.
 
 ## Modules
 

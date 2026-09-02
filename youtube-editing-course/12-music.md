@@ -1,45 +1,46 @@
 # Module 12 — Music
 
-## Background music's job
+> **In short:** Music sets the mood before the viewer even notices why. Match it to the feeling of the scene, know when to cut it, and never let it get louder than the creator's voice.
 
-Music sets the emotional undertone of a scene *before* the viewer consciously registers why — it's doing work in the background, literally and figuratively. Its job is to support the footage and the SFX layer, never to compete with them or the voice.
+## What background music is for
 
-## Matching music to emotion
+Music sets the emotional feeling of a scene before the viewer consciously notices it. Its job is to support the footage and the sound effects — never to compete with them, and never to compete with the voice.
 
-Organize your Module 5 music library by mood (Comedy-Upbeat, Suspense-Tension, Sad-Sentimental, Hype-Energetic, Background-Neutral) so you can match quickly:
+## Match music to the feeling
 
-- **Comedy**: light, bouncy, often slightly quirky/playful tracks — supports without overpowering jokes; avoid anything with a strong, distracting melody that fights for attention during dialogue.
-- **Suspense**: sparse, tense, often minimal — rising elements (a riser, a pulsing bass, a ticking rhythm) that build without resolving, held right up to the payoff moment.
-- **Horror/dread** (for a jumpscare-adjacent gaming moment): low, uneasy tones — used briefly and specifically, since a full channel isn't horror-focused, this is a situational tool, not a default mood.
-- **Excitement/hype**: driving rhythm, rising energy, often building to a drop or peak — used for big wins, big reveals, or a sequence building toward a climax.
+Sort your Module 5 music library by mood (Comedy-Upbeat, Suspense-Tension, Sad-Sentimental, Hype-Energetic, Background-Neutral), so you can find the right track fast:
 
-## When music should stop
+- **Comedy:** light, bouncy, a little quirky. Supports jokes without taking over. Avoid anything with a strong melody that competes with dialogue.
+- **Suspense:** sparse and tense. Something rising — a build-up, a pulsing bass, a ticking rhythm — held right up to the payoff.
+- **Excitement/hype:** driving rhythm, rising energy. Used for big wins or a sequence building toward a peak.
 
-Music doesn't need to run the entire video — in fact, running it constantly is one of the fastest ways to make a video feel emotionally flat, because there's no contrast to signal "this moment matters more." Cut or duck music:
+## When to cut the music
 
-- **Right before a big reaction or punchline** — silence (or near-silence) in the beat just before a payoff makes the payoff itself (a sound effect, a reaction, dialogue) land harder by contrast.
-- **During dense dialogue/commentary** where the creator's specific words matter and music would compete for attention.
-- **At a genuine tonal shift** — don't let happy background music bleed into a suddenly serious or sentimental moment (Module 15); cut it cleanly (or crossfade briefly) rather than letting it awkwardly continue.
+Music doesn't need to play through the whole video. In fact, playing it constantly makes a video feel flat — there's no contrast to show "this moment matters more." Cut or lower the music:
 
-## Matching music to transitions
+- **Right before a big reaction or punchline.** A quiet beat just before a payoff makes the payoff land harder by comparison.
+- **During important dialogue**, where the creator's exact words matter and music would fight for attention.
+- **At a real change in tone.** Don't let happy music bleed into a sudden serious or sentimental moment (Module 15). Cut it cleanly, or use a short crossfade.
 
-When moving between sections of a video with a different energy (calm exploration → intense boss fight; casual commentary → big reveal), a **music change**, not just a volume change, sells the shift — swap tracks or drop into a different mood entirely, ideally timed to land on a natural cut rather than mid-scene.
+## Match music to scene changes
+
+When the video shifts energy — calm exploring to an intense boss fight, or casual talk to a big reveal — a **music change**, not just a volume change, sells that shift. Swap tracks or drop into a different mood, ideally right on a natural cut.
 
 ## Volume levels
 
-- Music should sit **clearly under the creator's voice** at all times — as a practical starting point, aim for voice to read as noticeably louder on your audio meters, with music present but easily "ignorable" if you were to focus only on the dialogue.
-- **Ducking**: temporarily lowering music volume under dialogue/SFX, then returning it to normal volume once the voice/SFX moment passes. Do this manually by keyframing the music clip's volume for now (drop the volume a few frames before the voice/SFX starts, hold it low, bring it back up a few frames after) — most editors do this by ear rather than a fixed number, so trust your ears and re-check on both headphones and phone speakers per Module 11.
-- Never let music clip or distort — if a build-up track's peak moment is overpowering everything else, that's a volume-automation problem to fix, not something to just accept.
+- Music sits **clearly under the creator's voice**, always. As a simple starting point: the voice should read as noticeably louder on your audio meters, with music present but easy to tune out if you focus only on the dialogue.
+- **Ducking** means temporarily lowering the music under dialogue or sound effects, then bringing it back up once that moment passes. Do this by hand for now — keyframe the music clip's volume down a few frames before the voice starts, hold it low, then bring it back up a few frames after. Trust your ears, and double-check on both headphones and a phone speaker (Module 11).
+- Never let music distort. If a loud moment in a track is overpowering everything else, fix the volume automation — don't just accept it.
 
-## Avoiding music overpowering the voice
+## Don't let music drown out the voice
 
-This is the single most common beginner mixing mistake, and the fastest way to make a video feel unprofessional even if every visual edit is great. Before finalizing:
-1. Play the full sequence back and specifically listen for any stretch where you have to strain to hear what's being said.
-2. If you find one, lower the music (or duck it more aggressively) in that exact stretch rather than lowering it uniformly across the whole video — a uniform drop can leave music too quiet everywhere else.
-3. Test on a phone speaker specifically — phones compress the dynamic range, so a mix that's balanced on headphones can tip toward music-dominant on a phone.
+This is the most common beginner mixing mistake — and the fastest way to make a video feel unprofessional, even with great visual editing. Before you finish:
+1. Play the whole video and listen for any stretch where you have to strain to hear the dialogue.
+2. If you find one, lower the music (or duck it more) in that exact stretch — not across the whole video, which can leave music too quiet everywhere else.
+3. Test on a phone speaker specifically. Phones compress the sound range, so a mix that's balanced on headphones can tip toward music-heavy on a phone.
 
-## Using properly licensed music
+## Only use properly licensed music
 
-Every track that ends up in a real, monetized video must come from your Module 4/5 verified sources with its license and any required attribution already recorded. Never grab a trending song or a track "everyone's using" without checking — popularity is not proof of a clear license (this is the same trap as the meme myths in Module 3), and a mismatched Content ID claim on your music track is one of the most common and completely avoidable ways ad revenue gets redirected away from a video that otherwise did everything right.
+Every track in a real, monetized video must come from your Module 4/5 checked sources, with the license and any needed credit already written down. Never grab a trending song just because "everyone's using it" — popularity doesn't prove it's licensed (same trap as the meme myths in Module 3). A mismatched Content ID claim on your music is one of the most common — and most avoidable — ways ad money gets redirected away from an otherwise great video.
 
 Move to [Module 13: Gaming Video Editing](13-gaming-editing.md).

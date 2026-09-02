@@ -1,21 +1,21 @@
 # Module 19 — Working With the Creator
 
-Great editing judgment doesn't help if it's disconnected from what the creator actually wants. This module builds the communication system between editor and creator: how footage and context get handed off, how ideas and feedback flow both directions, and how a video gets formally signed off. Use the four templates below on every video — they turn "communication" from an ad-hoc back-and-forth into a repeatable, low-friction process.
+> **In short:** Good editing judgment doesn't help if it's disconnected from what the creator actually wants. This module gives you four simple templates to make communication easy and repeatable.
 
-## The system, end to end
+## The whole process, in order
 
-1. **Creator sends footage** + fills out an **Editor Brief** (what the video is, what matters, any known issues).
-2. **Editor asks clarifying questions** if the brief leaves anything unclear (better to ask now than guess and redo work later).
-3. **Editor edits a first draft**, referencing the brief throughout (Module 18).
-4. **Editor delivers the draft** with a short note on any judgment calls made or anything flagged as uncertain.
-5. **Creator gives feedback** using the **Feedback Template** — specific, actionable, timestamped.
-6. **Editor makes revisions**, tracked against the **Revision Checklist** so nothing raised gets missed.
-7. **Creator does final review** using the **Final Approval Checklist**.
+1. **Creator sends footage** and fills out an **Editor Brief** (what the video is, what matters, anything to know).
+2. **Editor asks questions** if anything in the brief is unclear — better to ask now than guess and redo work later.
+3. **Editor edits a first draft**, using the brief as a guide the whole time (Module 18).
+4. **Editor sends the draft**, with a short note on any judgment calls made.
+5. **Creator gives feedback**, using the **Feedback Template** — specific, with timestamps.
+6. **Editor makes changes**, tracked with the **Revision Checklist**, so nothing gets missed.
+7. **Creator does a final review**, using the **Final Approval Checklist**.
 8. **Editor exports and delivers the final file.**
 
 ## Template 1 — Editor Brief
 
-The creator fills this out (or the editor fills it out *with* the creator, verbally, then writes it down) before editing begins.
+The creator fills this out (or the editor fills it out *with* the creator, then writes it down) before editing starts.
 
 ```
 EDITOR BRIEF — [Video Title/Working Title]
@@ -45,7 +45,7 @@ Footage location(s):
 
 ## Template 2 — Feedback
 
-The creator fills this out after watching a draft. Timestamped, specific feedback is dramatically faster to act on than general impressions.
+The creator fills this out after watching a draft. Feedback with timestamps is much faster to act on than a general impression.
 
 ```
 FEEDBACK — [Video Title] — Draft v[X]
@@ -74,14 +74,14 @@ Nice-to-have:
 
 ## Template 3 — Revision Checklist
 
-The editor uses this while making revisions, to make sure every piece of feedback gets a visible resolution — not silently ignored, not silently changed without the creator knowing why.
+The editor uses this while making changes, so every piece of feedback gets a clear answer — never quietly skipped, never quietly changed without the creator knowing why.
 
 ```
 REVISION CHECKLIST — [Video Title] — Draft v[X] → v[X+1]
 
 | Feedback item | Action taken | Status |
 |---|---|---|
-| [00:12] ...            | ...            | Done / Adjusted differently (explain) / Discussed, not changed (why) |
+| [00:12] ...            | ...            | Done / Changed differently (explain) / Discussed, not changed (why) |
 | [01:45] ...            | ...            | |
 | [03:20] ...            | ...            | |
 
@@ -93,27 +93,27 @@ Anything the editor wants the creator to specifically re-check:
 
 ## Template 4 — Final Approval Checklist
 
-The creator (ideally with the editor walking through it together, or independently) runs this before a video is considered done and ready to upload.
+The creator (ideally walking through it with the editor, or on their own) runs this before a video is considered done and ready to upload.
 
 ```
 FINAL APPROVAL CHECKLIST — [Video Title]
 
-[ ] Watched the full video start to finish at final export quality
-[ ] Hook (first 30 seconds) grabs attention and matches the title/thumbnail promise
-[ ] All must-keep moments from the Editor Brief are present and land well
-[ ] No remaining feedback items from the last Feedback round are unresolved
-[ ] Audio: voice is clear and dominant throughout, no distortion, music/SFX balanced
-[ ] No copyright-risk assets present that weren't verified per Module 3–4
-[ ] Title, thumbnail, and video content are consistent with each other
-[ ] Filename follows the project naming convention (Module 1) and is in 04_Exports/Final/
+[ ] Watched the full video start to finish, at final export quality
+[ ] The first 30 seconds grab attention and match the title/thumbnail
+[ ] All must-keep moments from the Editor Brief are in, and land well
+[ ] No feedback from the last round is left unanswered
+[ ] Audio: voice is clear and loudest throughout, no distortion, music/SFX balanced
+[ ] No risky, unchecked assets used (see Modules 3–4)
+[ ] Title, thumbnail, and video content all match each other
+[ ] File name follows the naming pattern (Module 1) and is in 04_Exports/Final/
 [ ] APPROVED FOR UPLOAD — signed off by: __________  date: __________
 ```
 
-## Practical communication guidelines
+## A few simple communication habits
 
-- **Ask questions early, not after finishing a whole draft.** If the Editor Brief leaves genuine ambiguity about a big structural choice (e.g., "should this be one long video or split into two"), ask before investing hours into one direction.
-- **Explain judgment calls, don't just make them silently.** When delivering a draft, a short note like "I moved the raccoon moment to the intro as the hook — let me know if you'd rather keep it in its original spot" helps the creator give useful feedback fast, and helps them trust the editor's judgment over time instead of needing to catch every change themselves.
-- **Track revisions with actual version numbers** (Module 1's naming convention) so "the feedback I gave on v1" and "what changed in v2" is never ambiguous.
-- **Treat the Final Approval Checklist as non-negotiable**, even under deadline pressure — it's specifically designed to catch the mistakes (a copyright risk, an audio balance issue, a mismatched title) that are expensive to fix *after* upload and cheap to fix before it.
+- **Ask questions early, not after finishing a whole draft.** If the Editor Brief leaves something genuinely unclear — like whether this should be one long video or split into two — ask before spending hours going the wrong direction.
+- **Explain your judgment calls, don't just make them quietly.** A short note like "I moved the funny moment to the start as the hook — let me know if you'd rather keep it where it was" helps the creator give useful feedback fast, and builds trust over time.
+- **Use real version numbers** (Module 1's naming pattern), so "the feedback I gave on v1" and "what changed in v2" is never confusing.
+- **Treat the Final Approval Checklist as required**, even under a deadline. It's built to catch the expensive mistakes — a copyright risk, an audio problem, a mismatched title — that are cheap to fix before upload and costly to fix after.
 
 Move to [Module 20: Complete Editing Workflow](20-complete-workflow.md).
