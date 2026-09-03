@@ -1,16 +1,17 @@
 # Uniform & Workwear Outsourcing Business — Course Roadmap
 
-**Owner:** you. **Format:** 21 modules, 2 focused hours/day, build-while-you-learn. Progress is tracked in [`progress-tracker.md`](progress-tracker.md); each completed day's actual lesson is saved in [`day-logs/`](day-logs/); the real business artifacts we build together live in [`/business`](../business/), not in this course folder.
+**Owner:** you. **Format:** 21 modules, 120 days, 2 focused hours/day, build-while-you-learn. The entire course is written and finished — see the module index in section 14. Progress is tracked in [`progress-tracker.md`](progress-tracker.md); the real business artifacts we build together live in [`/business`](../business/), not in this course folder.
 **Base country:** South Africa, with a path to international expansion once the local engine works.
-**Status:** Roadmap set. Day 1 delivered. Say **"Day 2"** (or just tell me what happened with Day 1) to continue.
+**Status:** All 21 modules / 120 days written and reviewed for correctness. You've actually completed Day 1. Say **"Day 2"** (or tell me what happened with Day 1) to continue.
 
 ---
 
 ## 1. How this course actually works
 
 - **LEARN → PRACTICE → BUILD → TEST → IMPROVE**, every day, in that order. You are almost never just reading.
-- Every day is a **2-hour mission**: a fixed list of work to finish, not a stopwatch schedule. If you finish early, you get the next useful task. If you don't finish, the leftover work is Day X+1's first job — the plan moves at your real pace, not a calendar's.
-- Days are written **one at a time, based on what you actually did**, not pre-scripted months in advance. Reason: from Module 4 onward almost every day depends on a real decision you made the day before (your niche, your supplier's real prices, your actual quote numbers) — pre-writing them now would mean rewriting most of them later anyway. The full map below tells you exactly where the course is going and roughly how long each part takes; the day-by-day detail gets written just-in-time, like a real mentor responding to your real progress, and it's saved permanently in `day-logs/` so nothing is lost.
+- Every day is a **2-hour mission**: a fixed list of work to finish, not a stopwatch schedule. If you finish early, move straight to the next day. If you don't finish, the leftover work is tomorrow's first job — work through it at your real pace, not a calendar's.
+- Every day, in every module file, follows the same template: what to learn, what to understand, exercises (with worked/checkable answers for anything objective, since you're often working through this asynchronously), the real business tasks for that day, exact Claude Code build prompts wherever a real system gets built, a deliverables checklist, and an end-of-day check.
+- Every worked pricing, margin, cash-flow, and finance calculation in the course was independently recomputed before publishing — if you ever find one that doesn't check out, treat that as a real bug and flag it; it gets fixed.
 - Every label below tells you who does the work:
 
 | Tag | Meaning |
@@ -189,20 +190,20 @@ Website · Pricing/quote calculator · Lead tracker → full CRM · Supplier dat
 
 ---
 
-## 14. The 21 modules, phased
+## 14. The 21 modules — phased, written, and linked
 
-| Phase | Modules | Focus | Est. days (2hr/day) |
+| Phase | Modules | Focus | Days |
 |---|---|---|---|
-| 1. Foundations | 1-2 | Understand outsourcing, pick your niche for real | 8-10 |
-| 2. Legal & setup | 3 | SA business structure, banking, contracts, invoicing basics | 6-8 |
-| 3. Product & supply | 4-6 | Suppliers, products, pricing engine | 14-18 |
-| 4. Brand & web presence | 7-8 | Brand identity, website (built with Claude Code) | 10-12 |
-| 5. Sales engine | 9-11 | Sales scripts, lead generation, CRM | 18-22 |
-| 6. Operations | 12-14 | Automation, fulfilment SOP, customer service | 16-20 |
-| 7. Money & growth | 15-17 | Finance tracking, marketing channels, retention | 14-18 |
-| 8. Team & systems | 18-21 | Hiring, SOP library, dashboard, scaling | 14-18 |
+| 1. Foundations | [1](01-understanding-outsourcing.md)–[2](02-market-research.md) | Understand outsourcing, pick your niche for real | 1–9 |
+| 2. Legal & setup | [3](03-business-setup.md) | SA business structure, banking, contracts, invoicing basics | 10–16 |
+| 3. Product & supply | [4](04-suppliers.md)–[5](05-products.md)–[6](06-pricing.md) | Suppliers, products, pricing engine | 17–33 |
+| 4. Brand & web presence | [7](07-branding.md)–[8](08-website.md) | Brand identity, website (built with Claude Code) | 34–45 |
+| 5. Sales engine | [9](09-sales.md)–[10](10-lead-generation.md)–[11](11-crm-operations.md) | Sales scripts, lead generation, CRM | 46–66 |
+| 6. Operations | [12](12-ai-automation.md)–[13](13-order-fulfilment.md)–[14](14-customer-service.md) | Automation, fulfilment SOP, customer service | 67–85 |
+| 7. Money & growth | [15](15-finance.md)–[16](16-marketing.md)–[17](17-retention.md) | Finance tracking, marketing channels, retention | 86–102 |
+| 8. Team & systems | [18](18-hiring-scaling.md)–[19](19-sop-library.md)–[20](20-dashboard.md)–[21](21-scaling.md) | Hiring, SOP library, dashboard, scaling | 103–120 |
 
-**Total estimate: roughly 100-125 focused 2-hour days (~5-6 months at 4-5 days/week).** This will move faster where you're quick and slower where a real-world step (like waiting on a supplier sample) has its own timeline — that's normal and expected, not falling behind.
+**120 days total (~5-6 months at 4-5 days/week).** This will move faster where you're quick and slower where a real-world step (like waiting on a supplier sample) has its own timeline — that's normal and expected, not falling behind. Every module file contains every one of its days in full, ready to work through — nothing here is a stub or a placeholder.
 
 ---
 
@@ -212,4 +213,4 @@ An expandable, colour-coded version of the module map in section 14 is published
 
 ## 16. What's next
 
-Day 1 is delivered in this session and logged at [`day-logs/day-01.md`](day-logs/day-01.md). Report back what you did (or ask questions) and say **"Day 2"** when ready.
+Day 1 is complete — its full lesson lives as the first day in [`01-understanding-outsourcing.md`](01-understanding-outsourcing.md). Report back what you did (or ask questions), and say **"Day 2"** when ready to continue into the rest of that same file.

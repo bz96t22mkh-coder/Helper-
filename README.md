@@ -9,10 +9,37 @@ A complete, practical course for building a real uniform/workwear/branded-clothi
 - **Start here:** [`outsourcing-course/00-roadmap.md`](outsourcing-course/00-roadmap.md) — business model, niche recommendation and rationale, full module map, estimated course length, technology stack, and the Claude Code Business Builder Workflow.
 - **Interactive course map:** https://claude.ai/code/artifact/95eadb39-3b80-4473-9b66-8442ff0b3d38 — click-to-expand, colour-coded by phase (source kept at [`outsourcing-course/course-map.html`](outsourcing-course/course-map.html)).
 - **Progress tracking:** [`outsourcing-course/progress-tracker.md`](outsourcing-course/progress-tracker.md) — current day/module, key decisions, day log.
-- **Day-by-day lessons:** [`outsourcing-course/day-logs/`](outsourcing-course/day-logs/) — each completed day's full lesson, saved permanently.
 - **The actual business:** [`/business`](business/) — not course material; this is the real company being built (decisions log, prospect list, pricing, suppliers, customers, marketing, finance, website, CRM), filled in as the course progresses.
 
-To begin, say `Day 1` (already delivered) or `Day 2` to continue. Report your exercise answers and business-task results as you go — each day is written based on your actual progress, not pre-scripted.
+The full course — all 21 modules, all 120 days — is written and ready below. Work through it at your own real pace (2 focused hours/day, not a fixed calendar); the progress tracker records where you actually are.
+
+### Modules
+
+| # | Module | Days | File |
+|---|---|---|---|
+| 1 | Understanding the Outsourcing Business | 1–5 | [`01-understanding-outsourcing.md`](outsourcing-course/01-understanding-outsourcing.md) |
+| 2 | Market Research | 6–9 | [`02-market-research.md`](outsourcing-course/02-market-research.md) |
+| 3 | Business Setup | 10–16 | [`03-business-setup.md`](outsourcing-course/03-business-setup.md) |
+| 4 | Suppliers | 17–22 | [`04-suppliers.md`](outsourcing-course/04-suppliers.md) |
+| 5 | Products | 23–27 | [`05-products.md`](outsourcing-course/05-products.md) |
+| 6 | Pricing | 28–33 | [`06-pricing.md`](outsourcing-course/06-pricing.md) |
+| 7 | Branding | 34–38 | [`07-branding.md`](outsourcing-course/07-branding.md) |
+| 8 | Website | 39–45 | [`08-website.md`](outsourcing-course/08-website.md) |
+| 9 | Sales | 46–52 | [`09-sales.md`](outsourcing-course/09-sales.md) |
+| 10 | Lead Generation | 53–58 | [`10-lead-generation.md`](outsourcing-course/10-lead-generation.md) |
+| 11 | CRM & Operations | 59–66 | [`11-crm-operations.md`](outsourcing-course/11-crm-operations.md) |
+| 12 | AI & Automation | 67–73 | [`12-ai-automation.md`](outsourcing-course/12-ai-automation.md) |
+| 13 | Order Fulfilment | 74–80 | [`13-order-fulfilment.md`](outsourcing-course/13-order-fulfilment.md) |
+| 14 | Customer Service | 81–85 | [`14-customer-service.md`](outsourcing-course/14-customer-service.md) |
+| 15 | Finance | 86–91 | [`15-finance.md`](outsourcing-course/15-finance.md) |
+| 16 | Marketing | 92–97 | [`16-marketing.md`](outsourcing-course/16-marketing.md) |
+| 17 | Customer Retention | 98–102 | [`17-retention.md`](outsourcing-course/17-retention.md) |
+| 18 | Hiring & Scaling | 103–107 | [`18-hiring-scaling.md`](outsourcing-course/18-hiring-scaling.md) |
+| 19 | SOP Library | 108–111 | [`19-sop-library.md`](outsourcing-course/19-sop-library.md) |
+| 20 | Business Dashboard | 112–115 | [`20-dashboard.md`](outsourcing-course/20-dashboard.md) |
+| 21 | Scaling | 116–120 | [`21-scaling.md`](outsourcing-course/21-scaling.md) |
+
+Each module file contains every day's full lesson: what to learn, what to understand, exercises (with worked answers for anything objective/computational), real business tasks, exact Claude Code build prompts where a system gets built, a deliverables checklist, and an end-of-day check. Report your exercise answers and business-task results as you go — Day 1 is already complete; say `Day 2` to continue.
 
 ## Personal Development Mastery Course
 
