@@ -206,6 +206,10 @@ Website · Pricing/quote calculator · Lead tracker → full CRM · Supplier dat
 
 ---
 
-## 15. What's next
+## 15. Interactive course map
+
+An expandable, colour-coded version of the module map in section 14 is published here: **https://claude.ai/code/artifact/95eadb39-3b80-4473-9b66-8442ff0b3d38** — one colourway per phase (8 colours), click a phase to open it, click a module inside for what it covers, plus a live progress strip. A copy of the source is kept at [`course-map.html`](course-map.html); republish that file after any progress update to refresh the link.
+
+## 16. What's next
 
 Day 1 is delivered in this session and logged at [`day-logs/day-01.md`](day-logs/day-01.md). Report back what you did (or ask questions) and say **"Day 2"** when ready.

@@ -1,0 +1,564 @@
+<title>Workwear Outsourcing Roadmap</title>
+<meta name="color-scheme" content="light dark">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@600;700;800&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#f2f1ea;
+    --surface:#fbfaf6;
+    --surface-raised:#ffffff;
+    --text:#1b2129;
+    --text-soft:#5b6470;
+    --text-faint:#8a8f80;
+    --border:#dcd7c9;
+    --border-strong:#c7c1ae;
+    --accent:#3d4e82;
+    --accent-ink:#ffffff;
+    --good:#3f7d53;
+    --good-bg:#e2ebe1;
+
+    --c-foundations:#3d4e82;
+    --c-legal:#3e6e78;
+    --c-supply:#b8632e;
+    --c-brand:#7a4870;
+    --c-sales:#c97a1e;
+    --c-ops:#55703b;
+    --c-money:#a8862e;
+    --c-team:#8c4536;
+
+    --font-display:'Big Shoulders Display', 'Arial Narrow', sans-serif;
+    --font-body:'Public Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    --font-mono:'IBM Plex Mono', 'SFMono-Regular', Menlo, monospace;
+  }
+
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      --bg:#14181f;
+      --surface:#1c222c;
+      --surface-raised:#232a35;
+      --text:#edeff2;
+      --text-soft:#9aa3b2;
+      --text-faint:#6b7383;
+      --border:#2b3341;
+      --border-strong:#3a4356;
+      --accent:#8da0dc;
+      --accent-ink:#141a26;
+      --good:#7fc998;
+      --good-bg:#1e2b22;
+
+      --c-foundations:#7c8fce;
+      --c-legal:#6fa8b2;
+      --c-supply:#d98f5a;
+      --c-brand:#b183a8;
+      --c-sales:#e0a24f;
+      --c-ops:#8ba86c;
+      --c-money:#cbab5f;
+      --c-team:#c07a68;
+    }
+  }
+  :root[data-theme="dark"]{
+    --bg:#14181f;
+    --surface:#1c222c;
+    --surface-raised:#232a35;
+    --text:#edeff2;
+    --text-soft:#9aa3b2;
+    --text-faint:#6b7383;
+    --border:#2b3341;
+    --border-strong:#3a4356;
+    --accent:#8da0dc;
+    --accent-ink:#141a26;
+    --good:#7fc998;
+    --good-bg:#1e2b22;
+
+    --c-foundations:#7c8fce;
+    --c-legal:#6fa8b2;
+    --c-supply:#d98f5a;
+    --c-brand:#b183a8;
+    --c-sales:#e0a24f;
+    --c-ops:#8ba86c;
+    --c-money:#cbab5f;
+    --c-team:#c07a68;
+  }
+
+  *{ box-sizing:border-box; }
+  body{
+    margin:0;
+    background:var(--bg);
+    color:var(--text);
+    font-family:var(--font-body);
+    font-size:15px;
+    line-height:1.55;
+    -webkit-font-smoothing:antialiased;
+  }
+  h1,h2,h3{ text-wrap:balance; margin:0; }
+  button{ font-family:inherit; color:inherit; }
+  :focus-visible{ outline:2px solid var(--accent); outline-offset:2px; border-radius:4px; }
+
+  .page{
+    max-width:840px;
+    margin:0 auto;
+    padding:48px 24px 80px;
+  }
+
+  /* ---------- header ---------- */
+  .eyebrow{
+    font-family:var(--font-mono);
+    font-size:11px;
+    font-weight:600;
+    letter-spacing:.14em;
+    text-transform:uppercase;
+    color:var(--text-soft);
+  }
+  h1.title{
+    font-family:var(--font-display);
+    font-weight:800;
+    font-size:clamp(34px,6vw,52px);
+    letter-spacing:.005em;
+    line-height:1.02;
+    margin-top:6px;
+    color:var(--text);
+  }
+  .dek{
+    max-width:60ch;
+    color:var(--text-soft);
+    font-size:16px;
+    margin-top:12px;
+  }
+
+  .swatch-strip{
+    display:flex;
+    gap:6px;
+    margin-top:28px;
+    border:1px solid var(--border);
+    background:var(--surface);
+    border-radius:10px;
+    padding:10px;
+  }
+  .swatch-strip .chip{
+    flex:1;
+    height:30px;
+    border-radius:5px;
+    position:relative;
+  }
+  .swatch-strip .chip::after{
+    content:attr(data-label);
+    position:absolute;
+    left:50%;
+    top:calc(100% + 6px);
+    transform:translateX(-50%);
+    font-family:var(--font-mono);
+    font-size:9px;
+    letter-spacing:.03em;
+    color:var(--text-faint);
+    white-space:nowrap;
+  }
+
+  /* ---------- progress strip ---------- */
+  .progress-block{
+    margin-top:40px;
+    border:1px solid var(--border);
+    background:var(--surface);
+    border-radius:12px;
+    padding:20px 22px;
+  }
+  .progress-stats{
+    display:flex;
+    flex-wrap:wrap;
+    gap:28px;
+  }
+  .stat .num{
+    font-family:var(--font-mono);
+    font-variant-numeric:tabular-nums;
+    font-size:26px;
+    font-weight:600;
+    color:var(--text);
+  }
+  .stat .label{
+    font-size:12px;
+    color:var(--text-soft);
+    margin-top:2px;
+  }
+  .progress-track{
+    margin-top:16px;
+    height:8px;
+    border-radius:5px;
+    background:var(--border);
+    overflow:hidden;
+  }
+  .progress-fill{
+    height:100%;
+    width:0.9%;
+    min-width:8px;
+    background:var(--accent);
+    border-radius:5px;
+  }
+
+  /* ---------- legend ---------- */
+  .legend{
+    margin-top:18px;
+    display:flex;
+    gap:18px;
+    flex-wrap:wrap;
+    font-size:12.5px;
+    color:var(--text-soft);
+  }
+  .legend span{ display:inline-flex; align-items:center; gap:6px; }
+  .dot{ width:8px; height:8px; border-radius:50%; flex:none; }
+  .dot.current{ background:var(--accent); box-shadow:0 0 0 3px color-mix(in srgb, var(--accent) 22%, transparent); }
+  .dot.upcoming{ background:var(--border-strong); }
+  .dot.done{ background:var(--good); }
+
+  /* ---------- phase list ---------- */
+  .phases{
+    margin-top:36px;
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+  }
+
+  .phase{
+    border:1px solid var(--border);
+    border-radius:12px;
+    background:var(--surface);
+    overflow:hidden;
+  }
+
+  .phase-header{
+    all:unset;
+    box-sizing:border-box;
+    display:flex;
+    align-items:center;
+    gap:14px;
+    width:100%;
+    padding:16px 18px;
+    cursor:pointer;
+    border-left:5px solid var(--phase-color);
+  }
+  .phase-header:hover{ background:color-mix(in srgb, var(--phase-color) 6%, transparent); }
+
+  .phase-index{
+    font-family:var(--font-mono);
+    font-size:12px;
+    color:var(--phase-color);
+    font-weight:600;
+    min-width:20px;
+  }
+  .phase-titles{ flex:1; min-width:0; }
+  .phase-name{
+    font-family:var(--font-display);
+    font-weight:700;
+    font-size:19px;
+    letter-spacing:.01em;
+    color:var(--text);
+  }
+  .phase-meta{
+    font-size:12.5px;
+    color:var(--text-soft);
+    margin-top:2px;
+  }
+  .phase-status{
+    font-family:var(--font-mono);
+    font-size:10px;
+    font-weight:600;
+    letter-spacing:.1em;
+    text-transform:uppercase;
+    padding:4px 8px;
+    border-radius:20px;
+    white-space:nowrap;
+    flex:none;
+  }
+  .phase-status.current{ background:color-mix(in srgb, var(--accent) 18%, transparent); color:var(--accent); }
+  .phase-status.upcoming{ background:transparent; color:var(--text-faint); border:1px solid var(--border-strong); }
+
+  .chevron{
+    flex:none;
+    width:16px; height:16px;
+    transition:transform .25s ease;
+    color:var(--text-faint);
+  }
+  .phase.open > .phase-header .chevron{ transform:rotate(180deg); }
+
+  .phase-panel{
+    display:grid;
+    grid-template-rows:0fr;
+    transition:grid-template-rows .3s ease;
+  }
+  .phase.open .phase-panel{ grid-template-rows:1fr; }
+  .phase-panel .panel-inner{ overflow:hidden; }
+
+  .modules{
+    padding:2px 14px 14px 14px;
+    display:flex;
+    flex-direction:column;
+    gap:6px;
+  }
+
+  .module{
+    border:1px solid var(--border);
+    border-radius:9px;
+    background:var(--surface-raised);
+  }
+  .module-header{
+    all:unset;
+    box-sizing:border-box;
+    display:flex;
+    align-items:center;
+    gap:12px;
+    width:100%;
+    padding:11px 13px;
+    cursor:pointer;
+    border-radius:9px;
+  }
+  .module-header:hover{ background:color-mix(in srgb, var(--module-color) 8%, transparent); }
+
+  .module-code{
+    font-family:var(--font-mono);
+    font-size:11px;
+    font-weight:600;
+    color:var(--text-soft);
+    min-width:28px;
+  }
+  .module-swatch{
+    width:12px; height:12px;
+    border-radius:3px;
+    background:var(--module-color);
+    flex:none;
+  }
+  .module-name{
+    flex:1;
+    min-width:0;
+    font-size:14px;
+    font-weight:600;
+    color:var(--text);
+  }
+  .module-days{
+    font-family:var(--font-mono);
+    font-variant-numeric:tabular-nums;
+    font-size:11px;
+    color:var(--text-faint);
+    white-space:nowrap;
+  }
+  .module .chevron{ width:13px; height:13px; }
+
+  .module-panel{
+    display:grid;
+    grid-template-rows:0fr;
+    transition:grid-template-rows .25s ease;
+  }
+  .module.open .module-panel{ grid-template-rows:1fr; }
+  .module-panel .panel-inner{ overflow:hidden; }
+
+  .module-detail{
+    padding:0 14px 14px 53px;
+    font-size:13.5px;
+    color:var(--text-soft);
+  }
+  .module-detail p{ margin:0 0 8px 0; }
+  .builds{
+    display:inline-flex;
+    align-items:center;
+    gap:6px;
+    font-family:var(--font-mono);
+    font-size:10.5px;
+    letter-spacing:.03em;
+    color:var(--module-color);
+    background:color-mix(in srgb, var(--module-color) 12%, transparent);
+    padding:3px 8px;
+    border-radius:20px;
+  }
+
+  footer{
+    margin-top:44px;
+    padding-top:20px;
+    border-top:1px solid var(--border);
+    font-size:12.5px;
+    color:var(--text-faint);
+  }
+
+  @media (prefers-reduced-motion: reduce){
+    .chevron, .phase-panel, .module-panel{ transition:none; }
+  }
+
+  @media (max-width:520px){
+    .swatch-strip .chip::after{ display:none; }
+    .module-detail{ padding-left:14px; }
+    .progress-stats{ gap:20px; }
+  }
+</style>
+
+<div class="page">
+  <div class="eyebrow">South Africa &middot; 2 hours a day &middot; build while you learn</div>
+  <h1 class="title">Workwear Outsourcing Roadmap</h1>
+  <p class="dek">Every module of your uniform &amp; workwear outsourcing course, grouped into eight colourways like a real supplier's swatch card. Click a phase to open it, click a module for what it covers.</p>
+
+  <div class="swatch-strip" aria-hidden="true">
+    <div class="chip" style="background:var(--c-foundations)" data-label="Foundations"></div>
+    <div class="chip" style="background:var(--c-legal)" data-label="Legal"></div>
+    <div class="chip" style="background:var(--c-supply)" data-label="Supply"></div>
+    <div class="chip" style="background:var(--c-brand)" data-label="Brand"></div>
+    <div class="chip" style="background:var(--c-sales)" data-label="Sales"></div>
+    <div class="chip" style="background:var(--c-ops)" data-label="Ops"></div>
+    <div class="chip" style="background:var(--c-money)" data-label="Money"></div>
+    <div class="chip" style="background:var(--c-team)" data-label="Team"></div>
+  </div>
+
+  <div class="progress-block">
+    <div class="progress-stats">
+      <div class="stat"><div class="num">1 / 120</div><div class="label">day</div></div>
+      <div class="stat"><div class="num">1 / 21</div><div class="label">module</div></div>
+      <div class="stat"><div class="num">1 / 8</div><div class="label">phase</div></div>
+    </div>
+    <div class="progress-track"><div class="progress-fill"></div></div>
+    <div class="legend">
+      <span><span class="dot current"></span> in progress</span>
+      <span><span class="dot upcoming"></span> upcoming</span>
+      <span><span class="dot done"></span> complete</span>
+    </div>
+  </div>
+
+  <div class="phases" id="phases"></div>
+
+  <footer>Day counts are estimates at 2 focused hours/day — they compress or extend based on real progress, not the calendar. Updated as the course advances.</footer>
+</div>
+
+<script>
+const CHEVRON = '<svg class="chevron" viewBox="0 0 16 16" fill="none"><path d="M4 6l4 4 4-4" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+
+const DATA = [
+  { key:'foundations', name:'Foundations', color:'var(--c-foundations)', days:'Days 1–9', status:'current',
+    modules:[
+      { code:'M01', name:'Understanding the Outsourcing Business', days:'1–5', status:'current',
+        desc:'What outsourcing means here, the customer → you → supplier money flow, margins vs. markup, common business models, and the beginner mistakes that sink new uniform suppliers.',
+        builds:'business workspace' },
+      { code:'M02', name:'Market Research', days:'6–9', status:'upcoming',
+        desc:'Validate real demand, research competitors already serving security and cleaning companies, and lock in your starting niche with evidence instead of a guess.' },
+    ]},
+  { key:'legal', name:'Legal & Setup', color:'var(--c-legal)', days:'Days 10–16', status:'upcoming',
+    modules:[
+      { code:'M03', name:'Business Setup', days:'10–16', status:'upcoming',
+        desc:'South African business structures, CIPC registration, tax basics, business banking, contracts and terms, invoicing, insurance and compliance — with professional-advice lines marked clearly.' },
+    ]},
+  { key:'supply', name:'Product & Supply', color:'var(--c-supply)', days:'Days 17–33', status:'upcoming',
+    modules:[
+      { code:'M04', name:'Suppliers', days:'17–22', status:'upcoming',
+        desc:'Finding and vetting blank-garment wholesalers and decorators, negotiating, ordering samples, quality control, and always having a backup supplier.' },
+      { code:'M05', name:'Products', days:'23–27', status:'upcoming',
+        desc:'Uniform and workwear types, embroidery vs. print, packaging and catalogues, and the upsells/cross-sells worth offering.' },
+      { code:'M06', name:'Pricing', days:'28–33', status:'upcoming',
+        desc:'Costs, markup vs. margin done properly, bulk pricing, minimum order quantities, deposits, discounts and corporate rates.',
+        builds:'pricing calculator' },
+    ]},
+  { key:'brand', name:'Brand & Web', color:'var(--c-brand)', days:'Days 34–45', status:'upcoming',
+    modules:[
+      { code:'M07', name:'Branding', days:'34–38', status:'upcoming',
+        desc:'Positioning, brand identity, your USP against local screen-printers, and the professional documents a corporate buyer expects to see.' },
+      { code:'M08', name:'Website', days:'39–45', status:'upcoming',
+        desc:'Design and build the business website with Claude Code, then deploy it on your own domain.',
+        builds:'business website' },
+    ]},
+  { key:'sales', name:'Sales Engine', color:'var(--c-sales)', days:'Days 46–66', status:'upcoming',
+    modules:[
+      { code:'M09', name:'Sales', days:'46–52', status:'upcoming',
+        desc:'Cold calling, cold email, WhatsApp outreach, discovery calls, quoting, objection handling and closing — with real scripts.' },
+      { code:'M10', name:'Lead Generation', days:'53–58', status:'upcoming',
+        desc:'Finding and organising leads, scoring them, a follow-up cadence that doesn’t let anyone go cold, and tracking conversion.' },
+      { code:'M11', name:'CRM & Operations', days:'59–66', status:'upcoming',
+        desc:'Build your CRM: leads, customers, quotes, orders, suppliers, inventory, payments and deliveries in one system.',
+        builds:'CRM' },
+    ]},
+  { key:'ops', name:'Operations', color:'var(--c-ops)', days:'Days 67–85', status:'upcoming',
+    modules:[
+      { code:'M12', name:'AI & Automation', days:'67–73', status:'upcoming',
+        desc:'Automate outreach, follow-ups, CRM updates, quote generation and reporting — with approval steps on anything that spends money or speaks to a customer.',
+        builds:'outreach & reporting automations' },
+      { code:'M13', name:'Order Fulfilment', days:'74–80', status:'upcoming',
+        desc:'The full pipeline — quote, deposit, order, supplier, branding, quality control, packaging, delivery, payment, follow-up, reorder — as a documented SOP.',
+        builds:'fulfilment SOP & order tracker' },
+      { code:'M14', name:'Customer Service', days:'81–85', status:'upcoming',
+        desc:'Systems for complaints, delays, wrong or damaged orders, returns, refunds and late payments, so a bad day doesn’t become a lost account.' },
+    ]},
+  { key:'money', name:'Money & Growth', color:'var(--c-money)', days:'Days 86–102', status:'upcoming',
+    modules:[
+      { code:'M15', name:'Finance', days:'86–91', status:'upcoming',
+        desc:'Revenue, expenses, gross and net profit, cash flow, working capital, break-even, reinvestment and owner pay.',
+        builds:'finance tracker' },
+      { code:'M16', name:'Marketing', days:'92–97', status:'upcoming',
+        desc:'SEO, Google Business Profile, LinkedIn, WhatsApp, referrals and paid ads — ranked by what actually works for B2B uniform sales.' },
+      { code:'M17', name:'Customer Retention', days:'98–102', status:'upcoming',
+        desc:'Reorder reminders, corporate contracts, long-term accounts, referrals and upsells — automated wherever it’s reliable to do so.' },
+    ]},
+  { key:'team', name:'Team & Systems', color:'var(--c-team)', days:'Days 103–120', status:'upcoming',
+    modules:[
+      { code:'M18', name:'Hiring & Scaling', days:'103–107', status:'upcoming',
+        desc:'When to hire, who to hire first, virtual assistants vs. salespeople vs. ops, and what stays automated instead of staffed.' },
+      { code:'M19', name:'SOP Library', days:'108–111', status:'upcoming',
+        desc:'Every recurring process in the business, documented simply enough to hand to a new employee on day one.',
+        builds:'SOP library' },
+      { code:'M20', name:'Business Dashboard', days:'112–115', status:'upcoming',
+        desc:'Leads, conversion, revenue, gross margin, customer acquisition cost, repeat customers and outstanding payments, all in one view.',
+        builds:'business dashboard' },
+      { code:'M21', name:'Scaling', days:'116–120', status:'upcoming',
+        desc:'The path from first customer to consistent profit to a team, then a second niche, a second city, and international expansion.' },
+    ]},
+];
+
+const root = document.getElementById('phases');
+
+DATA.forEach((phase, pi) => {
+  const el = document.createElement('section');
+  el.className = 'phase' + (phase.status === 'current' ? ' open' : '');
+  el.style.setProperty('--phase-color', phase.color);
+
+  const modulesHTML = phase.modules.map(m => `
+    <div class="module${m.status === 'current' ? ' open' : ''}" style="--module-color:${phase.color}">
+      <button class="module-header" aria-expanded="${m.status === 'current'}">
+        <span class="module-code">${m.code}</span>
+        <span class="module-swatch"></span>
+        <span class="module-name">${m.name}</span>
+        <span class="module-days">Days ${m.days}</span>
+        ${CHEVRON}
+      </button>
+      <div class="module-panel"><div class="panel-inner">
+        <div class="module-detail">
+          <p>${m.desc}</p>
+          ${m.builds ? `<span class="builds">&#128736; builds: ${m.builds}</span>` : ''}
+        </div>
+      </div></div>
+    </div>
+  `).join('');
+
+  el.innerHTML = `
+    <button class="phase-header" aria-expanded="${phase.status === 'current'}">
+      <span class="phase-index">0${pi + 1}</span>
+      <span class="phase-titles">
+        <div class="phase-name">${phase.name}</div>
+        <div class="phase-meta">${phase.days} &middot; ${phase.modules.length} module${phase.modules.length > 1 ? 's' : ''}</div>
+      </span>
+      <span class="phase-status ${phase.status}">${phase.status}</span>
+      ${CHEVRON}
+    </button>
+    <div class="phase-panel"><div class="panel-inner">
+      <div class="modules">${modulesHTML}</div>
+    </div></div>
+  `;
+
+  root.appendChild(el);
+});
+
+root.addEventListener('click', (e) => {
+  const phaseBtn = e.target.closest('.phase-header');
+  if (phaseBtn) {
+    const phase = phaseBtn.closest('.phase');
+    const open = phase.classList.toggle('open');
+    phaseBtn.setAttribute('aria-expanded', String(open));
+    return;
+  }
+  const moduleBtn = e.target.closest('.module-header');
+  if (moduleBtn) {
+    const mod = moduleBtn.closest('.module');
+    const open = mod.classList.toggle('open');
+    moduleBtn.setAttribute('aria-expanded', String(open));
+  }
+});
+</script>

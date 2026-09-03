@@ -7,6 +7,7 @@ This repo hosts self-paced courses. Each one is self-contained in its own folder
 A complete, practical course for building a real uniform/workwear/branded-clothing outsourcing business from zero, based in South Africa — 21 modules, 2 focused hours/day, build-while-you-learn (LEARN → PRACTICE → BUILD → TEST → IMPROVE). Every module that produces a real business system (website, CRM, pricing tool, automations) is built live with Claude Code, not just described.
 
 - **Start here:** [`outsourcing-course/00-roadmap.md`](outsourcing-course/00-roadmap.md) — business model, niche recommendation and rationale, full module map, estimated course length, technology stack, and the Claude Code Business Builder Workflow.
+- **Interactive course map:** https://claude.ai/code/artifact/95eadb39-3b80-4473-9b66-8442ff0b3d38 — click-to-expand, colour-coded by phase (source kept at [`outsourcing-course/course-map.html`](outsourcing-course/course-map.html)).
 - **Progress tracking:** [`outsourcing-course/progress-tracker.md`](outsourcing-course/progress-tracker.md) — current day/module, key decisions, day log.
 - **Day-by-day lessons:** [`outsourcing-course/day-logs/`](outsourcing-course/day-logs/) — each completed day's full lesson, saved permanently.
 - **The actual business:** [`/business`](business/) — not course material; this is the real company being built (decisions log, prospect list, pricing, suppliers, customers, marketing, finance, website, CRM), filled in as the course progresses.
