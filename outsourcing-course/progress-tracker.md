@@ -8,7 +8,7 @@ All 21 modules / 120 days are written, formatted consistently, and checked: ever
 
 ## Your status
 
-- **Current day:** Day 1 complete
+- **Current day:** Day 1 — not yet started
 - **Current module:** Module 1 — Understanding the Outsourcing Business
 - **Current phase:** 1. Foundations
 - **Chosen niche(s):** Not yet finalized — Day 1 recommends security + cleaning companies as the starting focus; confirmed in Module 1-2
@@ -28,8 +28,7 @@ See [`/business/decisions-log.md`](../business/decisions-log.md) for the full, d
 
 | Day | Module | Title | Status |
 |---|---|---|---|
-| 1 | 1 | What Outsourcing Actually Is & How This Business Makes Money | Complete — see [`01-understanding-outsourcing.md`](01-understanding-outsourcing.md) |
-| 2–120 | 1–21 | (full module index in `00-roadmap.md`) | Written, not yet started |
+| 1–120 | 1–21 | (full module index in `00-roadmap.md`) | Written, not yet started — Day 1 is below |
 
 ## Carried-over / unfinished work
 
