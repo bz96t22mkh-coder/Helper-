@@ -204,6 +204,14 @@
     color:var(--text-soft);
   }
   .legend span{ display:inline-flex; align-items:center; gap:6px; }
+  .content-status{
+    margin-top:12px;
+    padding-top:12px;
+    border-top:1px solid var(--border);
+    font-size:12px;
+    color:var(--good);
+  }
+  .content-status em{ color:var(--text-soft); font-style:normal; }
   .dot{ width:8px; height:8px; border-radius:50%; flex:none; }
   .dot.current{ background:var(--accent); box-shadow:0 0 0 3px color-mix(in srgb, var(--accent) 22%, transparent); }
   .dot.upcoming{ background:var(--border-strong); }
@@ -415,6 +423,7 @@
       <span><span class="dot upcoming"></span> upcoming</span>
       <span><span class="dot done"></span> complete</span>
     </div>
+    <div class="content-status">&#10003; All 21 modules / 120 days are written and ready — the counters above track <em>your</em> progress through them, not what still needs writing.</div>
   </div>
 
   <div class="phases" id="phases"></div>
