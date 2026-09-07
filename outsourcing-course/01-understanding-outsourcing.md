@@ -64,7 +64,14 @@ Do these on paper or in a notes app — no calculator shortcuts, work the number
 3. You get an order for 60 shirts at R250 each. Total order value = R15,000. At a 50% deposit, how much do you collect before you order anything from your supplier? If your total COGS for the whole order is R7,200, what's your total gross profit, and what's your margin %?
 4. True or false, and explain why in one sentence: "If I raise my markup from 50% to 60%, my margin also goes up by exactly 10 percentage points."
 
-(No answer key given here on purpose — bring me your answers and reasoning next session and I'll tell you exactly what's right, what's off, and why, before we move on.)
+**Check your work:**
+
+1. Sell price = R120 × 1.60 = **R192**. Margin = (R192 − R120) ÷ R192 = R72 ÷ R192 = **37.5%**.
+2. Margin = (R250 − R120) ÷ R250 = R130 ÷ R250 = **52%**. This is a **margin** (it's expressed as a % of the selling price, R250). If you calculated it as a markup instead, it would be R130 ÷ R120 = **108.3%** — a completely different-looking number for the exact same deal, which is exactly why the two terms must never be mixed up.
+3. Deposit = R15,000 × 0.50 = **R7,500**, collected before you place a single supplier order. Gross profit = R15,000 − R7,200 = **R7,800**. Margin = R7,800 ÷ R15,000 = **52%**.
+4. **False.** On a R100 cost: at 50% markup, sell price = R150, margin = R50 ÷ R150 = 33.3%. At 60% markup, sell price = R160, margin = R60 ÷ R160 = 37.5%. Margin only rose by about 4.2 percentage points, not 10 — because margin's denominator (the selling price) keeps changing as markup changes, while markup's denominator (cost) stays fixed. The two percentages never move in lockstep, which is exactly why you calculate each one properly instead of assuming one from the other.
+
+If any of yours don't match, work out where the gap is before moving on — this arithmetic is the foundation for every pricing decision in the rest of the course.
 
 ### BUSINESS IMPLEMENTATION
 
@@ -101,7 +108,7 @@ Keep everything as plain markdown files, no code, no dependencies.
 
 - [ ] You can explain, in your own words, the 7-step money flow from deposit to profit.
 - [ ] You can state the difference between markup and margin without looking it up.
-- [ ] Exercises 1-4 attempted (answers ready to report next session).
+- [ ] Exercises 1-4 completed and checked against the answer key above.
 - [ ] 5-8 business name candidates written in `business/decisions-log.md`.
 - [ ] Home city/region for outreach recorded in `business/decisions-log.md`.
 - [ ] At least 10-15 real prospects added to `business/prospect-list.md`.
