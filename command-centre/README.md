@@ -68,6 +68,7 @@ Fully specified in `02-daily-schedule.md` and `03-goals-and-phases.md`. Short ve
 
 | File | What's in it |
 |---|---|
+| `00-how-to-build-in-notion.md` | **Start here to actually build it.** Click-by-click Notion instructions, how to use the pre-built CSV imports in `csv-imports/` to skip typing ~45 rows by hand, and the Notion-connector alternative if you'd rather have Claude build it via API in a separate claude.ai chat. |
 | `01-notion-architecture.md` | The exact Notion build: page hierarchy, every database, every property + type, every relation/rollup/formula, every view/filter, templates, buttons, step-by-step construction order. Copy-paste-friendly. |
 | `02-daily-schedule.md` | Your 5 AM–bedtime schedule, sustainability analysis of the 10-hour active-work load, the "stable phase = stable schedule" rule in practice, weekday/YouTube-day/light-day variants. |
 | `03-goals-and-phases.md` | Life Vision → 5yr → ... → Daily Action goal ladder; full phase maps for Trading (9 phases), AI Agency, Uniform Agency, YouTube workflow, Crypto unlock criteria. |

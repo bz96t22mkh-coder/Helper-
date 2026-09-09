@@ -1,0 +1,32 @@
+Name,Pillar,Order,Status,Definition of Done,Allocation While Active
+Trading - Phase 1: Complete Existing Course,Day Trading,1,Active,Every module/lesson done plus exercises plus able to explain core concepts unprompted,5 hrs/day
+Trading - Phase 2: Backtesting,Day Trading,2,Not Started,50-100+ logged backtests with documented win rate and R:R,3-4 hrs/day
+Trading - Phase 3: Replay / Demo,Day Trading,3,Not Started,20+ consecutive trading days on replay/demo following written rules,2-3 hrs/day
+Trading - Phase 4: Build Consistency,Day Trading,4,Not Started,30+ trading days with stable positive expectancy and rule adherence,2-3 hrs/day
+Trading - Phase 5: Risk-Management Proof,Day Trading,5,Not Started,Written risk rules followed with zero violations across the consistency window,2-3 hrs/day
+Trading - Phase 6: Funded Evaluation,Day Trading,6,Not Started,Pass a funded-account evaluation,2-3 hrs/day
+Trading - Phase 7: Funded Account,Day Trading,7,Not Started,First live funded account active,2-3 hrs/day
+Trading - Phase 8: Consistent Funded Trading,Day Trading,8,Not Started,3+ consecutive profitable rule-adherent months,2 hrs/day
+Trading - Phase 9: Scaling / Multiple Accounts,Day Trading,9,Not Started,Second funded account added or scaling plan reached,2-3 hrs/day
+AI Agency - Phase 1: Course,AI Automation Agency,1,Active,All modules complete plus one working automation built as a practice project,2 hrs/day
+Uniform Agency - Phase 1: Course,Uniform Outsourcing Agency,1,Active,All modules complete plus fulfillment/supplier basics understood,2 hrs/day
+PD - Section 1: Meta-Learning,Personal Development,1,Active,Exit assessment at Competent-to-Advanced (self-testing without prompting; can design a session for a new topic unaided),30-60 min/day rotating
+PD - Section 2: Productivity & Time Management,Personal Development,2,Not Started,Exit assessment at Competent-to-Advanced,30-60 min/day rotating
+PD - Section 3: English & Articulation,Personal Development,3,Not Started,Exit assessment at Competent-to-Advanced,30-60 min/day rotating
+PD - Section 4: Communication,Personal Development,4,Not Started,Exit assessment at Competent-to-Advanced,30-60 min/day rotating
+PD - Section 5: Emotional Intelligence,Personal Development,5,Not Started,Exit assessment at Competent-to-Advanced,30-60 min/day rotating
+PD - Section 6: Social Skills,Personal Development,6,Not Started,Exit assessment at Competent-to-Advanced,30-60 min/day rotating
+PD - Section 7: Confidence & Charisma,Personal Development,7,Not Started,Exit assessment at Competent-to-Advanced,30-60 min/day rotating
+PD - Section 8: Storytelling,Personal Development,8,Not Started,Exit assessment at Competent-to-Advanced,30-60 min/day rotating
+PD - Section 9: Critical Thinking,Personal Development,9,Not Started,Exit assessment at Competent-to-Advanced,30-60 min/day rotating
+PD - Section 10: Debating,Personal Development,10,Not Started,Exit assessment at Competent-to-Advanced,30-60 min/day rotating
+PD - Section 11: Problem-Solving,Personal Development,11,Not Started,Exit assessment at Competent-to-Advanced,30-60 min/day rotating
+PD - Section 12: Decision-Making,Personal Development,12,Not Started,Exit assessment at Competent-to-Advanced,30-60 min/day rotating
+PD - Section 13: Negotiation,Personal Development,13,Not Started,Exit assessment at Competent-to-Advanced,30-60 min/day rotating
+PD - Section 14: Networking,Personal Development,14,Not Started,Exit assessment at Competent-to-Advanced,30-60 min/day rotating
+PD - Section 15: Leadership,Personal Development,15,Not Started,Exit assessment at Competent-to-Advanced,30-60 min/day rotating
+PD - Section 16: Strategic Thinking,Personal Development,16,Not Started,Exit assessment at Competent-to-Advanced,30-60 min/day rotating
+PD - Section 17: Financial Literacy,Personal Development,17,Not Started,Exit assessment at Competent-to-Advanced,30-60 min/day rotating
+PD - Section 18: Meditation & Grounded Manifestation,Personal Development,18,Not Started,Exit assessment at Competent-to-Advanced,30-60 min/day rotating
+PD - Section 19: Advanced Integration,Personal Development,19,Not Started,Successfully combines 3+ prior skills in single complex exercises,30-60 min/day rotating
+PD - Section 20: Final Mastery,Personal Development,20,Not Started,Comprehensive capstone reassessment across all 19 skill areas passed,30-60 min/day rotating
