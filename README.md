@@ -33,3 +33,7 @@ A complete, 20-section, performance-based personal-development curriculum coveri
 Each section file contains: what to learn, why it matters, concepts from foundational to advanced, practical exercises, drills, real-world applications, challenges, baseline/exit assessments, mastery criteria, and a complete day-by-day 60-minute training plan.
 
 To begin, tell Claude: `Start Section 1` (or any other section number). Say `Day X` inside a section for that day's plan, and report your exercise results for evaluation.
+
+## Personal Command Centre
+
+This course is one pillar of a full life/business command centre built in [`command-centre/`](command-centre/README.md) — a Notion Life Operating System spec covering trading, the two agencies, YouTube, this course, fitness, finances, and goals, with an explicit priority system and phase-based progression. **Start there** (`command-centre/README.md`) for the full build guide and a clear list of what course content is still needed to finish it.
