@@ -38,9 +38,9 @@ A row of similar jokes gets funnier when each one **builds** on the last — a l
 
 Tools like zoom, sound, music, and pauses exist to make an emotion that's *already there* land harder — shock, excitement, awkwardness, tension. They don't create an emotion that isn't there. If the creator's reaction is small, a huge dramatic zoom and sound combo will feel fake and mismatched. Match the size of your tool to the size of the moment (Module 9 explains this rule in detail).
 
-## Know when to leave a moment alone
+## Let a moment breathe
 
-Not every second needs a technique. A genuinely funny or tense moment often works *better* with a clean, quiet beat — letting the viewer sit in it, instead of being told how to feel with a zoom and a sound effect. Adding too much to a moment that was already working is one of the most common beginner mistakes. You'll get better at spotting this through the exercises in Module 22.
+Not every second needs a technique. A genuinely funny or tense moment often works *better* with a clean, quiet beat — letting the viewer sit in it, instead of being told how to feel with a zoom and a sound effect. This is called **letting a moment breathe**: leaving it alone on purpose, instead of leaving it alone by accident. Adding too much to a moment that was already working is one of the most common beginner mistakes. You'll get better at spotting this through the exercises in Module 22.
 
 ## The one rule that matters most
 

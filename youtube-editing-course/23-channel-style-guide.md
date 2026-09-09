@@ -6,7 +6,7 @@ This module is different from the rest — it's a **living document template**. 
 
 ## Why this exists
 
-Modules 8 and 9 were clear about this: study creators like CoryxKenshin for the *ideas* behind high-energy, personality-driven editing — never to copy them frame-for-frame. This document is where that understanding turns into something that's actually **ours** — specific choices that make this channel's videos recognizable, even with the sound off.
+Module 8 was clear about this: study creators like CoryxKenshin for the *ideas* behind high-energy, personality-driven editing — never to copy them frame-for-frame. This document is where that understanding turns into something that's actually **ours** — specific choices that make this channel's videos recognizable, even with the sound off.
 
 The goal, in plain words: **funny + energetic + clean + personality-driven + unpredictable + entertaining.** This document is where "how we specifically do that" gets written down, instead of re-decided from scratch every video.
 

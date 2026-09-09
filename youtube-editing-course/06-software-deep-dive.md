@@ -139,7 +139,7 @@ You don't need to become a professional colorist. Gaming and reaction content us
 
 ## Balancing audio, step by step
 
-The basic rule: the creator's **voice stays the loudest and clearest**. Game audio comes second. Music and sound effects support — they never compete. (Modules 10–12 go deeper on the creative side of this.)
+The basic rule: the creator's **voice stays the loudest and clearest**. Game audio comes second. Music and sound effects support — they never compete. (Modules 11–12 go deeper on the creative side of this.)
 
 1. Look at the **audio meters** — thin vertical bars, usually near the top-right of the screen, that light up as the video plays.
 2. Play your video and watch the meters during the loudest moment of dialogue. It should stay comfortably below the red zone at the top (that red zone means clipping — distorted, damaged sound).
