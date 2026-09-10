@@ -55,11 +55,13 @@ Your 3 courses run weekdays only, per your instruction. Weekends are recovery + 
 |---|---|
 | 5 AM wake + gym (keep the habit unbroken) | 5 AM wake + gym |
 | Reading (30 min, optional extra) | Reading (30 min) |
-| 🥾 Hiking **or** 🎾 Tennis (rotate — pick one, not both, so neither gets squeezed) | 🍳 Cooking & Baking (pairs with meal-prep for the week ahead) |
+| 🥾 Hiking (Tennis joins this slot by end of 2026 — see below) | 🍳 Cooking & Baking (pairs with meal-prep for the week ahead) |
 | Free / social life / life admin | **Weekly Review** (`05-finance-habits-reviews.md`) — 30–45 min |
 | Optional: catch up on any carried-over weekday lesson | Optional: Habit Tracker + Weekly Time Summary review |
 
 Saturday evening and Sunday are deliberately left open for the things a rigid schedule would otherwise kill — parties, going out, seeing people. Don't timebox those; the whole point of confirming them as goals rather than tasks is that they don't need a task card to happen. Travel gets planned separately, around milestones (see `03-goals-and-phases.md` §9), not squeezed into a weekend template.
+
+**Tennis is Future, not active** — you confirmed you want to start by the end of this year, not now. It has no weekend slot yet; it's tracked as a Future goal (target: end of 2026) and gets checked at your Q4/end-of-year review, at which point it either takes over Saturday's slot from Hiking or sits alongside it, depending on how much weekend slack you actually have by then.
 
 If you want YouTube filming to happen on a weekend instead of competing with a weekday course block once you're producing real videos (not just doing the course), that's a reasonable adjustment to make **at the phase transition** when YouTube moves from course→production — not before.
 

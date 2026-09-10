@@ -166,13 +166,13 @@ Your fuller life picture includes things that genuinely matter but **don't belon
 | Item | Where it lives | Cadence |
 |---|---|---|
 | 💪 Gym | Already a Pillar, daily | Unchanged — 5 AM, every day incl. weekends |
-| 🥾 Hiking | 1-Year Goal + weekend slot | 1–2x/month, rotating into Saturday's free block |
+| 🥾 Hiking | 1-Year Goal + weekend slot | 1–2x/month, rotating into Saturday's free block — the sole occupant of that slot for now (see Tennis below) |
 | 🍳 Cooking & Baking | 1-Year Goal + weekend slot | Weekly, Sunday afternoon — pairs naturally with meal-prep for the week ahead |
 | 🎉 Social life (parties, going out) | 1-Year Goal | Weekend evenings — deliberately unscheduled, this is exactly the kind of thing a rigid time-block would kill |
 | ✈️ Travel | 1-Year/3-Year Goal | Planned around course/business milestones (e.g. after a 90-Day Review), not weekly — log trips as Projects if they need planning (bookings, itinerary) |
-| 🎾 Tennis / a sport | 1-Year Goal, **starting now** (you didn't flag this as "later") | Rotate into Saturday's free block alongside hiking — pick one per weekend rather than both, so neither gets squeezed |
-| 🎹 Piano | **Explicitly future** — you said "later down the line" | Goals database, Status = a new `Future` option (add this to the Status Select in `01-notion-architecture.md` §7) — revisit once your 4 active course-phase pillars have progressed (a natural check-in point: your first 90-Day Review) |
+| 🎾 Tennis / a sport | **Future** — confirmed target: start by end of this year (2026) | No weekend slot yet. Revisit at the Q4/end-of-year review — that's when it moves from Future to Active and claims Saturday's free block |
+| 🎹 Piano | **Future**, no fixed date — "later down the line" | Goals database, Status = `Future` — revisit once your 4 active course-phase pillars have progressed (a natural check-in point: your first 90-Day Review) |
 
-**Add to `csv-imports/goals.csv`** (or add by hand, only 6 rows): one 1-Year goal each for Hiking, Cooking & Baking, Social Life, Travel, and Tennis (Status = Active, Target Date = end of year), plus one for Piano (Status = Future, no target date yet — it activates at a future review, not on a fixed date).
+**Add to `csv-imports/goals.csv`** (or add by hand, only 6 rows): one 1-Year goal each for Hiking, Cooking & Baking, Social Life, and Travel (Status = Active, Target Date = end of year), Tennis (Status = Future, Target Date = end of 2026 — the one Future goal that *does* have a fixed date, since you gave one), and Piano (Status = Future, no target date — activates at a future review, not on a fixed date).
 
-**Why Tennis is treated differently from Piano:** you said "I need to play a sport as well — maybe tennis," which reads as a present want, not a deferred one, so it gets a weekend slot starting now. Piano was explicitly "later down the line," so it goes in the same Future/Locked bucket as AI Agency and Crypto — tracked, not forgotten, but not competing for time yet. If either assumption is wrong, just move the row.
+**Tennis, corrected:** you clarified this is a future want, targeting a start by the end of this year — not a present one like I'd first assumed. It now sits with Piano in the Future bucket, except with a real target date attached (end of 2026) rather than an open-ended "revisit eventually." Practically: check it at your Q4/end-of-year review, and if Trading/Outsourcing/YouTube have progressed enough to have real weekend slack, that's when Tennis flips from Future to Active and takes over Saturday's rotation slot from Hiking (or sits alongside it).
