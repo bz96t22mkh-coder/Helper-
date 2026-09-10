@@ -1,0 +1,59 @@
+Name,Course,Order,Module/Section,Est. Minutes,Type,Status,Lessons In Section
+"P1S1 - Markets, Participants & Price",Day Trading Course,1,Phase 1: Trading Foundations,105,Lesson Section,Not Started,4
+P1S2 - Order Types & Execution,Day Trading Course,2,Phase 1: Trading Foundations,90,Lesson Section,Not Started,4
+"P1S3 - Leverage, Margin & Risk/Reward",Day Trading Course,3,Phase 1: Trading Foundations,105,Lesson Section,Not Started,4
+P1S4 - Charts & Comparing Asset Classes,Day Trading Course,4,Phase 1: Trading Foundations,90,Lesson Section,Not Started,4
+"P2S1 - What a Futures Contract Is, and Why It Exists",Day Trading Course,5,Phase 2: Futures Fundamentals,80,Lesson Section,Not Started,4
+"P2S2 - Contract Specifications: Ticks, Points & Value",Day Trading Course,6,Phase 2: Futures Fundamentals,90,Lesson Section,Not Started,4
+"P2S3 - Margin, Costs & Market Mechanics",Day Trading Course,7,Phase 2: Futures Fundamentals,80,Lesson Section,Not Started,4
+P3S1 - Contract Specifications,Day Trading Course,8,Phase 3: NQ / ES / MNQ / MES Specialization,85,Lesson Section,Not Started,4
+P3S2 - The Risk Calculation Chain,Day Trading Course,9,Phase 3: NQ / ES / MNQ / MES Specialization,105,Lesson Section,Not Started,4
+P3S3 - Comparing NQ and ES,Day Trading Course,10,Phase 3: NQ / ES / MNQ / MES Specialization,70,Lesson Section,Not Started,3
+"P4S1 - Brokers, Platforms & Market Data",Day Trading Course,11,"Phase 4: Getting Started — Platforms, Data & Execution",100,Lesson Section,Not Started,4
+P4S2 - The DOM & Order Entry,Day Trading Course,12,"Phase 4: Getting Started — Platforms, Data & Execution",125,Lesson Section,Not Started,4
+"P5S1 - Risk Per Trade, Daily & Weekly Limits",Day Trading Course,13,Phase 5: Risk Management Fundamentals,80,Lesson Section,Not Started,4
+"P5S2 - Drawdown, Losing Streaks & Risk of Ruin",Day Trading Course,14,Phase 5: Risk Management Fundamentals,70,Lesson Section,Not Started,4
+P5S3 - Risk Management Across Account Types,Day Trading Course,15,Phase 5: Risk Management Fundamentals,35,Lesson Section,Not Started,3
+"P6S1 - Globex, RTH & ETH",Day Trading Course,16,Phase 6: Trading Hours & Sessions,55,Lesson Section,Not Started,3
+"P6S2 - Global Sessions: Asian, London, New York",Day Trading Course,17,Phase 6: Trading Hours & Sessions,70,Lesson Section,Not Started,3
+P7S1 - Major Scheduled Economic Events,Day Trading Course,18,Phase 7: News & Volatility Awareness,85,Lesson Section,Not Started,4
+P8S1 - Swing Points & Market Structure Basics,Day Trading Course,19,Phase 8: Price Action,110,Lesson Section,Not Started,4
+"P8S2 - Breakouts, False Breakouts & Momentum",Day Trading Course,20,Phase 8: Price Action,90,Lesson Section,Not Started,4
+"P9S1 - Market Structure: BOS, CHoCH, MSS, Displacement & CISD",Day Trading Course,21,Phase 9: ICT Foundations,120,Lesson Section,Not Started,4
+P9S2 - Liquidity Mastery,Day Trading Course,22,Phase 9: ICT Foundations,155,Lesson Section,Not Started,5
+P9S3 - PD Arrays: Fair Value Gaps & Order Blocks,Day Trading Course,23,Phase 9: ICT Foundations,125,Lesson Section,Not Started,4
+"P9S4 - Dealing Ranges: Premium, Discount & OTE",Day Trading Course,24,Phase 9: ICT Foundations,90,Lesson Section,Not Started,4
+P10S1 - The Top-Down Analysis Process,Day Trading Course,25,Phase 10: Top-Down Analysis & ICT Session Trading,115,Lesson Section,Not Started,4
+"P10S2 - Killzones, Judas Swing, AMD & Power of 3",Day Trading Course,26,Phase 10: Top-Down Analysis & ICT Session Trading,110,Lesson Section,Not Started,4
+P11S1 - The Model: Liquidity Sweep → Displacement → MSS → PD Array Entry,Day Trading Course,27,Phase 11: The Core ICT Model — Your Starting Strategy,115,Lesson Section,Not Started,4
+"P11S2 - Entry, Stop, Target & Risk Definition",Day Trading Course,28,Phase 11: The Core ICT Model — Your Starting Strategy,105,Lesson Section,Not Started,4
+"P11S3 - No-Trade Conditions, Invalidation & Trade Management",Day Trading Course,29,Phase 11: The Core ICT Model — Your Starting Strategy,90,Lesson Section,Not Started,4
+P12S1 - How to Evaluate Any New Confluence,Day Trading Course,30,Phase 12: Progressive Confluences,45,Lesson Section,Not Started,3
+P12S2 - Confluence: OTE Precision,Day Trading Course,31,Phase 12: Progressive Confluences,50,Lesson Section,Not Started,3
+P12S3 - Confluence: Higher-Timeframe PD Array Alignment,Day Trading Course,32,Phase 12: Progressive Confluences,45,Lesson Section,Not Started,3
+P12S4 - Confluence: Killzone Timing Filter,Day Trading Course,33,Phase 12: Progressive Confluences,40,Lesson Section,Not Started,3
+P12S5 - Confluence: BPR as a Tighter Entry,Day Trading Course,34,Phase 12: Progressive Confluences,40,Lesson Section,Not Started,3
+P13S1 - Why Deliberate Chart Practice Matters,Day Trading Course,35,Phase 13: Chart Practice & Bar Replay,20,Lesson Section,Not Started,2
+P13S2 - How to Use Bar Replay Properly,Day Trading Course,36,Phase 13: Chart Practice & Bar Replay,1595,Lesson Section,Not Started,22
+P14S1 - A Rigorous Backtesting Protocol,Day Trading Course,37,Phase 14: Backtesting,30,Lesson Section,Not Started,2
+P14S2 - The Backtest Trade Log & Core Statistics,Day Trading Course,38,Phase 14: Backtesting,1590,Lesson Section,Not Started,20
+P15S1 - Testing Additions One at a Time,Day Trading Course,39,Phase 15: Strategy Development — Testing & Your Personal Model,80,Lesson Section,Not Started,3
+P15S2 - Building Your Personal Model & Avoiding Strategy Hopping,Day Trading Course,40,Phase 15: Strategy Development — Testing & Your Personal Model,1590,Lesson Section,Not Started,18
+P16S1 - Emotional Failure Patterns,Day Trading Course,41,Phase 16: Trading Psychology,85,Lesson Section,Not Started,4
+P16S2 - Cognitive Biases & Building Discipline Through Systems,Day Trading Course,42,Phase 16: Trading Psychology,100,Lesson Section,Not Started,4
+P17S1 - The Simulation Progression & Readiness to Begin,Day Trading Course,43,Phase 17: Simulated Trading & Performance Analysis,25,Lesson Section,Not Started,2
+P17S2 - Journaling Every Simulated Trade,Day Trading Course,44,Phase 17: Simulated Trading & Performance Analysis,60,Lesson Section,Not Started,4
+P17S3 - Performance Analysis — Do You Actually Have an Edge?,Day Trading Course,45,Phase 17: Simulated Trading & Performance Analysis,1625,Lesson Section,Not Started,24
+P18S1 - The Complete Checklist Set,Day Trading Course,46,"Phase 18: Consistency, Execution Routine & Independence",85,Lesson Section,Not Started,4
+P18S2 - Weekly/Monthly Review Routine & Operating Independently,Day Trading Course,47,"Phase 18: Consistency, Execution Routine & Independence",115,Lesson Section,Not Started,4
+P19S1 - SMT Divergence,Day Trading Course,48,Phase 19: Advanced ICT,75,Lesson Section,Not Started,3
+"P19S2 - IFVG, Advanced Liquidity & Algorithmic Delivery",Day Trading Course,49,Phase 19: Advanced ICT,90,Lesson Section,Not Started,4
+"P19S3 - Turtle Soup, Liquidity Voids & Lower-Timeframe Entry Refinement",Day Trading Course,50,Phase 19: Advanced ICT,125,Lesson Section,Not Started,5
+P20S1 - How Prop Firms & Evaluations Work,Day Trading Course,51,Phase 20: Prop Firms & Prop-Firm Readiness,100,Lesson Section,Not Started,4
+P20S2 - The Prop-Firm Readiness Checklist,Day Trading Course,52,Phase 20: Prop Firms & Prop-Firm Readiness,60,Lesson Section,Not Started,3
+P21S1 - Managing a Funded Account,Day Trading Course,53,"Phase 21: Funded Trading, Multiple Accounts & Responsible Scaling",80,Lesson Section,Not Started,4
+P21S2 - Multiple Funded Accounts & Compliant Trade Copying,Day Trading Course,54,"Phase 21: Funded Trading, Multiple Accounts & Responsible Scaling",85,Lesson Section,Not Started,4
+P21S3 - Responsible Scaling,Day Trading Course,55,"Phase 21: Funded Trading, Multiple Accounts & Responsible Scaling",85,Lesson Section,Not Started,4
+P22S1 - Skill Levels — Know Exactly Where You Stand,Day Trading Course,56,"Phase 22: Skill Levels, Milestones & Your Post-Course Roadmap",65,Lesson Section,Not Started,4
+"P22S2 - Milestone Roadmap: 7/30/60/90 Days, 6 & 12 Months",Day Trading Course,57,"Phase 22: Skill Levels, Milestones & Your Post-Course Roadmap",60,Lesson Section,Not Started,4
+P22S3 - Your Post-Course Roadmap,Day Trading Course,58,"Phase 22: Skill Levels, Milestones & Your Post-Course Roadmap",55,Lesson Section,Not Started,3

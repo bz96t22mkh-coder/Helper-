@@ -6,8 +6,8 @@ Database spec is in `01-notion-architecture.md` §14; here's how to actually use
 
 | Property | Type | Notes |
 |---|---|---|
-| Name | Title | e.g. "AI Agency — September 2026" |
-| Category | Select | `AI Agency`, `Uniform Agency`, `Trading`, `YouTube`, `Personal` |
+| Name | Title | e.g. "Outsourcing — September 2026" |
+| Category | Select | `Trading`, `Outsourcing`, `YouTube`, `Personal` (add `AI Agency` back if/when it unlocks) |
 | Month | Date | |
 | Revenue | Number (currency) | Business categories only |
 | Expenses | Number (currency) | |
@@ -23,7 +23,7 @@ Database spec is in `01-notion-architecture.md` §14; here's how to actually use
 
 **Total Income / Total Profit:** don't build a separate rollup for "total" across categories inside this database — that's what the Monthly Review's own summary does (sum manually or via a linked view with a Sum footer, which Notion tables support natively — turn on the Sum calculation at the bottom of the Month view).
 
-**Financial goals:** live in the Goals database (`01-notion-architecture.md` §7) as 90-Day/1-Year goals with `Pillar` pointed at the relevant business — e.g. "AI Agency — $2,000 MRR" as a 90-Day goal, `Success Criteria` = "Finance Tracker shows Revenue ≥ $2,000 for one calendar month."
+**Financial goals:** live in the Goals database (`01-notion-architecture.md` §7) as 90-Day/1-Year goals with `Pillar` pointed at the relevant business — e.g. "Outsourcing — $2,000 MRR" as a 90-Day goal, `Success Criteria` = "Finance Tracker shows Revenue ≥ $2,000 for one calendar month."
 
 ## 2. Habit Tracker — the exact list (do not add more)
 
@@ -33,15 +33,15 @@ Already specified in `01-notion-architecture.md` §10. Repeating here with the r
 2. Slept on time
 3. Gym
 4. Trading block done
-5. AI Agency block done
-6. Uniform Agency block done
+5. Outsourcing block done
+6. YouTube course block done
 7. Reading done
 8. Personal Dev done
 9. Steps target hit
 10. Journaled
 11. Content published (if scheduled that day — leave blank/N/A on non-upload days, don't count against you)
 
-That's 11, matching your brief's own list exactly. Resist adding "meditation," "cold shower," etc. even if you start doing them — those absorb into your existing blocks (e.g. meditation is inside Personal Development's Section 18) rather than becoming their own tracked row.
+That's 11, matching your brief's own list exactly. Resist adding "meditation," "cold shower," etc. even if you start doing them — those absorb into your existing blocks (e.g. meditation is inside Personal Development's Section 18) rather than becoming their own tracked row. If AI Agency unlocks later, swap it back in for one of the routine rows rather than growing the list past 11.
 
 ## 3. Reviews — the exact question sets to put in each Notion template
 
@@ -58,7 +58,7 @@ Build these as **database templates** on the Reviews database (`01-notion-archit
 - Biggest win this week?
 - Biggest failure/miss this week?
 - Trading progress (phase, journal review, key mistake pattern)
-- Agency progress (AI + Uniform — what moved, what's stuck)
+- Outsourcing progress (which phase/module, what moved, what's stuck)
 - YouTube progress (videos published vs. target, pipeline health)
 - Course progress (which Curriculum Items completed)
 - Personal development progress

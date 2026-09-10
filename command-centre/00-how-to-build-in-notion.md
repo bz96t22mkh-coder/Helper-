@@ -21,19 +21,22 @@ Two ways to get this into your Notion account. Read §0 to pick, then follow the
 
 ## 2. Build each database using CSV import (fastest way to get rows in)
 
-I've pre-built the row data for you as CSV files in `command-centre/csv-imports/` in this repo:
-- `pillars.csv` → 8 rows, ready to import as-is
-- `phases.csv` → Trading's full 9-phase ladder + AI/Uniform Phase 1 + all 20 Personal Development sections, ready as-is
+I've pre-built the row data for you as CSV files in `command-centre/csv-imports/` in this repo, now from your **real course files**:
+- `pillars.csv` → 8 rows (Trading, Outsourcing, YouTube, Personal Development, Reading, Fitness active; AI Agency and Crypto locked)
+- `phases.csv` → 54 rows: Trading's real 22-phase ladder, Outsourcing's real 8-phase ladder, YouTube's real 4-world ladder, and all 20 Personal Development sections
+- `curriculum-items-trading.csv` → 58 rows, one per real section of the Trading course, with real minutes
+- `curriculum-items-outsourcing.csv` → 21 rows, one per real module, with the course's own day ranges
+- `curriculum-items-youtube.csv` → 24 rows, one per real module, with priority tiers
 - `curriculum-items-personal-development.csv` → the real Section 1, Day 1–6 content
-- `goals.csv` → your Life Vision + 7 starter 90-Day goals
+- `goals.csv` → your Life Vision + 5 real starter 90-Day goals
 
 **To import each one:**
 1. Open your **Command Centre** page.
 2. Type `/` → choose **Import**.
 3. Select **CSV** as the source, choose the file from your computer (download it from this repo first — open the file on GitHub, click "Raw," save it, or clone the repo).
-4. Notion creates a new full-page database named after the file, with one column per CSV header and one row per line. Rename the page to match the names in `01-notion-architecture.md` (e.g. rename to "⭐ Pillars", "📈 Phases", "📖 Curriculum Items", "🎯 Goals").
+4. Notion creates a new full-page database named after the file, with one column per CSV header and one row per line. Rename the page to match the names in `01-notion-architecture.md` (e.g. rename to "⭐ Pillars", "📈 Phases", "🎯 Goals"). For the four Curriculum Items CSVs, import all four into the **same** "📖 Curriculum Items" database — Notion's CSV import has a "Merge with existing database" option when you import into a page that already holds one; use it so all your courses' items end up in one database, distinguished by their `Course` column.
 
-Do this 4 times — once per CSV. That gets ~45 rows of real data into Notion in about 10 minutes total, instead of typing them by hand.
+Do this 7 times — once per CSV. That gets ~110 rows of real data into Notion in about 20–25 minutes total, instead of typing them by hand.
 
 ## 3. Fix property types after each import
 
@@ -48,7 +51,7 @@ CSV import makes every column plain **Text**. You need to change some to their r
 
 These start empty — create them directly (Command Centre page → `/table` → **Table - Full page**, name it, then add properties one by one via the **+** at the right end of the column headers): **Courses**, **Projects**, **Tasks**, **Habit Tracker**, **Trade Journal**, **Backtest Log**, **Strategies**, **YouTube Pipeline**, **Reading Log**, **Finance Tracker**, **Reviews**, **Weekly Time Summary**. Full property lists for every one of these are in `01-notion-architecture.md` §2–§14 — go column by column, typing the property name then picking its Type from the dropdown.
 
-For **Courses**, add these 4 rows by hand (only 4, faster than a CSV): Personal Development Mastery Course (Content Status = ✅ Available), Day Trading Course, AI Automation Agency Course, Uniform Outsourcing Agency Course (all three ⏳ Needs Content until you give me their material — see the bottom of this message).
+For **Courses**, add these 4 rows by hand (only 4, faster than a CSV, all ✅ Available now): Personal Development Mastery Course, Day Trading Course, Outsourcing Course, YouTube Course.
 
 ## 5. Wire up relations, rollups, formulas, and the button
 
@@ -65,13 +68,6 @@ For each database, click **+ Add a view** at the top to create the Table/Board v
 
 ---
 
-## Your day trading course and business courses — I still need these
+## Status: all 4 active courses now have real content loaded
 
-You mentioned you have a day trading course and business courses to do during the day. I want to build their real daily content the same way I did for Personal Development (exact module/lesson/exercise, not a generic placeholder) — but I don't have that material. I checked this entire repository and it only contains the Personal Development course; the trading and business course content isn't here.
-
-To finish this properly, send me one of these:
-1. **Paste the course outline** here (module names, lesson titles, and roughly what each covers) — even a rough list is enough for me to do the workload analysis from your original brief and turn it into real daily assignments.
-2. **Point me at where it lives** — another GitHub repo (tell me the name, I can request access), a Notion page, a doc, an export file — and I'll pull it in directly.
-3. If the course only exists as videos/a platform you're enrolled in (not text), tell me the platform and structure (course name, module list) and I'll build the tracker around that structure, with you filling in lesson-level detail as you go.
-
-Once I have it, I'll update `command-centre/04-personal-development-integration.md`-style real content for Trading, AI Agency, and Uniform Agency, replacing every `[COURSE CONTENT NEEDED]` placeholder in `06-first-90-days.md` with your actual Day 1 tasks.
+Trading, Outsourcing, YouTube, and Personal Development all have real phases/modules/sections loaded into the CSVs above — no more placeholders. AI Automation Agency and Crypto stay locked/future (see `03-goals-and-phases.md` §6–7); when you're ready to revisit either, send the course content the same way and it gets the same treatment.

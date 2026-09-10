@@ -26,7 +26,7 @@ Sections 2–20 get added the same way, one at a time, as you approach them — 
 This is exactly what your 🧠 Personal Development block on the Today dashboard should show once you create the matching Task row:
 
 ```
-🧠 PERSONAL DEVELOPMENT — 30–40 min
+🧠 PERSONAL DEVELOPMENT — 1 hour
 
 Current Phase: Section 1 — Meta-Learning (Day 1 of 6)
 
@@ -44,15 +44,12 @@ Milestone: 2 concrete knowledge gaps identified via active recall
            (not from re-reading)
 ```
 
-(Total course time for the day is 60 min per the course file; your rotation schedule allocates 30–40 min/day for Personal Development, so either split the day's exercises across two days, or on days where you have spare capacity, run the full hour. The course's own progression rule — "if you're still shaky, extend; if you nail it early, compress" — already accounts for this, so don't force a rigid 6-days-in-6-calendar-days pace if 30–40 min/day means Day 1's content actually spans 1.5 calendar days.)
+The full 60-minute session runs exactly as the course wrote it — your confirmed allocation is now a full 1 hour/day, 5 days/week, matching the course's own "1-Hour Daily Engine" design exactly. No splitting across days needed.
 
 ## 4. Advancing day to day
 
 Day 2 is not "Day 1 content again" and not "randomly whatever section 2 says" — it's literally the next row in Curriculum Items by Order, which is Day 2 — The Feynman Technique. Update that Task's `Curriculum Item` relation to point at Order 2 once Day 1's row is marked `Completed`. When Section 1 is fully completed (Order 6 exit check passed at Competent+, per the course's own mastery bar), mark the Section 1 Phase row `Completed` via the Complete Phase button, which activates the Section 2 Phase row — then load Section 2's items from `course/02-productivity-time-management.md` the same way.
 
-## 5. Rotation logic (why not 1 hour every single day)
+## 5. Allocation (confirmed, no longer a rotation)
 
-Your brief (section 16) is explicit: don't spend several hours/day on this, use a rotating system, and only increase it once other courses free up time. Concretely:
-- **Now (all 3 business/trading courses active at full allocation):** 30–40 min/day, most days — enough to make steady progress through Section 1's 6-day arc without competing with the 10-hour focus-work core.
-- **After Trading's course phase ends (frees 1–2 hrs, per `03-goals-and-phases.md` §8):** Personal Development is 2nd in the redistribution priority order (after other still-learning pillars) — bump to 45–60 min/day at that point, not before.
-- **Never let it exceed 1 hour/day** while any of Trading/AI Agency/Uniform Agency is still in an active learning phase — this is a maintenance/growth pillar, not a competing priority, exactly as your brief frames it (no ⭐ next to it).
+You confirmed a full **1 hour/day, 5 days/week** for Personal Development alongside Trading (5h), Outsourcing (2h), and YouTube (1h) — so this runs at the course's own intended pace rather than a compressed rotation. It's still not a ⭐ major priority on the dashboard (that stays reserved for Trading/Outsourcing/YouTube), but it is a full, stable daily block like the others. If a future phase transition frees up time elsewhere, Personal Development is still first in line for any *additional* time per `03-goals-and-phases.md` §8 — but it no longer needs that extra time just to run at a normal pace.

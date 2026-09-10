@@ -1,32 +1,55 @@
 Name,Pillar,Order,Status,Definition of Done,Allocation While Active
-Trading - Phase 1: Complete Existing Course,Day Trading,1,Active,Every module/lesson done plus exercises plus able to explain core concepts unprompted,5 hrs/day
-Trading - Phase 2: Backtesting,Day Trading,2,Not Started,50-100+ logged backtests with documented win rate and R:R,3-4 hrs/day
-Trading - Phase 3: Replay / Demo,Day Trading,3,Not Started,20+ consecutive trading days on replay/demo following written rules,2-3 hrs/day
-Trading - Phase 4: Build Consistency,Day Trading,4,Not Started,30+ trading days with stable positive expectancy and rule adherence,2-3 hrs/day
-Trading - Phase 5: Risk-Management Proof,Day Trading,5,Not Started,Written risk rules followed with zero violations across the consistency window,2-3 hrs/day
-Trading - Phase 6: Funded Evaluation,Day Trading,6,Not Started,Pass a funded-account evaluation,2-3 hrs/day
-Trading - Phase 7: Funded Account,Day Trading,7,Not Started,First live funded account active,2-3 hrs/day
-Trading - Phase 8: Consistent Funded Trading,Day Trading,8,Not Started,3+ consecutive profitable rule-adherent months,2 hrs/day
-Trading - Phase 9: Scaling / Multiple Accounts,Day Trading,9,Not Started,Second funded account added or scaling plan reached,2-3 hrs/day
-AI Agency - Phase 1: Course,AI Automation Agency,1,Active,All modules complete plus one working automation built as a practice project,2 hrs/day
-Uniform Agency - Phase 1: Course,Uniform Outsourcing Agency,1,Active,All modules complete plus fulfillment/supplier basics understood,2 hrs/day
-PD - Section 1: Meta-Learning,Personal Development,1,Active,Exit assessment at Competent-to-Advanced (self-testing without prompting; can design a session for a new topic unaided),30-60 min/day rotating
-PD - Section 2: Productivity & Time Management,Personal Development,2,Not Started,Exit assessment at Competent-to-Advanced,30-60 min/day rotating
-PD - Section 3: English & Articulation,Personal Development,3,Not Started,Exit assessment at Competent-to-Advanced,30-60 min/day rotating
-PD - Section 4: Communication,Personal Development,4,Not Started,Exit assessment at Competent-to-Advanced,30-60 min/day rotating
-PD - Section 5: Emotional Intelligence,Personal Development,5,Not Started,Exit assessment at Competent-to-Advanced,30-60 min/day rotating
-PD - Section 6: Social Skills,Personal Development,6,Not Started,Exit assessment at Competent-to-Advanced,30-60 min/day rotating
-PD - Section 7: Confidence & Charisma,Personal Development,7,Not Started,Exit assessment at Competent-to-Advanced,30-60 min/day rotating
-PD - Section 8: Storytelling,Personal Development,8,Not Started,Exit assessment at Competent-to-Advanced,30-60 min/day rotating
-PD - Section 9: Critical Thinking,Personal Development,9,Not Started,Exit assessment at Competent-to-Advanced,30-60 min/day rotating
-PD - Section 10: Debating,Personal Development,10,Not Started,Exit assessment at Competent-to-Advanced,30-60 min/day rotating
-PD - Section 11: Problem-Solving,Personal Development,11,Not Started,Exit assessment at Competent-to-Advanced,30-60 min/day rotating
-PD - Section 12: Decision-Making,Personal Development,12,Not Started,Exit assessment at Competent-to-Advanced,30-60 min/day rotating
-PD - Section 13: Negotiation,Personal Development,13,Not Started,Exit assessment at Competent-to-Advanced,30-60 min/day rotating
-PD - Section 14: Networking,Personal Development,14,Not Started,Exit assessment at Competent-to-Advanced,30-60 min/day rotating
-PD - Section 15: Leadership,Personal Development,15,Not Started,Exit assessment at Competent-to-Advanced,30-60 min/day rotating
-PD - Section 16: Strategic Thinking,Personal Development,16,Not Started,Exit assessment at Competent-to-Advanced,30-60 min/day rotating
-PD - Section 17: Financial Literacy,Personal Development,17,Not Started,Exit assessment at Competent-to-Advanced,30-60 min/day rotating
-PD - Section 18: Meditation & Grounded Manifestation,Personal Development,18,Not Started,Exit assessment at Competent-to-Advanced,30-60 min/day rotating
-PD - Section 19: Advanced Integration,Personal Development,19,Not Started,Successfully combines 3+ prior skills in single complex exercises,30-60 min/day rotating
-PD - Section 20: Final Mastery,Personal Development,20,Not Started,Comprehensive capstone reassessment across all 19 skill areas passed,30-60 min/day rotating
+Trading - Phase 1: Trading Foundations,Day Trading,1,Active,Can read a chart and explain why price moves; choose the correct order type; calculate risk before any trade,5 hrs/day
+Trading - Phase 2: Futures Fundamentals,Day Trading,2,Not Started,Understands what a futures contract is; contract specs; margin and costs,5 hrs/day
+Trading - Phase 3: NQ/ES/MNQ/MES Specialization,Day Trading,3,Not Started,Can run the full risk-calculation chain on NQ/ES and compare the two instruments,5 hrs/day
+Trading - Phase 4: Getting Started - Platforms Data and Execution,Day Trading,4,Not Started,Broker/platform set up; comfortable placing orders via the DOM,5 hrs/day
+Trading - Phase 5: Risk Management Fundamentals,Day Trading,5,Not Started,Written per-trade/daily/weekly risk limits; understands drawdown and risk of ruin,5 hrs/day
+Trading - Phase 6: Trading Hours and Sessions,Day Trading,6,Not Started,Knows Globex/RTH/ETH and the Asian/London/New York sessions,5 hrs/day
+Trading - Phase 7: News and Volatility Awareness,Day Trading,7,Not Started,Knows major scheduled economic events and how to trade around them,5 hrs/day
+Trading - Phase 8: Price Action,Day Trading,8,Not Started,Can identify swing points market structure breakouts and false breakouts,5 hrs/day
+Trading - Phase 9: ICT Foundations,Day Trading,9,Not Started,Understands BOS/CHoCH/MSS/displacement/CISD liquidity FVG/order blocks and premium/discount/OTE,5 hrs/day
+Trading - Phase 10: Top-Down Analysis and ICT Session Trading,Day Trading,10,Not Started,Can run a full top-down analysis; knows killzones Judas Swing AMD and Power of 3,5 hrs/day
+Trading - Phase 11: The Core ICT Model,Day Trading,11,Not Started,Can execute the full Liquidity Sweep to Displacement to MSS to PD Array Entry model with defined entry stop target and no-trade conditions,5 hrs/day
+Trading - Phase 12: Progressive Confluences,Day Trading,12,Not Started,Has evaluated each confluence (OTE precision HTF PD-array alignment killzone timing BPR) methodically using the course's own evaluation framework,5 hrs/day
+Trading - Phase 13: Chart Practice and Bar Replay (recurring),Day Trading,13,Not Started,Structured blind Bar Replay sessions run and reviewed regularly - not a one-time pass,5 hrs/day
+Trading - Phase 14: Backtesting (recurring),Day Trading,14,Not Started,Rigorous unbiased backtest log kept; win rate expectancy average R profit factor and drawdown computed,5 hrs/day
+Trading - Phase 15: Strategy Development (recurring),Day Trading,15,Not Started,Confluences tested one at a time from data; personal model defined; no strategy-hopping,5 hrs/day
+Trading - Phase 16: Trading Psychology,Day Trading,16,Not Started,Recognizes own emotional failure patterns and cognitive biases; systems built to enforce discipline,5 hrs/day
+Trading - Phase 17: Simulated Trading and Performance Analysis (recurring),Day Trading,17,Not Started,Meets the course's objective readiness criteria to begin sim; journals every sim trade; has a data-based answer to whether a real edge exists,5 hrs/day
+Trading - Phase 18: Consistency Execution Routine and Independence,Day Trading,18,Not Started,Full pre-market/pre-trade/management/post-trade checklist set built and followed; weekly/monthly review routine running,5 hrs/day
+Trading - Phase 19: Advanced ICT,Day Trading,19,Not Started,Understands SMT divergence IFVG Turtle Soup and liquidity voids - each evaluated via the Phase 12 framework before adopting,5 hrs/day
+Trading - Phase 20: Prop Firms and Prop-Firm Readiness,Day Trading,20,Not Started,Passes own Prop-Firm Readiness Checklist against objective evidence-based criteria,5 hrs/day
+Trading - Phase 21: Funded Trading Multiple Accounts and Responsible Scaling,Day Trading,21,Not Started,Funded account managed within drawdown rules; scaling only after proven consistency,5 hrs/day
+Trading - Phase 22: Skill Levels Milestones and Post-Course Roadmap,Day Trading,22,Not Started,Reference and ongoing - describes the recurring loop after course completion, not a one-time gate,5 hrs/day
+Outsourcing - Phase 1: Foundations (Days 1-9),Outsourcing (Workwear),1,Active,Understands the outsourcing business model and has validated real demand plus a starting niche with evidence,2 hrs/day
+Outsourcing - Phase 2: Legal and Setup (Days 10-16),Outsourcing (Workwear),2,Not Started,Business structure chosen; registration tax banking contracts and insurance basics understood,2 hrs/day
+Outsourcing - Phase 3: Product and Supply (Days 17-33),Outsourcing (Workwear),3,Not Started,Suppliers vetted; product range defined; pricing calculator built and used,2 hrs/day
+Outsourcing - Phase 4: Brand and Web (Days 34-45),Outsourcing (Workwear),4,Not Started,Brand identity and positioning defined; business website built and deployed,2 hrs/day
+Outsourcing - Phase 5: Sales Engine (Days 46-66),Outsourcing (Workwear),5,Not Started,Sales scripts working; lead gen and follow-up cadence running; CRM built,2 hrs/day
+Outsourcing - Phase 6: Operations (Days 67-85),Outsourcing (Workwear),6,Not Started,Automations built; fulfilment SOP and order tracker in place; customer service systems defined,2 hrs/day
+Outsourcing - Phase 7: Money and Growth (Days 86-102),Outsourcing (Workwear),7,Not Started,Finance tracker built; marketing channels ranked and running; retention systems in place,2 hrs/day
+Outsourcing - Phase 8: Team and Systems (Days 103-120),Outsourcing (Workwear),8,Not Started,SOP library and business dashboard built; hiring/scaling plan defined,2 hrs/day
+YouTube - World 1: Foundation (Modules 1-3),YouTube,1,Active,Understands YouTube's recommendation engine and distribution mechanics; personal brand defined; Gaming plus Reaction unified into one identity,1 hr/day
+YouTube - World 2: Content Craft (Modules 4-12),YouTube,2,Not Started,Can produce a good gaming video and reaction video; has an ideas pipeline titles thumbnails and scripts; can talk on camera and apply retention mechanics,1 hr/day
+YouTube - World 3: Production and Distribution (Modules 13-17),YouTube,3,Not Started,Editor workflow running; Shorts and cross-platform posting live; community-building started; reads analytics to close the feedback loop,1 hr/day
+YouTube - World 4: Business and Systems (Modules 18-24),YouTube,4,Not Started,Growth strategy by subscriber stage understood; monetization and brand deals assessed; 100-video roadmap 90-day plan weekly system and personal playbook drafted,1 hr/day
+PD - Section 1: Meta-Learning,Personal Development,1,Active,Exit assessment at Competent-to-Advanced (self-tests without prompting; can design a session for a new topic unaided),1 hr/day
+PD - Section 2: Productivity and Time Management,Personal Development,2,Not Started,Exit assessment at Competent-to-Advanced,1 hr/day
+PD - Section 3: English and Articulation,Personal Development,3,Not Started,Exit assessment at Competent-to-Advanced,1 hr/day
+PD - Section 4: Communication,Personal Development,4,Not Started,Exit assessment at Competent-to-Advanced,1 hr/day
+PD - Section 5: Emotional Intelligence,Personal Development,5,Not Started,Exit assessment at Competent-to-Advanced,1 hr/day
+PD - Section 6: Social Skills,Personal Development,6,Not Started,Exit assessment at Competent-to-Advanced,1 hr/day
+PD - Section 7: Confidence and Charisma,Personal Development,7,Not Started,Exit assessment at Competent-to-Advanced,1 hr/day
+PD - Section 8: Storytelling,Personal Development,8,Not Started,Exit assessment at Competent-to-Advanced,1 hr/day
+PD - Section 9: Critical Thinking,Personal Development,9,Not Started,Exit assessment at Competent-to-Advanced,1 hr/day
+PD - Section 10: Debating,Personal Development,10,Not Started,Exit assessment at Competent-to-Advanced,1 hr/day
+PD - Section 11: Problem-Solving,Personal Development,11,Not Started,Exit assessment at Competent-to-Advanced,1 hr/day
+PD - Section 12: Decision-Making,Personal Development,12,Not Started,Exit assessment at Competent-to-Advanced,1 hr/day
+PD - Section 13: Negotiation,Personal Development,13,Not Started,Exit assessment at Competent-to-Advanced,1 hr/day
+PD - Section 14: Networking,Personal Development,14,Not Started,Exit assessment at Competent-to-Advanced,1 hr/day
+PD - Section 15: Leadership,Personal Development,15,Not Started,Exit assessment at Competent-to-Advanced,1 hr/day
+PD - Section 16: Strategic Thinking,Personal Development,16,Not Started,Exit assessment at Competent-to-Advanced,1 hr/day
+PD - Section 17: Financial Literacy,Personal Development,17,Not Started,Exit assessment at Competent-to-Advanced,1 hr/day
+PD - Section 18: Meditation and Grounded Manifestation,Personal Development,18,Not Started,Exit assessment at Competent-to-Advanced,1 hr/day
+PD - Section 19: Advanced Integration,Personal Development,19,Not Started,Successfully combines 3+ prior skills in single complex exercises,1 hr/day
+PD - Section 20: Final Mastery,Personal Development,20,Not Started,Comprehensive capstone reassessment across all 19 skill areas passed,1 hr/day

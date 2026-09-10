@@ -42,27 +42,27 @@ Your 8 life areas. Built once, edited rarely (only when priorities change, e.g. 
 
 | Property | Type | Notes |
 |---|---|---|
-| Name | Title | e.g. "Day Trading", "AI Automation Agency", "Uniform Outsourcing Agency", "YouTube", "Crypto Trading", "Personal Development", "Reading", "Fitness" |
+| Name | Title | "Day Trading", "Outsourcing (Workwear)", "YouTube", "AI Automation Agency", "Crypto Trading", "Personal Development", "Reading", "Fitness" |
 | Priority | Select | Options: `⭐ Major Priority`, `🔵 Important`, `⚪ Routine`, `🔒 Locked` |
 | Current Allocation | Number (or text) | Hours/day, e.g. `5` for Trading |
 | Current Phase | Relation → Phases | Set to the one Phase row currently `Active` for this pillar |
 | Status | Select | `Active`, `Locked` |
 | Description | Text | One line — what this pillar is for |
 
-**Starting rows and Priority values, exactly as your brief specifies:**
+**Starting rows and Priority values — use `csv-imports/pillars.csv` to load these directly:**
 
 | Name | Priority | Allocation | Status |
 |---|---|---|---|
-| Day Trading | ⭐ Major Priority | 5 hrs/day | Active |
-| AI Automation Agency | ⭐ Major Priority | 2 hrs/day | Active |
-| Uniform Outsourcing Agency | ⭐ Major Priority | 2 hrs/day | Active |
-| YouTube | ⭐ Major Priority | Variable (see `02-daily-schedule.md`) | Active |
+| Day Trading | ⭐ Major Priority | 5 hrs/day, 5 days/week | Active |
+| Outsourcing (Workwear) | ⭐ Major Priority | 2 hrs/day, 5 days/week | Active |
+| YouTube | ⭐ Major Priority | 1 hr/day, 5 days/week (course phase) | Active |
+| AI Automation Agency | 🔒 Locked | 0 | Locked |
 | Crypto Trading | 🔒 Locked | 0 | Locked |
-| Personal Development | 🧠 (use 🔵 Important) | 30–60 min/day, rotating | Active |
-| Reading | 📚 (use ⚪ Routine) | 1 hr/day | Active |
-| Fitness | 💪 (use ⚪ Routine) | ~50 min/day | Active |
+| Personal Development | 🔵 Important | 1 hr/day, 5 days/week | Active |
+| Reading | ⚪ Routine | 30 min/day | Active |
+| Fitness | ⚪ Routine | ~50 min/day | Active |
 
-Note: your brief's priority stars are semantic, not a fixed Notion feature — the `Priority` Select property above **is** the star system. When Crypto unlocks, you just change its Priority value from `🔒 Locked` to `⭐ Major Priority` and Status to `Active` — every dashboard view that filters on Priority updates automatically.
+Note: the priority stars are semantic, not a fixed Notion feature — the `Priority` Select property above **is** the star system. When AI Agency or Crypto unlocks, you just change its Priority value from `🔒 Locked` to `⭐ Major Priority` and Status to `Active` — every dashboard view that filters on Priority updates automatically.
 
 ---
 
@@ -85,7 +85,7 @@ Every pillar's phase ladder lives here as individual rows, in order. This is wha
 - **By Pillar** — Board view grouped by Pillar, sorted by Order. This is your at-a-glance phase map.
 - **Active Only** — Table view, filter `Status = Active`. This is what feeds the Today dashboard.
 
-Pre-load the Trading ladder now (your brief gives you all 9 phases verbatim) — see `03-goals-and-phases.md` for the full text to paste into each row's Definition of Done. Do the same for AI Agency and Uniform Agency once you have their course content; for now, create just their Phase 1 (Course) row as `Active` and leave the rest as placeholder rows with Status `Not Started`.
+Load all 54 real phase rows (Trading's 22, Outsourcing's 8, YouTube's 4 worlds, Personal Development's 20 sections) from `csv-imports/phases.csv` — see `03-goals-and-phases.md` for the full detail behind each. AI Agency and Crypto get their phase ladders built the same way once/if they're unlocked.
 
 ---
 
@@ -95,17 +95,15 @@ One row per course (not per lesson).
 
 | Property | Type | Notes |
 |---|---|---|
-| Name | Title | "Personal Development Mastery Course", "Day Trading Course", "AI Automation Agency Course", "Uniform Outsourcing Agency Course" |
+| Name | Title | "Personal Development Mastery Course", "Day Trading Course", "Outsourcing Course", "YouTube Course" |
 | Pillar | Relation → Pillars | |
 | Content Status | Select | `✅ Available`, `⏳ Needs Content` — flags which courses are still missing source material |
-| Total Modules/Sections | Number | 20 for Personal Development; blank until supplied for the others |
-| Est. Completion (realistic) | Text | e.g. "10–14 months, rotating 30–60 min/day" for PD |
+| Total Modules/Sections | Number | 20 (PD), 58 sections (Trading), 21 (Outsourcing), 24 (YouTube) |
+| Est. Completion (realistic) | Text | See `03-goals-and-phases.md` for each — e.g. Outsourcing's own stated "120 days at 2 hrs/day" |
 | Progress % | Rollup | From Curriculum Items: `Percent` of related items where Status = Completed |
-| Source | Text/URL | Where the course content lives (this repo's path, or wherever you point me) |
+| Source | Text/URL | Where the course content lives |
 
-Load your one real course now: **Personal Development Mastery Course**, Content Status = ✅ Available, Total Sections = 20, Est. Completion = "10–14 months (rotating)", Source = `course/00-master-curriculum.md`.
-
-Create the other three rows with Content Status = ⏳ Needs Content so the gap is visible on your dashboard, not hidden.
+Create all 4 rows now, all Content Status = ✅ Available: Personal Development (20 sections, `course/00-master-curriculum.md`), Day Trading Course (58 sections across 22 phases), Outsourcing Course (21 modules, "120 days at 2 hrs/day" per the course itself), YouTube Course (24 modules across 4 worlds, estimated 10–14 weeks at 1 hr/day — see `03-goals-and-phases.md` §4).
 
 ---
 
@@ -127,9 +125,9 @@ The actual modules/lessons/exercises. This is what daily Tasks pull their conten
 
 **View — "Up Next":** Table view per Course, filter `Status ≠ Completed`, sort by `Order` ascending, limit visually to top 1–3. This row is what your Tasks database (below) points to for "today's assignment" in a given pillar.
 
-For Personal Development, pre-load at least Section 1's items directly from `course/01-meta-learning.md` (Day 1, Day 2, Day 3...). See `04-personal-development-integration.md` for the exact rows to create — I've already written them out for you.
+Load real items for all 4 courses from the CSVs: `curriculum-items-personal-development.csv` (6 rows, Section 1), `curriculum-items-trading.csv` (58 rows, all 22 phases' sections), `curriculum-items-outsourcing.csv` (21 rows, all modules with day ranges), `curriculum-items-youtube.csv` (24 rows, all modules with priority tiers). Import all four into this one database (Notion's CSV import offers "Merge with existing database" — use it) so every course's items live together, distinguished by the `Course` column.
 
-For Trading/AI Agency/Uniform Agency: leave this database's Course-filtered view empty until you supply the course content — that's the single piece of manual data entry this whole system needs from you before it runs itself.
+All 4 active courses now have real items loaded via the CSVs above — nothing left empty. If AI Agency or Crypto unlock later, they get their own Curriculum Items the same way once course content exists for them.
 
 ---
 
@@ -150,7 +148,7 @@ Every business, channel, or non-course goal becomes a project row.
 | Milestone | Text | |
 | Progress | Rollup or Number | % complete, manual or rolled up from linked Tasks |
 
-Starter rows: "AI Agency — First Client", "Uniform Agency — First Customer", "YouTube — Channel Launch", "Trading — Funded Evaluation" (created but Status = Not Started until unlocked by phase progression).
+Starter rows: "Outsourcing — First Customer", "YouTube — Channel Launch", "Trading — Funded Evaluation" (created but Status = Not Started until unlocked by phase progression). Add "AI Agency — First Client" back once that pillar unlocks.
 
 ---
 
@@ -229,8 +227,8 @@ One row per day, checkboxes across. Keep it to the habits your brief actually na
 | Slept on time | Checkbox |
 | Gym | Checkbox |
 | Trading block done | Checkbox |
-| AI Agency block done | Checkbox |
-| Uniform Agency block done | Checkbox |
+| Outsourcing block done | Checkbox |
+| YouTube course block done | Checkbox |
 | Reading done | Checkbox |
 | Personal Dev done | Checkbox |
 | Steps target hit | Checkbox |
@@ -312,7 +310,7 @@ This is not a database — it's a page with **linked database views** embedded, 
 
 Build it in this order, top to bottom:
 1. Callout block: today's date, current 90-Day Goal (linked to the Goals row).
-2. Linked view of **Tasks → "Today"** view, grouped by Pillar (built in §8). This single embed *is* the "⭐ Trading / ⭐ AI Agency / ⭐ Uniform Agency / ⭐ YouTube / 🧠 PD / 📚 Reading / 💪 Gym" block your brief mockup shows — because each Task under a Pillar already carries that Pillar's name and priority icon in its group header.
+2. Linked view of **Tasks → "Today"** view, grouped by Pillar (built in §8). This single embed *is* the "⭐ Trading / ⭐ Outsourcing / ⭐ YouTube / 🧠 PD / 📚 Reading / 💪 Gym" block your brief mockup shows — because each Task under a Pillar already carries that Pillar's name and priority icon in its group header.
 3. Linked view of **Phases → "Active Only"** — a one-line reminder of which phase you're in per pillar, so you never lose the "why" behind today's tasks.
 4. Linked view of **Habit Tracker**, filtered to today's row only.
 
@@ -324,9 +322,9 @@ Nothing else goes on this page. If a Task isn't scheduled for today, it does not
 
 1. Create the parent page **🧭 Command Centre**.
 2. Create **Pillars** database, add the 8 rows from §2.
-3. Create **Phases** database, relation to Pillars. Add Trading's 9 phases (text in `03-goals-and-phases.md`) plus one Phase-1 row each for AI Agency and Uniform Agency.
+3. Create **Phases** database, relation to Pillars. Import all 54 real phase rows from `csv-imports/phases.csv` (Trading's 22, Outsourcing's 8, YouTube's 4 worlds, Personal Development's 20 sections).
 4. Create **Courses** database, relation to Pillars. Add the 4 rows from §4.
-5. Create **Curriculum Items** database, relation to Courses. Load Personal Development's Section 1 items (`04-personal-development-integration.md`).
+5. Create **Curriculum Items** database, relation to Courses. Import all 4 CSVs (Trading 58 rows, Outsourcing 21, YouTube 24, Personal Development 6) — merge into one database as described in §5.
 6. Create **Goals** database (self-relation), add your Life Vision + a first 90-Day goal per active pillar.
 7. Create **Projects** database, relations to Pillars/Phases/Goals.
 8. Create **Tasks** database, relations to Pillars/Curriculum Items/Projects. Add the Priority rollup/formula. Build the **Today** view.

@@ -1,109 +1,158 @@
 # Goal Ladder + Phase Maps
 
-## 1. The Goal Ladder (brief section 21/22)
+Rebuilt using your real course data (Trading, Outsourcing, YouTube) — nothing invented below is presented as course content; where I estimate (mainly YouTube pacing, since that course doesn't state per-module minutes the way Trading and Outsourcing do), it's flagged.
+
+## 0. Active vs. Future pillars (updated)
+
+| Pillar | Status | Why |
+|---|---|---|
+| ⭐ Day Trading | Active, 5 hrs/day, 5 days/week | Real 22-phase course loaded |
+| ⭐ Outsourcing (Workwear) | Active, 2 hrs/day, 5 days/week | Real 8-phase/21-module course loaded |
+| ⭐ YouTube | Active, 1 hr/day, 5 days/week (course phase) | Real 24-module course loaded |
+| 🧠 Personal Development | Active, 1 hr/day, 5 days/week | Real 20-section course (already integrated) |
+| 📚 Reading | Active, 30 min/day | |
+| 💪 Fitness | Active, ~50 min/day | |
+| 🔒 AI Automation Agency | **Locked/Future** | Dropped from daily schedule per your confirmation — revisit once Trading/Outsourcing/YouTube are past their course phase |
+| 🔒 Crypto Trading | **Locked/Future** | Unlocks only after primary trading consistency (§6) |
+
+Update the Pillars database: change AI Automation Agency's Priority to `🔒 Locked` and Status to `Locked`, matching Crypto. It stays a **defined future phase**, not deleted — when you're ready to revisit it, we do the same course-analysis process this time straight away.
+
+## 1. The Goal Ladder (brief section 21/22) — unchanged structure
 
 ```
-Life Vision
-  ↓
-5-Year Goals
-  ↓
-3-Year Goals
-  ↓
-1-Year Goals
-  ↓
-90-Day Goals        ← the real operating unit; reviewed every 90 days, max ~5 active at once
-  ↓
-Monthly Goals
-  ↓
-Weekly Goals
-  ↓
-Projects
-  ↓
-Tasks
-  ↓
-Daily Actions        ← what shows up on the Today dashboard
+Life Vision → 5-Year → 3-Year → 1-Year → 90-Day Goals → Monthly → Weekly → Projects → Tasks → Daily Actions
 ```
 
-**Life Vision (write once, revisit yearly):** Financially independent through trading and two profitable businesses; a functioning content brand (YouTube) that runs without consuming your full time; a highly capable, disciplined, well-read, socially confident person; consistent physical health; multiple funded trading accounts eventually including crypto.
+**Updated first 90-Day Goals:**
+1. Complete Trading Phases 1–12 (the full core-model curriculum — see §2) and begin Phase 13/14 (Bar Replay + Backtesting).
+2. Complete Outsourcing Phases 1–3 (Foundations through Product & Supply — Days 1–33 of the course's own pacing).
+3. Complete YouTube Tier 1 + Tier 2 modules (course's own priority tiers — see §4) and publish your first videos.
+4. Complete Personal Development Sections 1–3.
+5. Establish 5 AM wake + gym as automatic habit (90%+ adherence).
 
-**Suggested first 90-Day Goals (pick from these, keep the active list short):**
-1. Complete the Trading course to Competent level and log 20+ backtests.
-2. Complete the AI Automation Agency course and land the first client.
-3. Complete the Uniform Outsourcing Agency course and land the first customer.
-4. Publish 24 long-form YouTube videos (2/week × ~12 weeks) and establish the repurposing workflow as a habit.
-5. Complete Personal Development Sections 1–3 (Meta-Learning, Productivity, English & Articulation) to Competent+.
-6. Establish 5 AM wake + gym as an automatic habit (90%+ adherence).
+AI Automation Agency is intentionally not on this list — it's locked.
 
-That's 6 — already more than the "not 50 goals at once" instruction wants running with full intensity. In practice, #6 and #5 are low-effort/background relative to #1–4, so the *load-bearing* 90-day goals are really the three courses + YouTube publishing cadence.
+## 2. TRADING — the real 22-phase course ladder
 
-## 2. TRADING — 9 phases (verbatim from your brief, made objective)
+Your course is genuinely comprehensive: **22 phases, 58 sections, 283 lessons, ~180.75 hours of lesson content**, plus a final assessment (85% pass mark) and a living "Playbook" document you build from Phase 5 onward. Phases 13, 14, 15, and 17 are marked **recurring** in the course itself — meaning you don't do them once and move on, you loop back into them as your model develops.
 
-| # | Phase | Definition of Done (what "Complete Phase" requires) | Allocation while active |
+| # | Phase | Recurring? | Content | At 5 hrs/day |
+|---|---|---|---|---|
+| 1 | Trading Foundations | No | Markets, order types, leverage/margin/R:R, charts | ~1.3 days |
+| 2 | Futures Fundamentals | No | What a futures contract is, specs, margin/costs | ~0.8 days |
+| 3 | NQ/ES/MNQ/MES Specialization | No | Contract specs, risk-calc chain, comparing NQ vs ES | ~0.9 days |
+| 4 | Getting Started — Platforms, Data & Execution | No | Brokers/platforms, the DOM & order entry | ~0.75 days |
+| 5 | Risk Management Fundamentals | No | Per-trade/daily/weekly limits, drawdown, risk of ruin | ~0.6 days |
+| 6 | Trading Hours & Sessions | No | Globex/RTH/ETH, Asian/London/NY sessions | ~0.4 days |
+| 7 | News & Volatility Awareness | No | Major scheduled economic events | ~0.3 days |
+| 8 | Price Action | No | Swing points, market structure, breakouts | ~0.7 days |
+| 9 | ICT Foundations | No | BOS/CHoCH/MSS/displacement/CISD, liquidity, FVG/order blocks, premium/discount/OTE | ~1.6 days |
+| 10 | Top-Down Analysis & ICT Session Trading | No | Full top-down process, killzones, Judas Swing, AMD, Power of 3 | ~0.75 days |
+| 11 | The Core ICT Model | No | Liquidity Sweep → Displacement → MSS → PD Array Entry; entry/stop/target; no-trade conditions | ~1 day |
+| 12 | Progressive Confluences | No | OTE precision, HTF PD-array alignment, killzone timing, BPR — each evaluated methodically | ~0.75 days |
+| 13 | Chart Practice & Bar Replay | **Yes** | Structured, blind Bar Replay sessions | ~5.4 days per full pass, then ongoing |
+| 14 | Backtesting | **Yes** | Rigorous backtest protocol; win rate, expectancy, avg R, profit factor, drawdown | ~5.4 days per full pass, then ongoing |
+| 15 | Strategy Development | **Yes** | Test confluences one at a time from data; build your personal model; avoid strategy-hopping | ~5.6 days per full pass, then ongoing |
+| 16 | Trading Psychology | No | Emotional failure patterns, cognitive biases, discipline systems | ~0.6 days |
+| 17 | Simulated Trading & Performance Analysis | **Yes** | Readiness criteria to start sim, journal every trade, determine from data if you have an edge | ~5.7 days per full pass, then ongoing |
+| 18 | Consistency, Execution Routine & Independence | No | Full checklist set (pre-market/pre-trade/management/post-trade), weekly/monthly review cadence | ~0.7 days |
+| 19 | Advanced ICT | No | SMT divergence, IFVG, Turtle Soup, liquidity voids — evaluated via the Phase 12 framework | ~1 day |
+| 20 | Prop Firms & Prop-Firm Readiness | No | How evaluations work, your own readiness checklist | ~0.5 days |
+| 21 | Funded Trading, Multiple Accounts & Responsible Scaling | No | Managing a funded account, compliant multi-account structures, responsible scaling | ~0.8 days |
+| 22 | Skill Levels, Milestones & Post-Course Roadmap | No (reference) | Where you stand (7 skill levels, Phase 1–22 mapped), 7/30/60/90-day milestones, the post-course loop | ~0.6 days |
+
+**Realistic completion estimate:** Phases 1–12 (the sequential "understand the model" arc) ≈ **49 hours of lesson content ≈ 10 trading days ≈ 2 calendar weeks** at 5 hrs/day, 5 days/week. This is where the "Complete Trading Course" milestone from your original brief actually sits — by the end of Phase 12 you understand the full model and have started building your Playbook.
+
+Phases 13–15 and 17 (the recurring practice phases) contain ~110 hours of protocol/drill content for a **first full pass** (~4.5 weeks), but — because they're recurring — genuine completion isn't calendar-gated, it's **evidence-gated**: the course's own Phase 17 goal is "determine, from evidence, whether a real edge exists," and Phase 20 has its own objective Prop-Firm Readiness Checklist. Expect several additional weeks to a few months of daily backtesting/bar-replay/sim-trading reps beyond the first pass before those gates are genuinely met — this is not a delay, it's the course working as designed (no rushing into an evaluation before you're ready, exactly as your original brief demanded).
+
+**Skill-level mapping (from the course's own Phase 22):**
+
+| Level | Label | Phases |
+|---|---|---|
+| 1 | Complete Beginner | 1–4 |
+| 2 | Foundational | 5–8 |
+| 3 | Developing | 9–12 |
+| 4 | Competent | 13–14 |
+| 5 | Advanced | 15–17 |
+| 6 | Prop-Ready | 18–20 |
+| 7 | Independent Trader | 21–22 and ongoing |
+
+The course's own post-course loop (from its Roadmap page) is the real version of what your original brief's invented 9-phase ladder was reaching for:
+
+```
+Course completion → Final Assessment (85% pass mark) → targeted review of gaps
+→ continue/complete Backtesting (Ph.14) & Bar Replay (Ph.13) cycles until gated
+→ Simulated Trading + Performance Review (Ph.17) until gated
+→ Strategy Refinement (Ph.15, ongoing) → Consistency (Ph.18, ongoing)
+→ Prop Readiness Checklist (Ph.20) → Evaluation (only once genuinely ready)
+→ Funded Account (Ph.21) → Payouts → Track Record
+→ Additional Permitted Accounts (compliant) → Responsible Scaling (ongoing)
+```
+
+Load all 22 phases into your Phases database from `csv-imports/phases.csv` (updated). Load all 58 sections into Curriculum Items from `csv-imports/curriculum-items-trading.csv`.
+
+## 3. OUTSOURCING (Workwear) — the real 8-phase/21-module course ladder
+
+Your course states its own pacing directly: **120 days at 2 focused hours/day** (matches your exact allocation), across 21 modules grouped into 8 "colourway" phases.
+
+| # | Phase | Days | Modules |
 |---|---|---|---|
-| 1 | Complete existing trading course | Every module/lesson done + exercises + able to explain core concepts unprompted (per your own brief section 4: understood + practiced + applied + able to demonstrate) | 5 hrs/day |
-| 2 | Backtesting | 50–100+ logged backtests across your strategy(ies) in the Backtest Log, with a documented win rate and R:R | 3–4 hrs/day (drops once course learning ends) |
-| 3 | Replay / Demo | 20+ consecutive trading days on replay/demo following written rules, journaled in Trade Journal | 2–3 hrs/day |
-| 4 | Build consistency | 30+ trading days with a stable, positive expectancy and adherence to risk rules (no rule violations) | 2–3 hrs/day |
-| 5 | Risk-management proof | A written risk-management rule set, followed with zero violations across the consistency window above | Same as Phase 4 |
-| 6 | Funded evaluation | Pass a funded-account evaluation (objective pass/fail set by the prop firm) | 2–3 hrs/day |
-| 7 | Funded account | First live funded account active | 2–3 hrs/day |
-| 8 | Consistent funded trading | 3+ consecutive profitable, rule-adherent months on the funded account | 2 hrs/day |
-| 9 | Scaling / multiple funded accounts | Second funded account added, or scaling plan with the first firm reached | 2–3 hrs/day |
+| 1 | Foundations | 1–9 | M01 Understanding the Outsourcing Business, M02 Market Research |
+| 2 | Legal & Setup | 10–16 | M03 Business Setup (SA structures, CIPC, tax, banking, contracts, insurance) |
+| 3 | Product & Supply | 17–33 | M04 Suppliers, M05 Products, M06 Pricing (builds: pricing calculator) |
+| 4 | Brand & Web | 34–45 | M07 Branding, M08 Website (builds: business website via Claude Code) |
+| 5 | Sales Engine | 46–66 | M09 Sales, M10 Lead Generation, M11 CRM & Operations (builds: CRM) |
+| 6 | Operations | 67–85 | M12 AI & Automation, M13 Order Fulfilment, M14 Customer Service (builds: automations, fulfilment SOP & order tracker) |
+| 7 | Money & Growth | 86–102 | M15 Finance, M16 Marketing, M17 Customer Retention (builds: finance tracker) |
+| 8 | Team & Systems | 103–120 | M18 Hiring & Scaling, M19 SOP Library, M20 Business Dashboard, M21 Scaling (builds: SOP library, business dashboard) |
 
-Note the allocation column: this is where "reassess time when the phase changes" actually shows up as numbers. The 5-hour block is real only for Phase 1. By Phase 8 you're spending less raw time because the skill is built — that freed time redistributes to whichever pillar most needs it at that point (likely Crypto, once unlocked, or scaling the agencies).
+**Realistic completion: 120 days ÷ 5 days/week = 24 weeks ≈ 5.5 months** at your stated 2 hrs/day — this is the course's own estimate, not mine, and it already accounts for practical builds (a pricing calculator, a real website, a CRM, automations, a finance tracker, a business dashboard) alongside the lessons, matching your brief's "understood + practiced + applied" bar.
 
-## 3. AI AUTOMATION AGENCY (pest control niche) — phase ladder
+**This replaces the generic "course → offer → outreach..." ladder from the earlier draft** — your real course's own progression already covers that exact arc, just with concrete module numbers and day targets attached. The "learning → execution" transition point is the end of Phase 5 (Sales Engine, Day 66) — that's where lead generation and outreach genuinely start, not a guess.
 
-| # | Phase | Definition of Done |
+Load Phases from `csv-imports/phases.csv` (8 rows), and modules into Curriculum Items from `csv-imports/curriculum-items-outsourcing.csv` (21 rows, day ranges included).
+
+## 4. YOUTUBE — the real 24-module/4-world course, with its own priority tiers
+
+Your course (Gaming + Reaction, "Upload Arc") is structured as **4 worlds of 24 modules total**, and — usefully — it defines its own priority tiers for exactly the question your brief asks ("what's the transition point from learning to execution"):
+
+| World (Phase) | Modules | What it covers |
 |---|---|---|
-| 1 | Course | All modules complete + built at least one working automation as a practice project |
-| 2 | Practical builds | 2–3 additional automations built and demoed (portfolio pieces) |
-| 3 | Offer | A specific, priced offer written for pest-control businesses |
-| 4 | Lead generation | A repeatable lead source running (list building, scraping, or similar) |
-| 5 | Outreach | Outreach sequence live, tracked in Projects |
-| 6 | Sales | First sales calls booked and run |
-| 7 | First client | Signed and onboarded |
-| 8 | Client delivery | Delivered and client confirms value |
-| 9 | Retention | Client renews / stays past first period |
-| 10 | Recurring revenue | 2+ clients paying recurring |
-| 11 | Systemization | Delivery process documented/templated |
-| 12 | Delegation | First task handed to a contractor/VA |
-| 13 | Scale | 5+ recurring clients or equivalent revenue target |
+| 1 — Foundation | 1–3 | How YouTube's recommendation engine actually works; building your personal brand; making Gaming + Reaction work as one identity |
+| 2 — Content Craft | 4–12 | Gaming content, reaction content, video ideas, titles, thumbnails, scriptwriting, talking on camera, audience retention, filming/on-camera presence |
+| 3 — Production & Distribution | 13–17 | Working with your editor, Shorts, cross-platform promotion, community-building, analytics |
+| 4 — Business & Systems | 18–24 | Growth strategy, monetization, brand deals, your first 100 videos, your first 90 days, your weekly system, your personal playbook |
 
-**Allocation:** 2 hrs/day through Phase 1–2 (course + practice). From Phase 3 onward the 2-hour block shifts from *learning* content to *execution* content (writing the offer, doing outreach, sales calls) — same time budget, different work, until client delivery volume genuinely requires more (Phase 8+), at which point reassess upward if needed.
+**The course's own priority tiers (this is your real execution-gate, not an invented one):**
 
-## 4. UNIFORM OUTSOURCING AGENCY — phase ladder
-
-Same shape as AI Agency (course → business model → offer → ideal customers → suppliers/fulfillment → pricing/margins → branding → lead gen → outreach → sales → first customer → fulfillment → retention → recurring → systemization → scale), 2 hrs/day through the course, then execution content inside the same 2-hour block. Full ladder mirrors §3 above with "client" replaced by "customer" and an added early step: **Suppliers/Fulfillment setup** must be confirmed before Offer is finalized, since pricing depends on fulfillment cost.
-
-## 5. YOUTUBE — ongoing workflow, not a linear phase ladder
-
-YouTube doesn't "complete" a phase the way a course does — it's a continuous pipeline (see `01-notion-architecture.md` §12). Its "phase" concept is really a maturity marker:
-
-| Stage | Trigger to move forward | What changes |
+| Tier | Modules | When |
 |---|---|---|
-| Setup | Channel branding, first 2 videos in pipeline | — |
-| Consistency | 8 consecutive weeks hitting 2 videos/week | Confidence to commit more promotion time |
-| Growth | Retention/CTR trending up over a rolling 90-day window | Consider a 3rd weekly upload or more repurposing platforms |
-| Monetization | Eligibility thresholds met (subs/watch time) | Add revenue tracking as a real line in Finance Tracker, not just a placeholder |
+| Tier 1 — non-negotiable | 1, 2, 3, 6, 9, 10 | Before you can make a decent video at all |
+| Tier 2 | whichever of 4/5 matches your first video, 7, 8, 11, 12, 13 | Before your first upload |
+| Tier 3 | 14, 15, 16, 17, 23 | Within your first month |
+| Tier 4 | 18, 19, 20, 21, 22, 24 | Once you have some data/traction |
 
-## 6. CRYPTO — unlock criteria (brief section 11, made objective)
+**Estimated pacing (this part IS an estimate — unlike Trading/Outsourcing, this course doesn't state per-module minutes):** each module is dense (concept, why-it-matters, application, examples, exercises, templates, checklists, common mistakes, homework, and a pass/fail checkpoint) — comparable in depth to a ~90–150 minute Trading section. At 1 hr/day, 5 days/week, that's roughly **1.5–3 days per module**, meaning Tier 1 (6 modules) takes **~3–4 weeks** before your first real video, and the full 24 modules take **~10–14 weeks (2.5–3.5 months)** for a complete first pass. Log your actual time per module in the Weekly Time Summary for the first 3–4 modules and I'll tighten this estimate once we have real data instead of an estimate.
 
-Crypto stays 🔒 Locked in the Pillars database until **all** of the following are true:
-1. Trading Phase 5 (Risk-management proof) or later is reached in the primary trading ladder.
-2. At least one full month of consistent, rule-adherent primary trading is logged.
-3. You explicitly decide to unlock it — this is never automatic, per your own instruction that crypto must not distract from primary trading.
+Module 24 (Your Personal Playbook) is explicitly a living document you draft early and keep updating — not a one-time deliverable.
 
-When unlocked: change Crypto's Pillars row from `🔒 Locked`/Status `Locked` to `⭐ Major Priority`/Status `Active`, set an initial small allocation (recommend starting at 1 hr/day, review after 2 weeks), and build its own Phase ladder the same way as Trading once its course content is available: Fundamentals → Market analysis/narratives → Social/Twitter research → On-chain fundamentals → Tokenomics → Liquidity/volume → Meme-coin analysis → Risk management → Testing → Strategy → Execution → Consistency.
+Load the 4 worlds as Phases (`csv-imports/phases.csv`) and all 24 modules into Curriculum Items (`csv-imports/curriculum-items-youtube.csv`).
 
-## 7. PERSONAL DEVELOPMENT — phases = the course's own 20 sections
+## 5. PERSONAL DEVELOPMENT — unchanged, now at a full 1 hr/day
 
-No separate phase ladder needed here — the course (`course/00-master-curriculum.md`) already is one, complete with its own progression rules (Competent+ to advance, spaced-repetition maintenance, performance-based pacing). Treat each of the 20 sections as a Phase row in the Phases database, Order = section number, Definition of Done = "Exit assessment at Competent-to-Advanced level" (the course's own bar, not an invented one). See `04-personal-development-integration.md` for the concrete current position and next steps.
+No change to the ladder itself (still the course's own 20 sections — see `04-personal-development-integration.md`), except the daily allocation is now a full **1 hour**, matching the course's own "1-Hour Daily Engine" design exactly — no more splitting a 60-minute session across days.
 
-## 8. WHAT HAPPENS TO TIME WHEN A COURSE PHASE ENDS — worked example
+## 6. CRYPTO — unlock criteria (unchanged)
 
-Say Trading's course phase (Phase 1) completes in ~2 months and moves to Phase 2 (Backtesting) at 3–4 hrs/day instead of 5. That frees 1–2 hours. Redistribution priority order (apply this same order any time a pillar frees up time):
-1. First, into whichever *other* course-phase pillar is furthest behind or most time-starved (commonly AI Agency or Uniform Agency, still at 2 hrs/day).
-2. Then, into Personal Development (brief section 16 explicitly wants PD time to grow once other courses free capacity).
-3. Only after 1–2 are satisfied, consider a new commitment (e.g. unlocking Crypto, per §6's criteria).
-Never let freed time simply evaporate into more YouTube or reading time by default — those already have sufficient allocation for their actual requirements (2 videos/week; 1 hr/day).
+Stays 🔒 Locked until: Trading reaches Phase 20 (Prop-Firm Readiness) or later, AND at least one full month of consistent, rule-adherent trading is logged, AND you explicitly decide to unlock it. When unlocked, build its phase ladder the same way as the other three once its course content is supplied.
+
+## 7. AI AUTOMATION AGENCY — now also locked/future
+
+No longer part of the daily schedule. When you're ready to revisit it: send the course content the same way you did for Trading/Outsourcing/YouTube, and it gets the same real-data treatment (phase ladder from the actual course, realistic time estimate, curriculum items loaded) rather than the generic placeholder ladder it had before.
+
+## 8. WHAT HAPPENS TO TIME WHEN A COURSE PHASE ENDS — worked example, updated
+
+Trading Phase 12 → Phase 13 is the first real transition: pure sequential lessons end, and the block becomes bar-replay/backtesting practice — same 5 hrs/day, materially different daily content (structured replay sessions instead of watching lesson videos). Redistribution priority order once a pillar's course phase genuinely completes and frees time:
+1. Whichever other pillar is still earliest in its course (currently: whichever of Outsourcing/YouTube has the most phases remaining).
+2. Personal Development.
+3. Only after 1–2 are satisfied, consider AI Agency or Crypto (per their unlock criteria).
