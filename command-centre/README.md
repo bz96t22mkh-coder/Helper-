@@ -41,7 +41,7 @@ Total focused work: **9.5 hrs/day, 5 days/week** — see `02-daily-schedule.md` 
 | File | What's in it |
 |---|---|
 | `00-how-to-build-in-notion.md` | **Start here to actually build it.** Click-by-click Notion instructions and how to use the CSV imports in `csv-imports/` to skip typing ~110 rows by hand. |
-| `01-notion-architecture.md` | The exact Notion build: page hierarchy, all 17 databases (incl. Finance Tracker and the new Trips/Trip Activities databases), every property + type, every relation/rollup/formula, every view/filter, templates, buttons, step-by-step construction order. |
+| `01-notion-architecture.md` | The exact Notion build: page hierarchy, all 18 databases (incl. Finance Tracker and the Trips/Trip Activities databases), every property + type, every relation/rollup/formula, every view/filter, templates, buttons, step-by-step construction order. |
 | `02-daily-schedule.md` | Your real 5 AM–bedtime weekday schedule, weekend structure, sustainability analysis, and what triggers a schedule change. |
 | `03-goals-and-phases.md` | Full goal ladder; the real Trading 22-phase ladder, Outsourcing 8-phase/21-module ladder, YouTube 4-world/24-module ladder with its own priority tiers, Personal Development's 20 sections, and unlock criteria for AI Agency/Crypto. |
 | `04-personal-development-integration.md` | Concrete Day 1–6 content pulled directly from `course/01-meta-learning.md`, now at the confirmed full 1 hr/day. |

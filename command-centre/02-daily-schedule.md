@@ -17,7 +17,7 @@ This is a full hour less than the previous 10-hour plan, and it only runs 5 days
 
 Add gym (~50 min), morning/evening routine (~45 min), meals (~90 min), and micro-breaks inside the focus blocks (~60 min for a 9.5-hour day). **Total wall-clock time from wake to lights-out: roughly 15.5 hours.** Waking at 5:00 AM puts you asleep by **~9:00 PM, giving 8 hours of sleep** — a real improvement over the earlier estimate.
 
-**Verdict: sustainable on weekdays, with real recovery built in on weekends** (see §5). Sleep stays non-negotiable regardless.
+**Verdict: sustainable on weekdays, with real recovery built in on weekends** (see §4). Sleep stays non-negotiable regardless.
 
 ## 2. The core rule (do not violate this)
 

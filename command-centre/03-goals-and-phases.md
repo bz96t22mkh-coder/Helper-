@@ -169,7 +169,7 @@ Your fuller life picture includes things that genuinely matter but **don't belon
 | 🥾 Hiking | 1-Year Goal + weekend slot | 1–2x/month, rotating into Saturday's free block — the sole occupant of that slot for now (see Tennis below) |
 | 🍳 Cooking & Baking | 1-Year Goal + weekend slot | Weekly, Sunday afternoon — pairs naturally with meal-prep for the week ahead |
 | 🎉 Social life (parties, going out) | 1-Year Goal | Weekend evenings — deliberately unscheduled, this is exactly the kind of thing a rigid time-block would kill |
-| ✈️ Travel | 1-Year/3-Year Goal | Planned around course/business milestones (e.g. after a 90-Day Review), not weekly — actual trips (dates, activities, itinerary) now live in the dedicated **Trips & Trip Activities** databases, `01-notion-architecture.md` §14 |
+| ✈️ Travel | 1-Year/3-Year Goal | Planned around course/business milestones (e.g. after a 90-Day Review), not weekly — actual trips (dates, activities, itinerary) now live in the dedicated **Trips & Trip Activities** databases, `01-notion-architecture.md` §15 |
 | 🎾 Tennis / a sport | **Future** — confirmed target: start by end of this year (2026) | No weekend slot yet. Revisit at the Q4/end-of-year review — that's when it moves from Future to Active and claims Saturday's free block |
 | 🎹 Piano | **Future**, no fixed date — "later down the line" | Goals database, Status = `Future` — revisit once your 4 active course-phase pillars have progressed (a natural check-in point: your first 90-Day Review) |
 

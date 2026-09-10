@@ -35,7 +35,7 @@ Create one parent page called **🧭 Command Centre**. Everything else is a sub-
 └── ⏱️ Weekly Time Summary                (database — Planned vs Actual)
 ```
 
-17 databases total. That's the whole system — nothing else gets created later without a specific reason.
+18 databases total (Goals, Pillars, Phases, Courses, Curriculum Items, Projects, Tasks, Habit Tracker, Trade Journal, Backtest Log, Strategies, YouTube Pipeline, Reading Log, Finance Tracker, Trips, Trip Activities, Reviews, Weekly Time Summary), organized into 19 numbered sections below (some sections cover more than one database, e.g. §11 covers all 3 Trading databases). That's the whole system — nothing else gets created later without a specific reason.
 
 ---
 
@@ -250,7 +250,7 @@ That's 11 — matches your brief's list, no invented habits. **View:** Calendar 
 
 **Strategies:** Name, Rules (Text, long-form), Status (Select: `Testing`, `Validated`, `Live`), Backtest Win Rate (Rollup — % of related Backtest Log rows where Outcome = Win), Live Win Rate (same rollup from Trade Journal).
 
-Weekly/Monthly Review questions for trading live inside the shared **Reviews** database (§15) — no separate database needed, that would just duplicate structure.
+Weekly/Monthly Review questions for trading live inside the shared **Reviews** database (§16) — no separate database needed, that would just duplicate structure.
 
 ---
 
@@ -272,7 +272,26 @@ Platform choice (brief section 15), decided so you don't have to debate it weekl
 
 ---
 
-## 13. 💰 Finance Tracker
+## 13. 📚 Reading Log
+
+| Property | Type | Notes |
+|---|---|---|
+| Name | Title | Book title |
+| Author | Text | |
+| Status | Select | `Want to Read`, `Reading`, `Completed`, `Paused`, `DNF` |
+| Current Chapter/Page | Text | e.g. "Ch. 7" or "p. 142" |
+| Pages / Time | Number | Total pages, or estimated hours — whichever you'd rather track |
+| Key Ideas | Text | Running list as you read |
+| Lessons | Text | What you're taking from it |
+| Practical Application | Text | What you're actually going to do differently because of it |
+| Date Completed | Date | |
+| Rating | Select | `★☆☆☆☆` through `★★★★★` |
+
+**View — "Currently Reading":** filter `Status = Reading`, should show exactly one book most of the time — this is what your 30-min daily Reading block points to.
+
+---
+
+## 14. 💰 Finance Tracker
 
 Full usage detail lives in `05-finance-habits-reviews.md` §1 — this is the property spec.
 
@@ -293,7 +312,7 @@ Full usage detail lives in `05-finance-habits-reviews.md` §1 — this is the pr
 
 ---
 
-## 14. 🧳 Travel — Trips & Trip Activities
+## 15. 🧳 Travel — Trips & Trip Activities
 
 You asked for this directly: future trips, when you're going, and what you'll actually be doing. Two related databases, same pattern as Courses → Curriculum Items — one row per trip, many activity rows per trip.
 
@@ -335,7 +354,7 @@ This lives under its own **🧳 Travel** page (a sub-page of Command Centre, or 
 
 ---
 
-## 15. 📝 Reviews (one database, five types)
+## 16. 📝 Reviews (one database, five types)
 
 | Property | Type | Notes |
 |---|---|---|
@@ -354,7 +373,7 @@ Use **Templates** (Notion's built-in per-database template button) so each revie
 
 ---
 
-## 16. ⏱️ Weekly Time Summary
+## 17. ⏱️ Weekly Time Summary
 
 One row per week per Pillar.
 
@@ -370,7 +389,7 @@ This feeds your Weekly/Monthly Review's "Planned vs Actual" section without you 
 
 ---
 
-## 17. THE TODAY DASHBOARD PAGE
+## 18. THE TODAY DASHBOARD PAGE
 
 This is not a database — it's a page with **linked database views** embedded, so it stays visually clean per brief section 19.
 
@@ -384,7 +403,7 @@ Nothing else goes on this page. If a Task isn't scheduled for today, it does not
 
 ---
 
-## 18. STEP-BY-STEP CONSTRUCTION ORDER
+## 19. STEP-BY-STEP CONSTRUCTION ORDER
 
 1. Create the parent page **🧭 Command Centre**.
 2. Create **Pillars** database, add the 8 rows from §2.
@@ -398,11 +417,11 @@ Nothing else goes on this page. If a Task isn't scheduled for today, it does not
 10. Create **Habit Tracker**, add today's row.
 11. Create **Trade Journal**, **Backtest Log**, **Strategies** (relate Backtest Log → Strategies).
 12. Create **YouTube Pipeline**.
-13. Create **Reading Log** (Title, Author, Status select, Current Chapter, Notes, Key Ideas, Rating).
-14. Create **Finance Tracker** per §13's property table.
-15. Create **Trips** and **Trip Activities** per §14 — relate Trip Activities → Trips, add the Days Until formula, build the "Upcoming" view.
+13. Create **Reading Log** per §13's property table.
+14. Create **Finance Tracker** per §14's property table.
+15. Create **Trips** and **Trip Activities** per §15 — relate Trip Activities → Trips, add the Days Until formula, build the "Upcoming" view.
 16. Create **Reviews**, build the 5 templates.
 17. Create **Weekly Time Summary**.
-18. Build the **TODAY** page (§17) last, once every database it links to exists.
+18. Build the **TODAY** page (§18) last, once every database it links to exists.
 
 Total one-time build time: roughly 2–3 hours for someone who has never used Notion, most of it in steps 8–15 (typing property names). Steps 1–7 are the ones that matter most to get right since everything else relates back to them.
