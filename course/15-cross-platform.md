@@ -40,7 +40,13 @@ Relying on YouTube's algorithm alone, especially early on, means your growth is 
 - A Short and a TikTok made from the same source clip: the Short uses your standard branded caption style; the TikTok version uses a trending sound/format layered under the same clip content, adjusted just enough to feel native to that platform's culture.
 - A Discord teaser posted the morning of a big video launch, paired with an Instagram Story countdown and an X post with a striking still frame — same launch, three platform-appropriate touchpoints, one piece of core content.
 
-## 8. Weekly cross-platform content system
+## 8. Exercises
+
+1. Pick one long-form video you've already made (or planned) and list the specific platform-native adjustment you'd make to the same clip for TikTok vs. Instagram Reels vs. a YouTube Short — they shouldn't be identical.
+2. Write one light-touch CTA and one aggressive, hard-sell CTA for the same piece of content. Notice the difference in how each would likely land, and default to the light-touch version in practice.
+3. Spend 15 minutes in a subreddit or Discord relevant to your niche, purely observing (per Section 3) — note 2 recurring questions or debates that could become Module 6 video ideas.
+
+## 9. Templates — the weekly cross-platform content system
 
 ```
 LONG-FORM VIDEO (1x per week, per Module 23) produces:
@@ -52,7 +58,7 @@ LONG-FORM VIDEO (1x per week, per Module 23) produces:
   → Ongoing (not tied to one video): 2–3 original short-form posts across the week (trend reactions, quick bits) to keep platforms active between long-form drops
 ```
 
-## 9. Checklist
+## 10. Checklist
 
 - [ ] Every long-form upload has a mapped cross-platform distribution plan, not an afterthought
 - [ ] Captions/format adjusted per platform, not identical copy-paste everywhere
@@ -60,21 +66,21 @@ LONG-FORM VIDEO (1x per week, per Module 23) produces:
 - [ ] CTAs are light-touch and not present in every single post
 - [ ] Discord/Reddit engagement is participatory, not just self-promotional
 
-## 10. Common mistakes
+## 11. Common mistakes
 
 - Treating every platform as a billboard for YouTube instead of building native value on each.
 - Going all-in on one extra platform (usually TikTok) and completely neglecting community-depth platforms (Discord, X) that build loyalty rather than just discovery.
 - Posting inconsistently on short-form platforms — the format rewards frequency more than long-form does, so occasional posting underperforms disproportionately.
 
-## 11. What beginners waste time on
+## 12. What beginners waste time on
 
 - Trying to be equally active on every single platform from day one instead of prioritizing 1–2 discovery platforms and 1 community-depth platform first, expanding once the pipeline (Module 14) is running smoothly.
 - Manually re-editing full unique content for every platform instead of using the repurposing pipeline with light platform-specific adjustments.
 
-## 12. Homework
+## 13. Homework
 
-Build your first Weekly Cross-Platform Content System map (Section 8) using your next planned long-form video as the source.
+Build your first Weekly Cross-Platform Content System map (Section 9) using your next planned long-form video as the source.
 
-## 13. Checkpoint
+## 14. Checkpoint
 
-You should be able to name, for your next long-form upload, at least 4 distinct pieces of cross-platform content it will produce and which platform each targets. If you can only name "post it on socials too" with no specifics, redo Section 8.
+You should be able to name, for your next long-form upload, at least 4 distinct pieces of cross-platform content it will produce and which platform each targets. If you can only name "post it on socials too" with no specifics, redo Section 9.

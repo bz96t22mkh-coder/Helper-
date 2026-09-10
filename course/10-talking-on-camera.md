@@ -144,7 +144,7 @@ Your style emerges from your natural rhythm, vocabulary, and humor type (Module 
 - Instead of silent focus during a hard game section: "okay if I mess this up one more time I'm actually going to throw my controller — no, okay, focus, focus—" (Technique 2 + Technique 12 combined).
 - Instead of "that's crazy" on repeat: "that's crazy — genuinely didn't think they'd go there, that's either brilliant or the dumbest thing I've seen today" (exclamation immediately followed by a Technique 7 opinion).
 
-## 19. The 30-day daily speaking and entertainment practice program
+## 19. Exercises — the 30-day daily speaking and entertainment practice program
 
 Do these daily, 10–20 minutes each, recorded (you must watch playback — that's where the actual learning happens). Each block trains specific techniques from Sections 3–14 — apply the named mechanism deliberately, don't just "try to talk more."
 

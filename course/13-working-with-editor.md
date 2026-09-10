@@ -42,7 +42,13 @@ Once you and your editor land on a style that performs well (check retention, Mo
 - Instead of "make it funnier," give: "at 2:14 add emphasis (zoom/sound cue) on the line where I say [X] — that's the joke, it's currently underplayed."
 - Instead of a folder of clips named IMG_0001–IMG_0047, provide: `2024-06-14_HorrorGame_EP3/` with the main session file and a short notes.txt listing flagged timestamps and what happens at each.
 
-## 9. Editor brief template
+## 9. Exercises
+
+1. Take a video you've already filmed (or one you're about to film) and write out the emotional arc/tone breakdown for it — hook, each body segment, ending — exactly as if you were handing it to an editor right now, even before you have one. Building this habit before it's required means it's already automatic once it matters.
+2. Rewrite three pieces of vague feedback ("make it pop more," "this feels off," "punch it up") into specific, timestamped notes using the what's-wrong + why + what-to-do-instead structure from Section 6.
+3. Draft a one-page standing style guide (captions, SFX usage, transition style, brand colors and fonts per Module 2) you could hand an editor once so these decisions never need repeating per video.
+
+## 10. Editor brief template
 
 ```
 VIDEO: ___
@@ -60,7 +66,7 @@ Reference video(s) for pacing/tone: ___
 Deadline: ___
 ```
 
-## 10. Checklist
+## 11. Checklist
 
 - [ ] Editor has standing access to brand one-pager and style guide (not re-explained per video)
 - [ ] Raw footage organized and clearly named
@@ -68,22 +74,22 @@ Deadline: ___
 - [ ] Feedback given in one consolidated, timestamped pass
 - [ ] Feedback distinguishes objective fixes from subjective preferences
 
-## 11. Common mistakes
+## 12. Common mistakes
 
 - Giving vague feedback ("make it pop more") with no specifics or timestamps.
 - Sending scattered feedback messages across multiple days instead of one consolidated pass, causing repeated re-renders.
 - Never establishing a standing style guide, forcing the same creative decisions to be renegotiated every single video.
 - Withholding context on jokes/references, leading the editor to cut or mis-time the exact moments meant to land hardest.
 
-## 12. What beginners waste time on
+## 13. What beginners waste time on
 
 - Trying to learn enough editing software to "just do it myself instead of explaining" — defeats the purpose of having an editor; invest in communication skill instead.
 - Endless minor revision rounds on subjective taste calls instead of trusting a settled style guide and saving feedback rounds for real misses.
 
-## 13. Homework
+## 14. Homework
 
 Write a complete Editor Brief for your next video and send it to your editor before they start cutting. After the first draft comes back, give one consolidated, timestamped feedback pass using the objective/subjective distinction from Section 6.
 
-## 14. Checkpoint
+## 15. Checkpoint
 
 You should be able to send a brief that requires no more than 1–2 feedback rounds to reach a publishable cut. If you're consistently needing 4+ rounds, the brief itself (not the editor) is likely the problem — revise your brief template with more specificity before the next video.

@@ -4,7 +4,11 @@
 
 This module converts everything in Modules 1–22 into one repeatable weekly loop. Once this system is running, you're no longer relearning your process every week — you're executing a known pipeline and only making genuinely new decisions where they matter.
 
-## 2. The full pipeline
+## 2. Why it matters
+
+Without a repeatable system, every video re-starts every decision from zero — what to make, how to title it, how to brief the editor — which is slow, inconsistent, and exhausting to sustain. Consistency is one of the biggest levers you actually control (Module 18), and a working weekly pipeline is what turns "I make videos sometimes" into "I run a channel."
+
+## 3. The full pipeline
 
 ```
 IDEA → RESEARCH → TITLE → THUMBNAIL CONCEPT → SCRIPT/PLAN →
@@ -12,7 +16,7 @@ FILM → SEND TO EDITOR → REVIEW → UPLOAD → SHORTS →
 TIKTOK/REELS → PROMOTION → ANALYTICS → IMPROVE
 ```
 
-## 3. Stage-by-stage: what to actually do
+## 4. Stage-by-stage: what to actually do
 
 ### IDEA (Module 6)
 Pull from your running weekly idea-capture sheet. Score candidates with the Idea Scoring System. Select this week's video(s).
@@ -56,7 +60,7 @@ Log the video in your Per-Video Analytics Log once meaningful data accumulates (
 ### IMPROVE (Module 11/17/21)
 Run the diagnostic chain on this video's results. Note one specific, testable change to carry into next week's IDEA stage — closing the loop.
 
-## 4. Weekly time-blocking template
+## 5. Weekly time-blocking template
 
 Adapt to your real schedule and cadence (weekly, twice-weekly, etc.) — the point is that each stage has a designated slot, not that it happens whenever there's spare time.
 
@@ -72,42 +76,42 @@ Adapt to your real schedule and cadence (weekly, twice-weekly, etc.) — the poi
 [Day] Weekly analytics review (Module 17 checklist): ___
 ```
 
-## 5. Examples
+## 6. Examples
 
 - A creator blocks Monday for idea review/scoring, Tuesday for scripting and thumbnail brief, Wednesday for filming, sends the editor brief same-day, reviews the cut Friday, uploads Saturday, and runs Shorts/cross-platform posting through the following week while starting the next idea cycle Monday.
 
-## 6. Exercises
+## 7. Exercises
 
 1. Fill out the Weekly Time-Blocking Template with your actual real-world available days/hours.
 2. Run one full cycle of the pipeline end-to-end for a single video, tracking how long each stage actually takes you.
 3. Identify your slowest/most friction-heavy stage and name one specific fix (often: unclear editor briefs, indecisive title selection, or filming without a plan).
 
-## 7. Templates
+## 8. Templates
 
-Use the pipeline diagram (Section 2) and time-blocking template (Section 4) directly as your operating system — copy both into your own calendar/task tool.
+Use the pipeline diagram (Section 3) and time-blocking template (Section 5) directly as your operating system — copy both into your own calendar/task tool.
 
-## 8. Checklist
+## 9. Checklist
 
 - [ ] Every pipeline stage has a designated time block, not an "whenever" approach
 - [ ] Idea stage always pulls from a maintained backlog (Module 6), not last-minute panic
 - [ ] Editor brief and feedback stages follow Module 13's process consistently
 - [ ] Analytics/Improve stage actually closes the loop into next week's Idea stage
 
-## 9. Common mistakes
+## 10. Common mistakes
 
 - Running the pipeline stages out of order (e.g., filming before scripting, or picking a thumbnail concept after editing is already done) — creates avoidable rework.
 - Skipping the Improve stage entirely, so each week starts from zero instead of building on the last video's diagnosed lessons.
 - No fixed time blocks, causing stages to get skipped or rushed under time pressure.
 
-## 10. What beginners waste time on
+## 11. What beginners waste time on
 
 - Redesigning their workflow from scratch every week instead of trusting a settled system and only adjusting it deliberately (e.g., during Module 21 checkpoints).
 - Trying to parallelize every stage in one day instead of spreading them across the week, leading to rushed, lower-quality output at each stage.
 
-## 11. Homework
+## 12. Homework
 
 Run one complete pipeline cycle using the Weekly Time-Blocking Template, timing each stage honestly.
 
-## 12. Checkpoint
+## 13. Checkpoint
 
 You should have a filled-in weekly time-blocking template that reflects your actual schedule, and be able to name your current biggest friction point in the pipeline with a specific planned fix. If you can't identify a friction point yet, run a second full cycle before advancing.
