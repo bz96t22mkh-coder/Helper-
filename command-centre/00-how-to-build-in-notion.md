@@ -49,7 +49,7 @@ CSV import makes every column plain **Text**. You need to change some to their r
 
 ## 4. Add the databases that don't need pre-loaded rows
 
-These start empty — create them directly (Command Centre page → `/table` → **Table - Full page**, name it, then add properties one by one via the **+** at the right end of the column headers): **Courses**, **Projects**, **Tasks**, **Habit Tracker**, **Trade Journal**, **Backtest Log**, **Strategies**, **YouTube Pipeline**, **Reading Log**, **Finance Tracker**, **Reviews**, **Weekly Time Summary**. Full property lists for every one of these are in `01-notion-architecture.md` §2–§14 — go column by column, typing the property name then picking its Type from the dropdown.
+These start empty — create them directly (Command Centre page → `/table` → **Table - Full page**, name it, then add properties one by one via the **+** at the right end of the column headers): **Courses**, **Projects**, **Tasks**, **Habit Tracker**, **Trade Journal**, **Backtest Log**, **Strategies**, **YouTube Pipeline**, **Reading Log**, **Finance Tracker**, **Trips**, **Trip Activities**, **Reviews**, **Weekly Time Summary**. Full property lists for every one of these are in `01-notion-architecture.md` §2–§16 — go column by column, typing the property name then picking its Type from the dropdown. **Trips/Trip Activities** (§14) is where your future trips and their planned activities live — start empty and add a row each time you're thinking about a trip, no need to front-load anything.
 
 For **Courses**, add these 4 rows by hand (only 4, faster than a CSV, all ✅ Available now): Personal Development Mastery Course, Day Trading Course, Outsourcing Course, YouTube Course.
 
@@ -64,7 +64,7 @@ This is the part CSV import can't do — do it once per database, it only takes 
 
 ## 6. Build the views and the Today dashboard
 
-For each database, click **+ Add a view** at the top to create the Table/Board views listed in `01-notion-architecture.md` (e.g. Tasks → "Today" view: Filter → `Date` → `is` → `Today`; Group by → `Pillar`; Sort → `Priority`). Then build the **TODAY** page last (§15 of that file) by going to your Command Centre page, typing `/` → **Linked view of database** → picking Tasks' "Today" view, and repeating for Phases' "Active Only" view and today's Habit Tracker row.
+For each database, click **+ Add a view** at the top to create the Table/Board views listed in `01-notion-architecture.md` (e.g. Tasks → "Today" view: Filter → `Date` → `is` → `Today`; Group by → `Pillar`; Sort → `Priority`; Trips → "Upcoming" view: Filter → `Start Date` → `is on or after` → `Today`, sorted ascending). Then build the **TODAY** page last (§17 of that file) by going to your Command Centre page, typing `/` → **Linked view of database** → picking Tasks' "Today" view, and repeating for Phases' "Active Only" view and today's Habit Tracker row.
 
 ---
 

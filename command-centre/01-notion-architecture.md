@@ -28,11 +28,14 @@ Create one parent page called **🧭 Command Centre**. Everything else is a sub-
 ├── 🎥 YouTube Pipeline                   (database)
 ├── 📚 Reading Log                        (database)
 ├── 💰 Finance Tracker                    (database)
+├── 🧳 Travel
+│   ├── Trips                             (database)
+│   └── Trip Activities                   (database — related to Trips)
 ├── 📝 Reviews                            (database — Daily/Weekly/Monthly/90-Day/Yearly)
 └── ⏱️ Weekly Time Summary                (database — Planned vs Actual)
 ```
 
-15 databases total. That's the whole system — nothing else gets created later without a specific reason.
+17 databases total. That's the whole system — nothing else gets created later without a specific reason.
 
 ---
 
@@ -247,7 +250,7 @@ That's 11 — matches your brief's list, no invented habits. **View:** Calendar 
 
 **Strategies:** Name, Rules (Text, long-form), Status (Select: `Testing`, `Validated`, `Live`), Backtest Win Rate (Rollup — % of related Backtest Log rows where Outcome = Win), Live Win Rate (same rollup from Trade Journal).
 
-Weekly/Monthly Review questions for trading live inside the shared **Reviews** database (§13) — no separate database needed, that would just duplicate structure.
+Weekly/Monthly Review questions for trading live inside the shared **Reviews** database (§15) — no separate database needed, that would just duplicate structure.
 
 ---
 
@@ -269,7 +272,70 @@ Platform choice (brief section 15), decided so you don't have to debate it weekl
 
 ---
 
-## 13. 📝 Reviews (one database, five types)
+## 13. 💰 Finance Tracker
+
+Full usage detail lives in `05-finance-habits-reviews.md` §1 — this is the property spec.
+
+| Property | Type | Notes |
+|---|---|---|
+| Name | Title | e.g. "Outsourcing — September 2026" |
+| Category | Select | `Trading`, `Outsourcing`, `YouTube`, `Personal` (add `AI Agency` back if/when it unlocks) |
+| Month | Date | |
+| Revenue | Number (currency) | Business categories only |
+| Expenses | Number (currency) | |
+| Profit | Formula | `prop("Revenue") - prop("Expenses")` |
+| Payouts (Trading only) | Number (currency) | Funded-account payouts |
+| Savings | Number (currency) | Personal category only |
+| Personal Expenses | Number (currency) | Personal category only |
+| Notes | Text | |
+
+**Views:** "By Category, this month" (Board grouped by Category, filtered to current month), "Trend" (Table sorted by Month, Sum calculation turned on at the bottom for a running total).
+
+---
+
+## 14. 🧳 Travel — Trips & Trip Activities
+
+You asked for this directly: future trips, when you're going, and what you'll actually be doing. Two related databases, same pattern as Courses → Curriculum Items — one row per trip, many activity rows per trip.
+
+### Trips
+
+| Property | Type | Notes |
+|---|---|---|
+| Name | Title | e.g. "Bali — January 2027" |
+| Destination | Text | |
+| Status | Select | `Idea`, `Planning`, `Booked`, `In Progress`, `Completed`, `Cancelled` |
+| Start Date | Date | |
+| End Date | Date | |
+| Duration | Formula | `dateBetween(prop("End Date"), prop("Start Date"), "days")` |
+| Days Until | Formula | `dateBetween(prop("Start Date"), now(), "days")` — a live countdown |
+| Companions | Text or Multi-select | Who's coming |
+| Budget | Number (currency) | Planned |
+| Actual Cost | Number (currency) | Filled in after booking |
+| Goal | Relation → Goals | Point at your "Travel" 1-Year goal from `03-goals-and-phases.md` §9 |
+| Notes | Text | |
+
+### Trip Activities
+
+| Property | Type | Notes |
+|---|---|---|
+| Name | Title | e.g. "Snorkeling at Menjangan Island" |
+| Trip | Relation → Trips | |
+| Date | Date | Which day of the trip |
+| Category | Select | `Sightseeing`, `Food`, `Adventure`, `Culture`, `Relaxation`, `Nightlife`, `Logistics/Transport` |
+| Status | Select | `Idea`, `Booked`, `Confirmed`, `Done` |
+| Cost | Number (currency) | |
+| Booking Link / Notes | Text or URL | |
+
+**Views:**
+- **Trips → "Upcoming"** — Table, filter `Start Date is on or after Today`, sort ascending. This answers "when am I going" at a glance, and the `Days Until` formula gives you a live countdown per trip.
+- **Trips → "By Status"** — Board grouped by Status, so Idea vs. actually Booked trips don't blur together.
+- **Trip Activities → "By Trip"** — Table grouped by Trip, sorted by Date, so each trip's itinerary reads top to bottom like a real day-by-day plan.
+
+This lives under its own **🧳 Travel** page (a sub-page of Command Centre, or nested under Vision & Goals next to your Travel goal) — it does **not** need to appear on the Today dashboard. Travel isn't a daily driver like Trading or Outsourcing; it's fine for it to live one click away and only get attention when you're actually planning or about to go. If you want a light reminder anyway, add one optional line to the Today page: a linked view of Trips → "Upcoming", limited to 1 row, so your next trip's countdown is visible without cluttering the dashboard with full itinerary detail.
+
+---
+
+## 15. 📝 Reviews (one database, five types)
 
 | Property | Type | Notes |
 |---|---|---|
@@ -288,7 +354,7 @@ Use **Templates** (Notion's built-in per-database template button) so each revie
 
 ---
 
-## 14. ⏱️ Weekly Time Summary
+## 16. ⏱️ Weekly Time Summary
 
 One row per week per Pillar.
 
@@ -304,7 +370,7 @@ This feeds your Weekly/Monthly Review's "Planned vs Actual" section without you 
 
 ---
 
-## 15. THE TODAY DASHBOARD PAGE
+## 17. THE TODAY DASHBOARD PAGE
 
 This is not a database — it's a page with **linked database views** embedded, so it stays visually clean per brief section 19.
 
@@ -318,7 +384,7 @@ Nothing else goes on this page. If a Task isn't scheduled for today, it does not
 
 ---
 
-## 16. STEP-BY-STEP CONSTRUCTION ORDER
+## 18. STEP-BY-STEP CONSTRUCTION ORDER
 
 1. Create the parent page **🧭 Command Centre**.
 2. Create **Pillars** database, add the 8 rows from §2.
@@ -333,9 +399,10 @@ Nothing else goes on this page. If a Task isn't scheduled for today, it does not
 11. Create **Trade Journal**, **Backtest Log**, **Strategies** (relate Backtest Log → Strategies).
 12. Create **YouTube Pipeline**.
 13. Create **Reading Log** (Title, Author, Status select, Current Chapter, Notes, Key Ideas, Rating).
-14. Create **Finance Tracker** (Month, Pillar relation, Revenue, Expenses, Profit formula = Revenue−Expenses; add a Savings/Personal row type via a `Category` select for non-business rows).
-15. Create **Reviews**, build the 5 templates.
-16. Create **Weekly Time Summary**.
-17. Build the **TODAY** page (§15) last, once every database it links to exists.
+14. Create **Finance Tracker** per §13's property table.
+15. Create **Trips** and **Trip Activities** per §14 — relate Trip Activities → Trips, add the Days Until formula, build the "Upcoming" view.
+16. Create **Reviews**, build the 5 templates.
+17. Create **Weekly Time Summary**.
+18. Build the **TODAY** page (§17) last, once every database it links to exists.
 
 Total one-time build time: roughly 2–3 hours for someone who has never used Notion, most of it in steps 8–15 (typing property names). Steps 1–7 are the ones that matter most to get right since everything else relates back to them.

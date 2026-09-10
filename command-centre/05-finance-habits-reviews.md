@@ -2,7 +2,7 @@
 
 ## 1. Finance Tracker — detail
 
-Database spec is in `01-notion-architecture.md` §14; here's how to actually use it.
+Database spec is in `01-notion-architecture.md` §13; here's how to actually use it.
 
 | Property | Type | Notes |
 |---|---|---|
@@ -45,7 +45,7 @@ That's 11, matching your brief's own list exactly. Resist adding "meditation," "
 
 ## 3. Reviews — the exact question sets to put in each Notion template
 
-Build these as **database templates** on the Reviews database (`01-notion-architecture.md` §13) so each new review pre-fills with its questions.
+Build these as **database templates** on the Reviews database (`01-notion-architecture.md` §15) so each new review pre-fills with its questions.
 
 ### Daily Review template
 - What did I complete?
