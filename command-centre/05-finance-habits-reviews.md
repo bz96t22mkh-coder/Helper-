@@ -64,6 +64,7 @@ Build these as **database templates** on the Reviews database (`01-notion-archit
 - Personal development progress
 - Fitness (gym adherence, sleep quality)
 - Reading progress
+- Social & hobbies — did I do something social this week? Did I do a hobby (hiking/cooking)? (see `07-life-pillars-and-social-life.md`)
 - Planned vs. Actual time (pull from Weekly Time Summary)
 - Next week's top 3 priorities
 
@@ -89,6 +90,7 @@ Build these as **database templates** on the Reviews database (`01-notion-archit
 8. What should I continue?
 9. What are my next 90-day goals?
 10. How should my time allocation change?
+11. Re-score your Life Wheel (`07-life-pillars-and-social-life.md`) — any pillar stuck low for 2 reviews running is your signal to actually act, not just note it again.
 
 ### Yearly Review template
 - Full re-read of the Life Vision and 5-Year Goals — still accurate?
