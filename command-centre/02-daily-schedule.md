@@ -47,16 +47,19 @@ Add gym (~50 min), morning/evening routine (~45 min), meals (~90 min), and micro
 
 Every block above is a **learning/course block right now** — Trading, Outsourcing, and YouTube are all still in their course phase (see `03-goals-and-phases.md`). None of them involve live execution yet (no live trades, no client outreach, no uploads) — that's deliberate and matches all three courses' own structure of "understand before you execute."
 
-## 4. WEEKENDS (Sat–Sun) — no fixed course blocks
+## 4. WEEKENDS (Sat–Sun) — no fixed course blocks, this is where your hobbies and social life live
 
-Your 3 courses run weekdays only, per your instruction. Weekends are recovery + light maintenance, not a 7th/8th day of the same grind:
+Your 3 courses run weekdays only, per your instruction. Weekends are recovery + your hobby/social life (`03-goals-and-phases.md` §9) + light maintenance — not a 7th/8th day of the same grind:
 
 | Saturday | Sunday |
 |---|---|
 | 5 AM wake + gym (keep the habit unbroken) | 5 AM wake + gym |
 | Reading (30 min, optional extra) | Reading (30 min) |
-| Free / life admin / rest | **Weekly Review** (`05-finance-habits-reviews.md`) — 30–45 min |
+| 🥾 Hiking **or** 🎾 Tennis (rotate — pick one, not both, so neither gets squeezed) | 🍳 Cooking & Baking (pairs with meal-prep for the week ahead) |
+| Free / social life / life admin | **Weekly Review** (`05-finance-habits-reviews.md`) — 30–45 min |
 | Optional: catch up on any carried-over weekday lesson | Optional: Habit Tracker + Weekly Time Summary review |
+
+Saturday evening and Sunday are deliberately left open for the things a rigid schedule would otherwise kill — parties, going out, seeing people. Don't timebox those; the whole point of confirming them as goals rather than tasks is that they don't need a task card to happen. Travel gets planned separately, around milestones (see `03-goals-and-phases.md` §9), not squeezed into a weekend template.
 
 If you want YouTube filming to happen on a weekend instead of competing with a weekday course block once you're producing real videos (not just doing the course), that's a reasonable adjustment to make **at the phase transition** when YouTube moves from course→production — not before.
 

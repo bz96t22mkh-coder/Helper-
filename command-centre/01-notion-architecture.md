@@ -162,7 +162,7 @@ One database, self-relating, holds the entire ladder from your brief section 21/
 | Level | Select | `Life Vision`, `5-Year`, `3-Year`, `1-Year`, `90-Day`, `Monthly`, `Weekly` |
 | Parent Goal | Relation → Goals (self) | Links a Weekly goal up to its Monthly goal, up to its 90-Day goal, etc. |
 | Pillar | Relation → Pillars | |
-| Status | Select | `Active`, `Achieved`, `Dropped`, `Superseded` |
+| Status | Select | `Active`, `Achieved`, `Dropped`, `Superseded`, `Future` (goals you've deliberately deferred, like Piano — tracked but not yet competing for time; see `03-goals-and-phases.md` §9) |
 | Target Date | Date | |
 | Success Criteria | Text | Objective, checkable |
 

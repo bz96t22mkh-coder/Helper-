@@ -23,6 +23,8 @@ Update the Pillars database: change AI Automation Agency's Priority to `🔒 Loc
 Life Vision → 5-Year → 3-Year → 1-Year → 90-Day Goals → Monthly → Weekly → Projects → Tasks → Daily Actions
 ```
 
+**Life Vision (write once, revisit yearly) — updated with your full picture:** Financially independent across 5 income streams — day trading, crypto (once unlocked), YouTube, the AI automation agency (once unlocked), and the outsourcing business; a highly capable communicator with C2-level English, strong social/leadership/negotiation/strategic-thinking skills; consistently fit with an active hobby life (gym, hiking, tennis, cooking/baking); a rich social life with real travel; and, once the income streams are established, room for piano and the slower pleasures. See §9 for how the hobbies/social/future items fit in without disrupting the working schedule.
+
 **Updated first 90-Day Goals:**
 1. Complete Trading Phases 1–12 (the full core-model curriculum — see §2) and begin Phase 13/14 (Bar Replay + Backtesting).
 2. Complete Outsourcing Phases 1–3 (Foundations through Product & Supply — Days 1–33 of the course's own pacing).
@@ -156,3 +158,21 @@ Trading Phase 12 → Phase 13 is the first real transition: pure sequential less
 1. Whichever other pillar is still earliest in its course (currently: whichever of Outsourcing/YouTube has the most phases remaining).
 2. Personal Development.
 3. Only after 1–2 are satisfied, consider AI Agency or Crypto (per their unlock criteria).
+
+## 9. HOBBIES, SOCIAL LIFE & FUTURE PERSONAL GOALS
+
+Your fuller life picture includes things that genuinely matter but **don't belong as ⭐ Pillars with daily hour blocks** — turning "have a great social life" into a tracked daily task would defeat the point of it, and would violate the exact "don't overcomplicate, don't force every activity into every day" principle your original brief insisted on. Instead, these live at the **Goal level** (so they're visible and revisited at reviews) and get a real home in the schedule's existing weekend slack (`02-daily-schedule.md` §4), not a new weekday block.
+
+| Item | Where it lives | Cadence |
+|---|---|---|
+| 💪 Gym | Already a Pillar, daily | Unchanged — 5 AM, every day incl. weekends |
+| 🥾 Hiking | 1-Year Goal + weekend slot | 1–2x/month, rotating into Saturday's free block |
+| 🍳 Cooking & Baking | 1-Year Goal + weekend slot | Weekly, Sunday afternoon — pairs naturally with meal-prep for the week ahead |
+| 🎉 Social life (parties, going out) | 1-Year Goal | Weekend evenings — deliberately unscheduled, this is exactly the kind of thing a rigid time-block would kill |
+| ✈️ Travel | 1-Year/3-Year Goal | Planned around course/business milestones (e.g. after a 90-Day Review), not weekly — log trips as Projects if they need planning (bookings, itinerary) |
+| 🎾 Tennis / a sport | 1-Year Goal, **starting now** (you didn't flag this as "later") | Rotate into Saturday's free block alongside hiking — pick one per weekend rather than both, so neither gets squeezed |
+| 🎹 Piano | **Explicitly future** — you said "later down the line" | Goals database, Status = a new `Future` option (add this to the Status Select in `01-notion-architecture.md` §7) — revisit once your 4 active course-phase pillars have progressed (a natural check-in point: your first 90-Day Review) |
+
+**Add to `csv-imports/goals.csv`** (or add by hand, only 6 rows): one 1-Year goal each for Hiking, Cooking & Baking, Social Life, Travel, and Tennis (Status = Active, Target Date = end of year), plus one for Piano (Status = Future, no target date yet — it activates at a future review, not on a fixed date).
+
+**Why Tennis is treated differently from Piano:** you said "I need to play a sport as well — maybe tennis," which reads as a present want, not a deferred one, so it gets a weekend slot starting now. Piano was explicitly "later down the line," so it goes in the same Future/Locked bucket as AI Agency and Crypto — tracked, not forgotten, but not competing for time yet. If either assumption is wrong, just move the row.

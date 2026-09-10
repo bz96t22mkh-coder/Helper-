@@ -28,7 +28,7 @@ I've pre-built the row data for you as CSV files in `command-centre/csv-imports/
 - `curriculum-items-outsourcing.csv` → 21 rows, one per real module, with the course's own day ranges
 - `curriculum-items-youtube.csv` → 24 rows, one per real module, with priority tiers
 - `curriculum-items-personal-development.csv` → the real Section 1, Day 1–6 content
-- `goals.csv` → your Life Vision + 5 real starter 90-Day goals
+- `goals.csv` → your Life Vision + 5 real starter 90-Day goals + 6 hobby/lifestyle 1-Year goals (hiking, cooking, social life, travel, tennis, and piano as a deliberately Future one)
 
 **To import each one:**
 1. Open your **Command Centre** page.
