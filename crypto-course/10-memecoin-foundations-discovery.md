@@ -3,7 +3,7 @@
 **Est. length:** 5 days (10 hours). This is the start of your second full specialization — treated with the same seriousness as BTC/ETH, not as a side curiosity.
 **Prerequisite:** Modules 1–9 (you need the fundamentals, tools, mechanics, and cycle-reading skills already built). **Feeds into:** every remaining meme-coin module (11–15, 21).
 
-**Standing rule for this entire specialization:** discovering a token is not a reason to buy it. Discovery is step one of a six-step pipeline (§5); every token you find here goes through Modules 11–14 before Module 15 ever produces a trade decision.
+**Standing rule for this entire specialization:** discovering a token is not a reason to buy it. Discovery is step one of a six-step pipeline (§6); every token you find here goes through Modules 11–14 before Module 15 ever produces a trade decision.
 
 ---
 
