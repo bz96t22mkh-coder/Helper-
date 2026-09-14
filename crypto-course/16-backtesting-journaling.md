@@ -159,8 +159,8 @@ You need **Competent** to move to Module 17.
 | Segment | Min | What to do |
 |---|---|---|
 | Review | 10 | Recall both journals' current state. |
-| Lesson | 15 | Read §6.1: weekly/monthly review cadence. |
-| Practical | 35 | Run your first full weekly review on both journals per §6.1. |
+| Lesson | 15 | Read §6's Review Cadence subsection: weekly/monthly review cadence. |
+| Practical | 35 | Run your first full weekly review on both journals per §6's Review Cadence subsection. |
 | Exit assessment | 40 | Present both complete journals and answer Section 11's exit questions. |
 | Reflection | 20 | What did backfilling reveal about your own process that you hadn't noticed in the moment? |
 
