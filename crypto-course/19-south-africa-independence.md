@@ -164,4 +164,4 @@ By now, you should be able to independently answer each of these, using your own
 | Exit assessment | 80 | Answer every Section 9 question live on one real BTC/ETH setup and one real meme-coin candidate, entirely independently. |
 | Reflection | 30 | Write the Section 12 challenge (your genuine stop-trading conditions) and a short personal note on what you'll keep working on beyond this course. |
 
-**If below Competent:** repeat the independence capstone on fresh real opportunities, with Claude limited to evaluation-only feedback (per §14), until you reach it unaided. **If Competent+:** the formal course is complete — ongoing practice runs on your Module 16 journals, Module 17 risk rules, and Modules 20–21 playbooks.
+**If below Competent:** repeat the independence capstone on fresh real opportunities, with Claude limited to evaluation-only feedback (per §13), until you reach it unaided. **If Competent+:** the formal course is complete — ongoing practice runs on your Module 16 journals, Module 17 risk rules, and Modules 20–21 playbooks.

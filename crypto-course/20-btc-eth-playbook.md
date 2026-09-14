@@ -98,7 +98,7 @@
 - Journal location/tool: _______
 
 ## 19. Weekly Review
-*(Module 16 §6.1, Module 18)*
+*(Module 16 §6 Review Cadence, Module 18)*
 - My weekly review process and questions: _______
 
 ## 20. Backtesting Rules

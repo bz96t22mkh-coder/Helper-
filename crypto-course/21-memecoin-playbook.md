@@ -65,6 +65,7 @@
 - [ ] No bundled-wallet cluster pattern
 - [ ] Volume-to-liquidity ratio checked
 - [ ] No coordinated pump-group urgency signals
+- [ ] Contract address verified against a primary source, not just the name/ticker (copycat-contract check)
 - [ ] Partnerships/listings verified at primary source
 - [ ] Official URL verified manually
 - [ ] Posting accounts passed Module 11 credibility check
@@ -124,7 +125,7 @@
 - Journal location/tool: _______
 
 ## 25. Post-Trade Review
-*(Module 16 §6.1, Module 18 §7)*
+*(Module 16 §6 Review Cadence, Module 18 §7)*
 - My review cadence and questions: _______
 
 ---

@@ -9,7 +9,7 @@
 
 ## 1. What You Need to Learn
 
-What meme coins are; why they pump; why they crash; how communities and narratives form around them; how liquidity, market cap, supply, and holder distribution affect price; the real difference between BTC/ETH trading, liquid-altcoin trading, and meme-coin trading; how skilled meme-coin traders actually find opportunities (X/Twitter, DEX analytics, token scanners, explorers, wallet trackers, trending lists, volume/liquidity changes, new launches, narrative shifts); and the six-step Discovery→Validation→Trade Setup→Execution→Management→Exit pipeline that governs every token you find, so discovering something never gets confused with deciding to trade it.
+What meme coins are; why they pump; why they crash; how communities and narratives form around them; how liquidity, market cap, supply, and holder distribution affect price; the real difference between BTC/ETH trading, liquid-altcoin trading, and meme-coin trading; how skilled meme-coin traders actually find opportunities (trending and new-pair lists, volume/liquidity changes, social-momentum monitoring, new launches, narrative shifts — with the deeper due-diligence tools like token scanners, explorers, and wallet trackers covered once discovery hands off to validation in Modules 12–14); and the six-step Discovery→Validation→Trade Setup→Execution→Management→Exit pipeline that governs every token you find, so discovering something never gets confused with deciding to trade it.
 
 ## 2. Why It Matters
 
