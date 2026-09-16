@@ -25,7 +25,7 @@ This toolkit is deliberately *not* one all-in-one platform — no such platform 
 
 A centralized exchange (CEX) is a custodial on-ramp between the ZAR in your bank account and crypto: until you withdraw, the exchange holds your funds and your account is a claim against their ledger, not direct ownership ("not your keys, not your coins," §3.2). South Africa's FSCA began regulating crypto asset service providers (CASPs) in June 2023. KYC (ID document + proof of address) is the legal mechanism letting a licensed CASP move fiat in and out of the regulated banking system on your behalf.
 
-| Tool | What it does | Why you need it | Free/Paid | Difficulty | What to look for |
+| Tool | What it does | Why | Free/Paid | Difficulty | Look for |
 |---|---|---|---|---|---|
 | Luno | ZAR deposit/withdraw, spot buy/sell BTC/ETH/major alts | Primary SA fiat on-ramp | Free account, trading fees apply | Beginner | **[SA]** FSCA-licensed CASP; supports ZAR bank transfer; good BTC/ETH liquidity, limited altcoin range |
 | VALR | ZAR deposit/withdraw, spot + (newer) derivatives | SA-headquartered, broader asset range than Luno, often deeper liquidity | Free account, trading fees apply | Beginner–Intermediate | **[SA]** FSCA-licensed CASP since 2024; reported (Moneyweb, Oct 2025) as SA's first licensed crypto-derivatives issuer — verify current scope before using derivatives; check current fee schedule and available pairs |
