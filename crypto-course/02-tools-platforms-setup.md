@@ -111,6 +111,7 @@ The last category covers the tools around your actual trading, not the mechanics
 3. Understand network selection: when withdrawing, you must match the network (e.g., ETH via ERC-20 vs. SOL via native Solana) between sender and receiver — sending to the wrong network can permanently lose funds. Always send a small test amount first on any new wallet/exchange pairing.
 4. Practice a DEX swap: connect your wallet to a DEX (Jupiter for Solana, Uniswap for Ethereum), swap a small amount, and observe: the quoted price, the slippage-tolerance setting, the gas/fee estimate, and the final confirmation screen before signing.
 5. Practice disconnecting your wallet from a site (via the wallet's "connected sites" setting) — get in the habit of disconnecting after every session.
+6. Hardware wallet: not required for this phase's small test amounts, but decide now what threshold ("once my self-custody balance exceeds R___") triggers buying one (Ledger or Trezor, from the official site only) — you're not setting it up today, just fixing the number in advance so a hot-wallet-only habit doesn't quietly become permanent as balances grow.
 
 ## 5. Practical Exercises
 
