@@ -52,7 +52,7 @@ Charting and market-data tools exist because no single exchange interface gives 
 |---|---|---|---|---|---|
 | TradingView | Charting with your existing ICT toolkit (drawing tools, multi-timeframe) on BTC/ETH spot and futures feeds | Where you'll do all BTC/ETH ICT chart work | Free tier usable; paid unlocks more indicators/alerts | Beginner (you already know this from ICT) | Use exchange-native data feeds (e.g., Binance perp feed) for volume/OI-relevant work |
 | Exchange-native charts (Binance, Bybit) | Futures-specific data: funding, OI, liquidations directly on-chart | Needed for Module 8 | Free | Beginner | Cross-check numbers against a dedicated data site below |
-| CoinGecko / CoinMarketCap | Market cap, supply, volume, FDV across nearly every asset | Fast fundamental snapshot of any coin/token | Free | Beginner | Circulating vs. total vs. max supply — figures that mean genuinely different things (Module 3 defines each precisely) and are easy to confuse if you don't slow down and check which one a page is actually showing you |
+| CoinGecko / CoinMarketCap | Market cap, supply, volume, FDV across nearly every asset | Fast fundamental snapshot of any coin/token | Free | Beginner | Circulating vs. total vs. max supply are easy to confuse — check which one a page is actually showing (Module 3 defines each) |
 | Coinglass | Funding rates, open interest, liquidation heatmaps, long/short ratios | Core Module 8 data source | Free tier + paid | Intermediate | Aggregated-vs-single-exchange numbers can diverge — check which you're viewing |
 
 ### 3.4 Token discovery & DEX analytics (meme-coin core toolkit)
@@ -111,7 +111,7 @@ The last category covers the tools around your actual trading, not the mechanics
 3. Understand network selection: when withdrawing, you must match the network (e.g., ETH via ERC-20 vs. SOL via native Solana) between sender and receiver — sending to the wrong network can permanently lose funds. Always send a small test amount first on any new wallet/exchange pairing.
 4. Practice a DEX swap: connect your wallet to a DEX (Jupiter for Solana, Uniswap for Ethereum), swap a small amount, and observe: the quoted price, the slippage-tolerance setting, the gas/fee estimate, and the final confirmation screen before signing.
 5. Practice disconnecting your wallet from a site (via the wallet's "connected sites" setting) — get in the habit of disconnecting after every session.
-6. Hardware wallet: not required for this phase's small test amounts, but decide now what threshold ("once my self-custody balance exceeds R___") triggers buying one (Ledger or Trezor, from the official site only) — you're not setting it up today, just fixing the number in advance so a hot-wallet-only habit doesn't quietly become permanent as balances grow.
+6. Hardware wallet: not required for this phase's small test amounts, but decide now what threshold ("once my self-custody balance exceeds R___") triggers buying one (Ledger or Trezor, from the manufacturer or an authorized reseller only — never a marketplace listing) — you're not setting it up today, just fixing the number in advance so a hot-wallet-only habit doesn't quietly become permanent as balances grow.
 
 ## 5. Practical Exercises
 
@@ -218,7 +218,7 @@ You need **Competent** to move to Module 3.
 
 | Segment | Min | What to do |
 |---|---|---|
-| Review | 10 | Recall the network-matching risk from Module 1 Day 5/Module 2 §4. |
+| Review | 10 | Recall the network-matching risk from §4. |
 | Practical | 40 | Withdraw a small amount from your CEX to your self-custody wallet, double- and triple-checking the network matches before confirming. |
 | Practical | 40 | Connect your wallet to a DEX (Jupiter/Uniswap) and execute one small swap, observing quoted price, slippage setting, and fee before signing. Disconnect the wallet afterward. |
 | Exit assessment | 20 | Complete the Section 9 exit task in full. |
